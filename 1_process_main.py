@@ -1,3 +1,4 @@
+# original: https://github.com/marcoscardenasmancilla/Subtitles-QE_JP-EN-ES
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
