@@ -1,0 +1,13 @@
+metric,group1,group2,n_pairs,test,method,stat,pvalue,normal_shapiro_p,effect_size
+sbert_jap_en,ai,fansub,0,,insufficient_n,,,,
+sbert_jap_en,ai,official,0,,insufficient_n,,,,
+sbert_jap_en,fansub,official,0,,insufficient_n,,,,
+sbert_jap_sp,ai,fansub,0,,insufficient_n,,,,
+sbert_jap_sp,ai,official,0,,insufficient_n,,,,
+sbert_jap_sp,fansub,official,0,,insufficient_n,,,,
+comet_jap_en,ai,fansub,0,,insufficient_n,,,,
+comet_jap_en,ai,official,0,,insufficient_n,,,,
+comet_jap_en,fansub,official,0,,insufficient_n,,,,
+comet_jap_sp,ai,fansub,0,,insufficient_n,,,,
+comet_jap_sp,ai,official,0,,insufficient_n,,,,
+comet_jap_sp,fansub,official,0,,insufficient_n,,,,
