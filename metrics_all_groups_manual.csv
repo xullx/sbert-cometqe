@@ -1,0 +1,1024 @@
+time_stamp,group,sub_jap,sub_trad_en,sub_trad_sp,sbert_jap_en,sbert_jap_sp,comet_jap_en,comet_jap_sp
+00:48.8,ai,それでは,"Well then,","Bien,",0.891360342502594,0.9077980518341064,0.06644025444984436,-0.1396811157464981
+00:50.5,ai,ホームルームを始めます,Let's begin homeroom.,empezaremos la clase.,0.9257076382637024,0.5300703048706055,0.06263376772403717,-0.08626967668533325
+00:52.7,ai,日直の人は号令を,"Class monitor, give the command.","El encargado, por favor, dé la orden.",0.22380709648132324,0.6099977493286133,-0.5759016275405884,-0.25820985436439514
+00:54.9,ai,き…起立,St… stand.,¡Se… levanten!,0.5819594264030457,0.8845288157463074,-0.9239702820777893,0.14330491423606873
+01:00.1,ai,気を付け,Attention.,¡Atención!,0.7549595236778259,0.8109493255615234,0.14047783613204956,0.202046737074852
+01:05.0,ai,礼,Bow.,¡Saludad!,0.5262378454208374,0.8777432441711426,-0.38592007756233215,-0.3938423991203308
+01:09.7,ai,おはようございます,Good morning.,Buenos días.,0.9813265800476074,0.4819415211677551,0.29765406250953674,0.26929083466529846
+01:11.6,ai,発砲したままで結構ですので　出欠をとります,You may keep your weapons raised; I'll take attendance.,Pueden mantener las armas cargadas; tomaré la asistencia.,0.5265846252441406,0.6507265567779541,-0.5488443970680237,-0.5302966237068176
+01:15.2,ai,磯貝君,Isogai.,Isogai-kun.,0.7433658838272095,0.5099204182624817,-0.44965940713882446,-0.1792447417974472
+01:16.7,ai,はい,Yes.,Sí.,0.9201773405075073,0.9837301969528198,0.5176658034324646,0.5430672764778137
+01:18.0,ai,すみませんが　銃声の中なので　大きな声で,"Sorry — it's noisy with gunfire, so speak loudly.","Perdón, pero con los disparos de fondo, habla más fuerte.",0.828147828578949,0.8503116965293884,0.4312813878059387,-0.23115012049674988
+01:21.4,ai,はい,Yes.,Sí.,0.9201773405075073,0.9837301969528198,0.5176658034324646,0.5430672764778137
+01:22.3,ai,岡島君,Okajima.,Okajima-kun.,0.7239060997962952,0.7222787141799927,-0.13347332179546356,0.020939460024237633
+01:23.6,ai,はい,Yes.,Sí.,0.9201773405075073,0.9837301969528198,0.5176658034324646,0.5430672764778137
+01:24.3,ai,奥田さん,Okuda.,Okuda-san.,0.5463609099388123,0.5688773393630981,-0.1733655333518982,0.09763354063034058
+01:25.5,ai,はい,Yes.,Sí.,0.9201773405075073,0.9837301969528198,0.5176658034324646,0.5430672764778137
+01:26.3,ai,片岡さん,Kataoka.,Kataoka-san.,0.7144824266433716,0.640602171421051,-0.3116435706615448,0.0637158453464508
+01:27.4,ai,はい,Yes.,Sí.,0.9201773405075073,0.9837301969528198,0.5176658034324646,0.5430672764778137
+01:28.0,ai,茅野さん,Chino.,Chino-san.,0.6263060569763184,0.453016459941864,-0.6424277424812317,-0.029227539896965027
+01:28.9,ai,はい,Yes.,Sí.,0.9201773405075073,0.9837301969528198,0.5176658034324646,0.5430638790130615
+01:29.5,ai,神崎さん,Kanzaki.,Kanzaki-san.,0.7208827137947083,0.6973143815994263,-0.11472108960151672,0.24986521899700165
+01:30.5,ai,はい,Yes.,Sí.,0.9201773405075073,0.9837301969528198,0.5176658034324646,0.5430672764778137
+01:33.3,ai,はい　遅刻なしっと,Yes — no tardies.,"Bien, sin tardanzas.",0.49690765142440796,0.8499558568000793,-0.09822985529899597,0.13949671387672424
+01:36.0,ai,素晴らしい　先生　とてもうれしいです,"Wonderful. Teacher, I'm very pleased.","Excelente. Profesor, estoy muy contento.",0.9278619289398193,0.8909522891044617,0.45607390999794006,0.6104046702384949
+01:39.4,ai,速過ぎ,Too fast.,Demasiado rápido.,0.9793047904968262,0.9787968993186951,0.38003116846084595,0.36636602878570557
+01:40.9,ai,クラス一斉射撃で駄目なのかよ,Is a class-wide volley that hopeless?,¿No sirve disparar todos a la vez?,0.5706267356872559,0.7234900593757629,-0.3565109670162201,-0.4820626974105835
+01:43.5,ai,僕らは,We are,Nosotros somos…,0.9350437521934509,0.926459789276123,-0.7610640525817871,-0.4073083996772766
+01:45.0,ai,殺し屋,assassins.,asesinos.,0.848609983921051,0.9608265161514282,-0.36612850427627563,-0.45125553011894226
+01:46.5,ai,僕らのターゲットは,Our target is,Nuestro objetivo es…,0.9491439461708069,0.9035636782646179,-0.07229010760784149,-0.051012638956308365
+01:49.1,ai,先生,the teacher.,el profesor.,0.41060754656791687,0.598263680934906,-0.48778995871543884,-0.3680942952632904
+01:50.1,ai,残念ですねぇ,"That's unfortunate, isn't it.",Qué lástima.,0.7093304395675659,0.8609867095947266,0.24176745116710663,0.3876418471336365
+01:51.6,ai,今日も命中弾ゼロです,Zero hits again today.,Hoy tampoco hay impactos.,0.7162578701972961,0.5884972810745239,-0.1921364963054657,-0.3977607488632202
+01:54.0,ai,数に頼る戦術は　個々の思考を疎かにする,Tactics that rely on numbers neglect individual thinking.,La táctica de confiar en la cantidad descuida el pensamiento individual.,0.8545708656311035,0.7164433002471924,0.3505116105079651,-0.006544522941112518
+01:57.6,ai,目線　銃口の向き　指の動き,"Gaze, muzzle direction, finger movement.","La mirada, la dirección del cañón, el movimiento de los dedos.",0.7618880271911621,0.8219773769378662,-0.07420969009399414,0.3035357594490051
+02:01.4,ai,一人一人が単純過ぎます,Each one of you is too simple.,Cada uno es demasiado simple.,0.8413947820663452,0.9382146000862122,0.050008419901132584,0.2262704074382782
+02:04.0,ai,もっと工夫しましょう,Use more ingenuity.,Sean más ingeniosos.,0.6785619258880615,0.8150234222412109,0.13963370025157928,0.3130473792552948
+02:05.9,ai,でないと,Otherwise,Si no…,0.6137433648109436,0.7215355634689331,-0.7010089159011841,-0.7639765739440918
+02:07.4,ai,最高速度マッハ20の先生は　殺せませんよ,you won't be able to kill a teacher who can hit Mach 20.,no podrán matar al profesor que alcanza Mach 20.,0.7871811985969543,0.8060582876205444,-0.38536402583122253,-0.5265277624130249
+02:12.2,ai,いや　ていうかさ,"I mean, seriously—","O sea,",0.5423274040222168,0.7166159152984619,0.10228103399276733,0.00874288473278284
+02:14.4,ai,本当に全部よけてんのかよ　先生,"Are you really dodging everything, Sensei?","¿Realmente lo estás esquivando todo, profesor?",0.541303277015686,0.7221280932426453,-0.2084265798330307,-0.18991196155548096
+02:16.6,ai,どう見ても これ　ただのBB弾だろ,"From any angle, these are just BB pellets.",A todas luces esto son solo perdigones BB.,0.5878686904907227,0.6198577880859375,-0.23583275079727173,-0.5288209319114685
+02:19.8,ai,当たってるのに　我慢してるだけじゃないの,"They're hitting you — you're just holding back, aren't you?","Está siendo alcanzado pero solo lo toleras, ¿no?",0.5752067565917969,0.7318788170814514,-0.4423541724681854,-0.6716623902320862
+02:22.6,ai,そうよ　そうだよ,"Yeah, that's it.","Eso es, así es.",0.8128565549850464,0.855499267578125,0.22838431596755981,0.19093799591064453
+02:26.2,ai,では　弾を込めて渡しなさい,"Now, load the rounds and pass them along.","Entonces, carguen las balas y pásenlas.",0.49923503398895264,0.8663304448127747,-0.19336986541748047,-0.5016738176345825
+02:29.4,ai,言ったでしょう,"I told you, remember?",¿No les dije?,0.6926054358482361,0.5611605048179626,-0.3466261923313141,-0.5859021544456482
+02:31.0,ai,この弾は君たちにとっては無害ですが,"These rounds are harmless to you,","Estas balas son inofensivas para ustedes,",0.6800769567489624,0.887315034866333,-0.24260351061820984,0.4500143826007843
+02:36.6,ai,国が開発した対先生用特殊弾です,developed by the government specifically for use against Sensei.,son munición especial desarrollada por el país para usar contra el profesor.,0.3326563835144043,0.8267580270767212,-0.22356091439723969,-0.24700623750686646
+02:40.4,ai,当たれば　先生の細胞を豆腐のように破壊できる,"If they hit, they can destroy Sensei's cells like tofu.","Si impactan, pueden destrozar las células del profesor como tofu.",0.5692522525787354,0.8521953821182251,-0.45478853583335876,-0.6162436604499817
+02:45.0,ai,もちろん数秒あれば再生しますが,"Of course, he regenerates in a few seconds,","Claro, se regenerará en segundos,",0.6402302980422974,0.8024550676345825,0.191167414188385,0.25249338150024414
+02:48.5,ai,だが　君たちも目に入ると危ない,but if it gets in your eyes it's dangerous for you too.,pero si les entra a ustedes en los ojos es peligroso.,0.7281887531280518,0.8082689642906189,-0.49316081404685974,-0.5149916410446167
+02:52.2,ai,先生を殺す以外の目的で室内での発砲はしないように,Do not fire indoors for any purpose other than killing Sensei.,No disparen dentro del aula con otro fin que no sea matar al profesor.,0.5557589530944824,0.9056633710861206,0.29483991861343384,-0.026922956109046936
+02:57.5,ai,殺せるといいですね　卒業までに,Hopefully you'll be able to kill him before graduation.,Ojalá lo maten antes de graduarse.,0.8056740164756775,0.7502337098121643,-0.39411914348602295,-0.5204909443855286
+03:02.0,ai,さあ　銃と弾を片付けましょう,"Now, put away your guns and ammo.","Bien, guarden las armas y las balas.",0.7705336809158325,0.8140115737915039,0.2678557336330414,-0.2717381417751312
+03:04.8,ai,授業を始めます,Class will begin.,Empezaremos la clase.,0.8594251871109009,0.9300535321235657,0.41352376341819763,0.15047231316566467
+03:08.1,ai,椚ヶ丘中学校３-Eは　暗殺教室,"Kunugigaoka Middle School, Class 3-E: Assassination Classroom.",La clase 3-E de la escuela Kunugigaoka es… el aula de asesinato.,0.8035157322883606,0.7645571827888489,-0.04562120512127876,0.022630857303738594
+03:13.6,ai,始業のベルが　今日も鳴る,The starting bell rings again today.,Suena la campana; otro día comienza.,0.8442907333374023,0.877007246017456,0.23882976174354553,-0.1528487652540207
+04:56.5,ai,はい　ここで問題です,"All right, question time.","Bien, pregunta ahora.",0.5939089059829712,0.6589646339416504,0.019432218745350838,0.19307413697242737
+04:58.9,ai,磯貝君,Isogai.,Isogai-kun.,0.7433658838272095,0.5098106265068054,-0.44965940713882446,-0.1792447417974472
+05:00.3,ai,はい,Yes.,Sí.,0.9201773405075073,0.983729898929596,0.5176658034324646,0.5430672764778137
+05:01.2,ai,この4本の触手のうち　仲間外れは,Which of these four tentacles is the odd one out?,"De estos cuatro tentáculos, ¿cuál es el intruso?",0.6727640628814697,0.7065508365631104,-0.37462905049324036,-0.6027570962905884
+05:04.4,ai,ええと　青い触手,Um… the blue tentacle.,Eh… el tentáculo azul.,0.749168872833252,0.9114923477172852,-0.25263625383377075,-0.4358775317668915
+05:06.7,ai,正解　青の例文の「WHO」だけが関係詞です,"Correct. In the blue example, only ""WHO"" is a relative pronoun.","Correcto. En la frase azul, ""WHO"" es el único pronombre relativo.",0.9012995958328247,0.9343734383583069,-0.23894810676574707,-0.08959084749221802
+05:11.4,ai,関係代名詞は直前の名詞を修飾し,"A relative pronoun modifies the noun immediately before it,",El pronombre relativo modifica el sustantivo inmediatamente anterior,0.7229135036468506,0.746938943862915,-0.7431219220161438,-0.6723532676696777
+05:14.4,ai,ここでは「who is standing over there」が,"here, ""who is standing over there""","aquí ""who is standing over there""",0.9659776091575623,0.9558514952659607,-0.07860232889652252,-0.16560091078281403
+05:17.5,ai,前の「the boy」少年を説明しています,"describes the preceding ""the boy.""","describe al sustantivo anterior ""the boy"".",0.9271529316902161,0.8864107131958008,-0.2654198706150055,-0.4302816092967987
+05:12.2,ai,ねえ　渚,"Hey, Nagisa.","Oye, Nagisa.",0.6970676183700562,0.7044911980628967,0.21503154933452606,0.21984802186489105
+05:16.1,ai,昼間だけど　出てるね　三日月,"It's daytime, but the crescent moon is out.","Es de día, pero la media luna está ahí.",0.43867188692092896,0.5637305974960327,-0.5342487692832947,-0.7873504161834717
+05:21.4,ai,何で僕らがこんな状態になったのか,How did we end up like this?,Por qué estamos así…,0.870261013507843,0.8818729519844055,0.2994518280029297,0.19006304442882538
+05:25.5,ai,３年生の始め,"At the start of our third year,",A comienzos de tercero.,0.6815230846405029,0.7430005669593811,-0.32898375391960144,-0.39735886454582214
+05:27.4,ai,僕らは二つの事件に同時に遭った,we experienced two incidents at once.,Sufrimos dos incidentes al mismo tiempo.,0.8926400542259216,0.9278132915496826,0.553878128528595,0.5649949908256531
+05:45.8,ai,一つ目は　その日突然　月が爆発して三日月形になってしまったこと,The first was that the moon suddenly exploded and became a crescent.,Primero: ese día la luna explotó de repente y quedó en forma de media luna.,0.7891330718994141,0.9000241756439209,0.3279712200164795,0.26011601090431213
+05:55.2,ai,番組の途中ですが　ここで臨時ニュースです,We interrupt this program for breaking news.,Interrumpimos la programación con noticias de última hora.,0.527818500995636,0.5335748791694641,0.3134155571460724,0.35535430908203125
+05:58.3,ai,つい先ほど　月が７割方蒸発し　失われたとの情報が入りました,Just now we received reports that roughly 70% of the moon has evaporated and been lost.,Hace un momento llegó información: la luna se ha evaporado en un 70% y se ha perdido.,0.8795221447944641,0.9319473505020142,0.40386173129081726,0.09258164465427399
+06:04.5,ai,繰り返します,We repeat —,Repito:,0.8491525053977966,0.8213953971862793,0.28042641282081604,0.2034965455532074
+06:05.7,ai,われわれはもう一生三日月しか見られないということでしょうか,does this mean we'll only ever see a crescent moon for the rest of our lives?,¿Significa esto que solo veremos medias lunas por el resto de nuestras vidas?,0.46634024381637573,0.6045275926589966,0.09616632759571075,0.3338838815689087
+06:10.7,ai,そして　二つ目の事件が　これ,And the second incident is this:,Y el segundo incidente es esto:,0.8954727053642273,0.8984250426292419,0.6215760707855225,0.6441653966903687
+06:13.9,ai,初めまして　私が月をやった犯人です,Nice to meet you. I am the one who did the moon.,Mucho gusto. Yo soy el que destruyó la luna.,0.7827945947647095,0.8211697340011597,-0.5465551614761353,-0.6479413509368896
+06:20.9,ai,来年には　地球もやる予定です,I plan to do the Earth next year.,El próximo año planeo hacer lo mismo con la Tierra.,0.8880081176757812,0.917449951171875,-0.1750238686800003,0.27856969833374023
+06:23.5,ai,君たちの担任になったので　どうぞよろしく,"Since I'm your homeroom teacher now, pleased to meet you.",Soy su nuevo profesor; un gusto.,0.6508841514587402,0.6295357942581177,-0.15077771246433258,-0.06315155327320099
+06:28.1,ai,まず五六カ所ツッコませろ,"First, let me poke a few holes in that.","Primero, déjenme hacer unas cuantas aclaraciones.",0.6373332738876343,0.5662122368812561,-0.728691816329956,-0.2378251850605011
+06:30.4,ai,クラス全員　そう思った,The whole class thought so.,Toda la clase pensó lo mismo.,0.9410481452941895,0.885289192199707,0.43904805183410645,0.5838302969932556
+06:34.0,ai,防衛省の烏間という者だ,I'm a man named Kuruma from the Defense Ministry.,Soy Kuruma del Ministerio de Defensa.,0.7207205295562744,0.7001739740371704,-0.030651748180389404,-0.015675988048315048
+06:36.5,ai,まずは　ここからの話は国家機密だと理解いただきたい,"First, understand that what's about to be said is a state secret.",Entiendan que lo que diré es secreto de estado.,0.7865424156188965,0.7222689986228943,0.5284184813499451,0.6093555688858032
+06:43.7,ai,単刀直入に言う,I'll be blunt.,Iré al grano.,0.5277498960494995,0.5969406366348267,-0.8328176140785217,-0.8058591485023499
+06:45.8,ai,この怪物を君たちに殺してほしい,I want you to kill this creature.,Quiero que maten a este monstruo.,0.7779526114463806,0.8016915917396545,0.083719402551651,0.22774195671081543
+06:50.9,ai,えっと　何っすか,Uh… what?,Eh… ¿qué?,0.7746407985687256,0.8510973453521729,0.36357372999191284,0.2861889600753784
+06:53.9,ai,そいつ　攻めてきた宇宙人か何かっすか,Is that thing an alien invader or something?,¿Es un alienígena invasor o qué?,0.764461874961853,0.7711122035980225,-0.48731252551078796,0.06111161410808563
+06:56.4,ai,失礼な,How rude.,Qué falta de respeto.,0.7510659098625183,0.6744805574417114,0.15059836208820343,0.3326719105243683
+06:57.3,ai,生まれも育ちも地球ですよ,"It was born and raised on Earth, you know.","Nació y creció en la Tierra, ¿sabes?",0.8771798014640808,0.836966872215271,-0.5456207990646362,-0.41776007413864136
+07:00.2,ai,地球,Earth.,En la Tierra.,0.947971522808075,0.9077820777893066,-0.02553640305995941,-0.7573082447052002
+07:01.6,ai,詳しいことを話せないのは申し訳ないが,"Sorry I can't explain details, but","Lamento no poder dar más detalles,",0.5809546113014221,0.8694151639938354,0.4571377635002136,0.6177745461463928
+07:04.4,ai,こいつが言ったことは真実だ,what he says is true.,pero lo que él dice es verdad.,0.9396400451660156,0.9508092403411865,0.3910169303417206,0.5317928791046143
+07:06.8,ai,月を壊したこの生物は,The being that destroyed the moon,Esta criatura que destruyó la luna,0.8724106550216675,0.9523850679397583,-0.1420934945344925,-0.01926184818148613
+07:09.0,ai,来年の三月　地球をも破壊する,will destroy the Earth in March next year.,destruirá la Tierra en marzo del próximo año.,0.9271377325057983,0.949126124382019,-0.15324923396110535,0.2582094371318817
+07:14.3,ai,このことを知っているのは各国首脳だけ,Only world leaders know this.,Solo los líderes mundiales lo saben.,0.8547367453575134,0.8481042385101318,0.5314333438873291,0.5451339483261108
+07:18.1,ai,こいつの存在が公になれば　世界はパニックに陥るだろう,"If its existence became public, the world would panic.","Si su existencia se hace pública, el mundo entraría en pánico.",0.7528505325317383,0.8233716487884521,0.3700089156627655,0.4387318789958954
+07:23.2,ai,そうなる前に秘密裏にこいつを殺さなければならない,"Before that happens, we must secretly kill it.",Debemos matarlo en secreto antes de que eso ocurra.,0.8534941673278809,0.9357550740242004,0.018627023324370384,0.028956659138202667
+07:27.7,ai,つまり　暗殺だ,In other words: assassination.,Es decir: asesinato.,0.8881055116653442,0.9416108727455139,0.3538832664489746,0.3019302785396576
+07:30.4,ai,だが　こいつは…,"However, this thing…",Pero este ser…,0.6670613288879395,0.7357179522514343,0.10897661745548248,-0.42690810561180115
+07:31.9,ai,とにかく速い,is unbelievably fast.,es extremadamente rápido.,0.6896466612815857,0.792369544506073,-0.06488664448261261,0.3871673345565796
+07:33.4,ai,殺すどころか,"Far from being killable,","Ni siquiera matarlo,",0.7258996963500977,0.8014848828315735,-0.663135826587677,-1.144577980041504
+07:35.4,ai,眉毛の手入れをされている始末だ,it's grooming its eyebrows while we're at it.,terminó arreglándole las cejas (mientras lo atacaban).,0.7919433116912842,0.4604184031486511,-0.5037182569503784,-0.3635459840297699
+07:38.0,ai,丁寧にな,Very polite about it.,Con delicadeza.,0.5851901769638062,0.7301741242408752,-0.2842205762863159,-0.3136289119720459
+07:41.8,ai,満月を三日月に変えるほどのパワーを持つ超生物だ,It's a super-being with power enough to turn a full moon into a crescent.,Es un superser con poder suficiente para convertir luna llena en media luna.,0.780608594417572,0.7951366305351257,0.12518979609012604,-0.23915603756904602
+07:45.9,ai,最高速度はマッハ20,Its top speed is Mach 20.,Su velocidad máxima es Mach 20.,0.6079598665237427,0.6505825519561768,0.46477121114730835,0.6090660691261292
+07:48.4,ai,つまり　こいつが本気で逃げれば,"So if it really tries to escape,","Es decir, si se esfuerza por huir,",0.5794129371643066,0.8642407655715942,-0.673455536365509,-0.3237616717815399
+07:51.5,ai,われわれは破滅の時まで　手も足も出ない,we won't be able to stop it until the end of the world.,no podremos alcanzarlo jamás.,0.7090396881103516,0.5939156413078308,-0.36279574036598206,-0.796695351600647
+07:55.9,ai,まあ　それでは面白くないのでね,"Well, that wouldn't be interesting, so—","Pero eso sería aburrido, así que…",0.80817711353302,0.6788167357444763,-0.08463722467422485,0.11028233170509338
+07:58.6,ai,私から国に提案したのです,I made a proposal to the government.,propuse algo al gobierno.,0.7742993235588074,0.6531285047531128,0.38954445719718933,0.30366310477256775
+08:01.2,ai,殺されるのはごめんですが,"I don't want to be killed myself, but","No quiero que me maten,",0.5739359855651855,0.5883619785308838,-0.5814277529716492,-0.13250963389873505
+08:03.5,ai,椚ヶ丘中学校　3年E組の担任ならやってもいいと,I'd be willing to be the homeroom teacher of Kunugigaoka Middle School's 3-E.,pero acepté ser profesor de la 3-E de Kunugigaoka.,0.6044826507568359,0.5198004841804504,-0.2676440179347992,-0.5305957794189453
+08:08.1,ai,いや　なんで,"Wait, why?",¿Por qué?,0.683808445930481,0.8226081728935242,0.4583911597728729,0.4369644224643707
+08:09.5,ai,こいつの狙いは分からん,We don't know its motives.,No sabemos cuál es su objetivo.,0.5433871746063232,0.6528657078742981,-0.0022713206708431244,0.3066331446170807
+08:11.7,ai,しかし　われわれ政府は,"However, our government","Sin embargo, nosotros en el gobierno",0.9030381441116333,0.9276646971702576,0.3111273944377899,0.020948581397533417
+08:13.6,ai,君たち生徒に危害を加えないことを条件にやむなく承諾した,reluctantly agreed on the condition it wouldn't harm you students.,aceptamos con reserva con la condición de no dañar a los alumnos.,0.8344669938087463,0.8706436157226562,-0.06281578540802002,0.05328582227230072
+08:18.9,ai,理由は二つ,There are two reasons.,Hay dos razones.,0.9489532709121704,0.9678956270217896,0.6813766956329346,0.5537323951721191
+08:20.4,ai,教師として毎日教室に来るのなら　監視ができる,"If it comes to class every day as a teacher, we can monitor it.","Si viene a clase todos los días como profesor, podemos vigilarlo.",0.9128530025482178,0.8811945915222168,-0.13581649959087372,0.033008843660354614
+08:24.2,ai,何よりも,And more importantly—,"Y, sobre todo,",0.6558504104614258,0.8148345351219177,0.20386125147342682,0.042959269136190414
+08:25.9,ai,30人もの人間が　至近距離からこいつを殺すチャンスを得る,thirty people get a chance to kill it from close range.,treinta personas tendrían la oportunidad de matarlo desde muy cerca.,0.9027591347694397,0.9046079516410828,-0.2453351616859436,-0.23854345083236694
+08:33.4,ai,中村さん,Nakamura.,Nakamura-san.,0.6102017760276794,0.5834060907363892,-0.1958898901939392,0.1220918744802475
+08:35.4,ai,暗殺は勉強の妨げにならないときにと言ったはずです,I said assassinations should not interfere with studies.,Dije que el asesinato no debe interferir con los estudios.,0.8042776584625244,0.8781172633171082,0.058046605437994,0.09683728218078613
+08:39.0,ai,すみません,Sorry.,Lo siento.,0.8918251991271973,0.8888728618621826,0.3273327648639679,0.48672202229499817
+08:40.1,ai,罰として後ろで立って受講しなさい,"As punishment, stand at the back and observe class.","Como castigo, quédate de pie atrás durante la clase.",0.7484608888626099,0.8086581826210022,0.1210830956697464,0.23568108677864075
+08:44.0,ai,なんでこんな怪物がうちの担任に,Why did a monster like this become our teacher?,¿Por qué un monstruo así es nuestro profesor?,0.6505734920501709,0.6749838590621948,0.24205712974071503,0.29215386509895325
+08:47.0,ai,どうして僕らが暗殺なんか…,Why are we supposed to assassinate…,¿Por qué tenemos que asesinar?,0.9218824505805969,0.8962497115135193,-0.09612233936786652,0.031059630215168
+08:49.7,ai,そんな声は　この条件でかき消えた,Those protests were drowned out by the terms.,Esa protesta se apagó con las condiciones impuestas.,0.5119675397872925,0.5046119689941406,-0.04984568431973457,0.10578235983848572
+08:53.8,ai,成功報酬は100億円,The success reward is 10 billion yen.,La recompensa por el éxito es de 10 mil millones de yenes.,0.4920029938220978,0.509576678276062,0.531558096408844,0.5702635645866394
+08:57.4,ai,当然の額だ,A natural amount.,Una suma justa.,0.5680029988288879,0.6394633054733276,-0.1801522672176361,0.3251372277736664
+08:59.6,ai,暗殺の成功は冗談抜きで地球を救うことなのだから,Succeeding in the assassination literally saves the Earth.,"Porque matar al objetivo significaría, sin broma, salvar la Tierra.",0.8200767040252686,0.8280888199806213,-0.4390212893486023,-0.02600540593266487
+09:04.6,ai,幸いなことに　こいつは君たちをなめきっている,"Fortunately, it underestimates you.","Afortunadamente, este tipo subestima a ustedes.",0.3092585802078247,0.5761827826499939,-0.5406780242919922,-0.07597629725933075
+09:08.3,ai,見ろ　緑のしましまになったときは　なめている顔だ,"Look — when its stripes turn green, that's a face of mockery.","Miren, cuando su cara se torna rayada de verde, está despreciándolos.",0.7479037642478943,0.8735959529876709,-0.5422362089157104,-0.6975011825561523
+09:12.0,ai,どんな皮膚だよ,What kind of skin is that?,Qué tipo de piel es esa…,0.9254342913627625,0.9565557241439819,0.4590584635734558,0.5387025475502014
+09:13.1,ai,当然でしょう,Naturally.,Naturalmente.,0.6688408851623535,0.9804308414459229,0.36454877257347107,0.44130614399909973
+09:14.7,ai,国がやれない私を　君たちがやれるわけがない,"If the country couldn't do it, you certainly can't.","Si el país no pudo, menos aún ustedes podrían.",0.7600319385528564,0.6253121495246887,-0.3711581528186798,
+09:18.5,ai,最新鋭の戦闘機に襲われた時も,"Even when attacked by the latest fighter jets,","Incluso cuando fue atacado por cazas de última generación,",0.8051244020462036,0.5731631517410278,0.027255438268184662,-0.03622370585799217
+09:29.2,ai,逆に空中でワックスをかけてやりましたよ,it was waxing itself midair.,él me dio una manicura en pleno aire.,0.7005417346954346,0.6623441576957703,-0.8176558613777161,-0.28138360381126404
+09:32.1,ai,だからなぜ手入れする,So why is it grooming itself?,"Entonces, ¿por qué lo arregla?",0.4580237865447998,0.7773793339729309,-0.4759426414966583,-0.6230420470237732
+09:34.1,ai,君たちにはなめているこいつの隙をあわよくば突いてほしい,I want you to exploit any opening where it underestimates you.,Quiero que aprovechen cualquier descuido de ese que los desprecia.,0.3316793739795685,0.44440925121307373,-0.7126117944717407,-0.8932106494903564
+09:38.9,ai,人間には無害で　こいつには効く武器と弾を支給する,We'll supply weapons and rounds that are harmless to humans but effective on it.,Les daremos armas y balas que son inofensivas para humanos pero eficaces contra él.,0.7954269051551819,0.8331857919692993,0.12178686261177063,0.08259531855583191
+09:43.6,ai,君たちの家族や友人には絶対秘密だ,Keep this absolutely secret from family and friends.,Esto debe permanecer absolutamente en secreto para sus familias y amigos.,0.7765570282936096,0.7354569435119629,0.634670078754425,0.6256467700004578
+09:47.2,ai,とにかく時間がない,"In any case, there's no time.",No hay tiempo.,0.8937832713127136,0.9526591300964355,-0.018714457750320435,0.369758665561676
+09:49.0,ai,地球が消えれば　逃げる場所など　どこにもない,"If Earth is gone, there will be nowhere to run.","Si la Tierra se destruye, no habrá lugar a donde huir.",0.8449262976646423,0.8737918138504028,0.1293017864227295,0.3123845160007477
+09:52.9,ai,そういうことです,That's the situation.,Eso es todo.,0.7336528301239014,0.8686951994895935,-0.09286700189113617,0.12140491604804993
+09:54.6,ai,さあ　皆さん　残された1年を有意義に過ごしましょう,"Now then, spend the remaining year meaningfully.","Bien, pasen el año que les queda de manera significativa.",0.7737793922424316,0.7525660395622253,0.304813027381897,-0.1321972906589508
+10:02.1,ai,残された時間は1年,The time left is one year.,Les queda un año.,0.8334484696388245,0.8839497566223145,0.6358408331871033,0.4714171290397644
+10:04.7,ai,僕たちがこいつの暗殺に成功しないと,"If we don't succeed in assassinating it,","Si no logramos asesinarlo,",0.7505578994750977,0.8743489980697632,-0.4290715157985687,-0.3712743818759918
+10:08.3,ai,地球が壊される,the Earth will be destroyed.,la Tierra será destruida.,0.867834210395813,0.8984442353248596,-0.22951513528823853,0.30631229281425476
+10:16.9,ai,昼休みですね,It's lunch break.,Es hora del recreo.,0.9016726016998291,0.3988308310508728,0.04867115616798401,0.1665593683719635
+10:18.8,ai,先生　ちょっと中国に行ってマーボー豆腐を食べてきます,"Teacher, I'm going to China for a bit to eat mapo tofu.","Profesor, voy a China un momento a comer mapo tofu.",0.805706799030304,0.8776110410690308,-0.04686102643609047,-0.03313490003347397
+10:23.5,ai,暗殺希望者がもしいれば　携帯で呼んでください,"If anyone wants to attempt an assassination, call me on your cell.","Si alguien quiere intentar el asesinato, llámenme al móvil.",0.8800439834594727,0.9008932113647461,0.23045243322849274,0.4560549855232239
+10:29.9,ai,えーと　マッハ20だから,"Um, it's Mach 20, so—",Eh… porque va a Mach 20.,0.5185730457305908,0.5620145201683044,-0.12998469173908234,-0.093256875872612
+10:33.0,ai,マーボーの本場　四川省まで10分くらい,"The mapo capital, Sichuan, is about ten minutes away.","Tardaría como 10 minutos en ir a Sichuan, la cuna del mapo.",0.7224462628364563,0.8010464906692505,0.02519162744283676,0.05038547143340111
+10:36.7,ai,確かにあんなもん　ミサイルでも落とせんわな,"Indeed, you can't take something like that down with missiles.","Cierto, ni un misil podría con eso.",0.8471190929412842,0.7217210531234741,-0.40082141757011414,-0.7579882144927979
+10:40.5,ai,しかも　あのタコ　音速飛行中にテストの採点までしてるんだぜ,And that octopus grades tests even while flying at supersonic speed.,"Además, ese pulpo corrige exámenes mientras vuela a velocidad supersónica.",0.6998345851898193,0.754851758480072,-0.14520718157291412,-0.2555597126483917
+10:44.7,ai,マジで,Seriously.,En serio.,0.713179886341095,0.8635175824165344,0.3498421311378479,0.5076881647109985
+10:46.0,ai,俺なんかイラスト付きで返ってきた,Mine came back with illustrations.,A mí me devolvió el examen con ilustraciones.,0.5468381643295288,0.5825843214988708,-0.029758751392364502,-0.30143627524375916
+10:48.5,ai,てか　あいつ　何げに教えてるの　うまくない,"By the way, he's actually pretty good at teaching.","Y en realidad, da clase sorprendentemente bien.",0.5803125500679016,0.37973544001579285,-0.22922338545322418,-0.18930843472480774
+10:51.3,ai,わかる,I know.,Sí.,0.7893640398979187,0.8115096092224121,-0.061377521604299545,0.13751985132694244
+10:52.4,ai,放課後に数学教わって　次のテストの点　よかったもん,I got math help after school and did better on the next test.,Me enseñó matemáticas después de clase y me fue mejor en el examen.,0.847946047782898,0.8305352330207825,0.041475582867860794,-0.18365666270256042
+10:56.9,ai,まっ　でもさ,"Still,","Bueno, pero",0.6595168709754944,0.9162713289260864,-0.34924784302711487,0.3518812656402588
+10:59.6,ai,しょせん俺ら　E組だしな,we're after all Class E.,al fin y al cabo somos la clase E.,0.2860059142112732,0.31153953075408936,-0.1367638111114502,-0.1386350393295288
+11:02.3,ai,頑張っても仕方ねぇけど,"Even if we try, it might not help.","No tiene sentido esforzarse, supongo.",0.4795052111148834,0.6741459965705872,-0.31912940740585327,0.05526180565357208
+11:05.1,ai,そう　タコ型の超生物で暗殺のターゲット,Yeah — an octopus-like super-being is our assassination target.,Sí: un superser con forma de pulpo es nuestro objetivo.,0.7935055494308472,0.5939280986785889,-0.012408820912241936,0.06850811839103699
+11:10.1,ai,なのに,Yet,"Y sin embargo,",0.6577655673027039,0.7469513416290283,-0.1789417266845703,-0.3317786753177643
+11:11.6,ai,あの先生はなぜか普通に先生している,that teacher somehow just acts like a normal teacher.,ese profesor actúa como un profesor normal.,0.8992310762405396,0.9143521785736084,0.07700984179973602,0.2733802795410156
+11:15.9,ai,僕らも同じ　即席の殺し屋であるのを除けば　普通の生徒だ,"We're normal students, except that we're amateur assassins.","Nosotros también somos estudiantes normales, salvo que somos asesinos improvisados.",0.810547947883606,0.927541971206665,0.2684036195278168,0.41217270493507385
+11:21.8,ai,けど　僕らE組は　少しだけ普通と違う,But Class E is a little different from normal.,Pero la clase E es un poco distinta al resto.,0.5658473372459412,0.6444195508956909,0.3015274703502655,0.5281944274902344
+11:29.1,ai,おい　渚,"Hey, Nagisa.","Oye, Nagisa.",0.7722886800765991,0.7269465923309326,0.006251605227589607,-0.11203527450561523
+11:31.3,ai,ちょっと付き合えよ,Come with me for a bit.,Vente conmigo un momento.,0.7211000323295593,0.8314537405967712,0.11396323144435883,0.24637886881828308
+11:32.9,ai,暗殺の計画　進めようぜ,Let's move the assassination plan forward.,Avancemos con el plan de asesinato.,0.8302098512649536,0.9075132012367249,0.39228111505508423,0.23835980892181396
+11:39.9,ai,あのタコ　機嫌によって顔の色が変わるだろ,"That octopus changes facial color depending on its mood, right?",Ese pulpo cambia el color de su cara según su humor.,0.6611181497573853,0.8593207597732544,0.32762497663497925,0.21304593980312347
+11:43.9,ai,観察しとけって言ったやつ　できてるか,Did the person I told to observe do it?,"¿El que dijo ""obsérvalo"", lo hizo?",0.6379978060722351,0.7678636312484741,-0.682381808757782,-0.5244627594947815
+11:47.2,ai,一応,Sort of.,Más o menos.,0.743017315864563,0.8444567322731018,-0.019497070461511612,-0.3052263855934143
+11:48.8,ai,余裕な時は　緑のしましまなのは知ってるよね,"You know when it's relaxed, it's green-striped, right?","Sabemos que cuando está relajado tiene rayas verdes, ¿no?",0.6492785215377808,0.7235522270202637,-0.770789623260498,-0.5835005640983582
+11:53.3,ai,生徒の解答が間違っていたら暗い紫,"If a student's answer is wrong, it's dark purple.","Si un alumno se equivoca, su color es púrpura oscuro.",0.908137321472168,0.9090087413787842,-0.30253371596336365,-0.23396572470664978
+11:57.1,ai,正解だったら明るい朱色,"If correct, a bright vermilion.","Si aciertan, se pone rojo brillante.",0.5537974834442139,0.6228065490722656,-0.18763378262519836,-1.0857192277908325
+12:00.0,ai,面白いのは昼休みの後で…,The interesting part is after lunch…,Lo interesante es después del recreo…,0.8836726546287537,0.5608224868774414,0.1210605800151825,-0.020364612340927124
+12:02.1,ai,俺は知らなくていいんだよ,I don't need to know.,No necesito saberlo.,0.7739250063896179,0.7965941429138184,0.0626831203699112,0.4437868893146515
+12:05.0,ai,作戦がある,I have a plan.,Tengo un plan.,0.6188550591468811,0.6474487781524658,0.19882524013519287,0.2177305370569229
+12:06.8,ai,あいつが一番油断してる顔の時に　お前がやりに行け,Go for it when it's showing its most careless expression.,Ve cuando tenga la cara más despreocupada y tú atácale.,0.613023579120636,0.8592339754104614,-0.6710777878761292,-1.0492169857025146
+12:11.6,ai,ぼ…僕が,M-me?,Y-yo…,0.5986007452011108,0.6099178791046143,-0.46868348121643066,-0.0985366553068161
+12:13.2,ai,でも…,But…,Pero…,0.9491242170333862,0.9774165749549866,0.6972348093986511,0.8171780109405518
+12:13.8,ai,いい子ぶってんじゃねえよ,Don't act like a goody-two-shoes.,Deja de hacerte el buen chico.,0.5728320479393005,0.6341157555580139,-1.005162239074707,-0.23694658279418945
+12:16.0,ai,俺らはE組だ,We're Class E.,Somos la clase E.,0.571812093257904,0.6545916199684143,0.43009212613105774,0.5213639140129089
+12:17.9,ai,進学校で有名なこの学校のレベルについていけなかった脱落組,We're the dropouts who couldn't keep up at this prestigious school.,Somos los rezagados que no pudieron seguir el ritmo de esta prestigiosa escuela.,0.6937863826751709,0.7347904443740845,-0.40045619010925293,-0.5150174498558044
+12:23.0,ai,通称　エンドのE組,"Commonly known as the ""End"" — Class E.",Conocidos como la clase E del fin.,0.745890736579895,0.5745669603347778,-0.43868449330329895,-0.6311618685722351
+12:27.7,ai,毎日山の上の隔離校舎まで通わされて,"We're forced to commute every day to the isolated campus on the hill,",Nos obligan a ir cada día al edificio aislado en la cima.,0.684138834476471,0.675216555595398,-0.03215987607836723,-0.13357959687709808
+12:31.3,ai,あらゆる面でカスみたいに差別されてる,and discriminated against in every way like trash.,Somos discriminados en todo aspecto.,0.8083896040916443,0.8247044682502747,-0.503894031047821,0.2774754464626312
+12:35.2,ai,落ちこぼれの俺らが100億円稼ぐチャンスなんて,A chance for us dropouts to earn 10 billion yen,"Una oportunidad de ganar 10 mil millones no volverá para nosotros, los fracasados.",0.5540882349014282,0.7083289623260498,-0.08407948911190033,-0.6084949374198914
+12:38.7,ai,この先　一生回ってこねえぞ,will never come around again in our lives.,No nos va a volver a ocurrir en la vida.,0.3729822337627411,0.4790927767753601,-1.0058765411376953,-1.0443028211593628
+12:41.9,ai,抜け出すんだよ　このクソみてえな状況から,Get out of this shitty situation.,Hay que escapar de esta situación de mierda.,0.7935070395469666,0.7523586750030518,0.14589636027812958,0.11794762313365936
+12:46.4,ai,たとえ　どんな手を使ってもな,By any means necessary.,Aunque sea por cualquier medio.,0.47173240780830383,0.675877571105957,0.05726400390267372,0.014587484300136566
+12:51.0,ai,しくじんなよ　渚君,"Don't screw up, Nagisa.","No la cagues, Nagisa.",0.5946168899536133,0.6681607961654663,-0.47418704628944397,-0.6421851515769958
+12:54.7,ai,渚のやつ　E組行きだってよ,Nagisa's been sent to Class E.,Dicen que mandaron a Nagisa a la clase E.,0.32369253039360046,0.40536001324653625,-0.2822403311729431,-0.4533349275588989
+12:58.9,ai,終わったな　あいつ,That's it for him.,Se jodió.,0.628147542476654,0.6192755699157715,-0.395229697227478,-0.3420916497707367
+13:01.2,ai,俺　あいつのアドレス消すわ,I'm deleting his contact.,Voy a borrar su contacto.,0.8325320482254028,0.7561310529708862,-0.2442973554134369,-0.26247334480285645
+13:03.5,ai,俺も,Me too.,Yo también.,0.8909975290298462,0.9518156051635742,0.5652041435241699,0.6567896008491516
+13:04.4,ai,同じレベルだと思われたくないし,I don't want to be thought of as on the same level.,No quiero que me comparen con él.,0.7835360765457153,0.6064737439155579,-0.14009276032447815,0.11613503098487854
+13:15.9,ai,ただ今　帰りました,I'm back.,Acabo de volver.,0.7257144451141357,0.8632655143737793,-0.27865609526634216,0.249842569231987
+13:17.4,ai,お…　おかえり　先生,"O-oh, welcome back, Sensei.","B-bienvenido de nuevo, profesor.",0.5219690203666687,0.7291157245635986,0.3498786389827728,0.006176506169140339
+13:20.1,ai,どうしたの　そのミサイル,What's with that missile?,"¿Qué es eso, ese misil?",0.9553724527359009,0.6696808934211731,0.22891606390476227,-0.20361682772636414
+13:22.2,ai,お土産です,It's a souvenir.,Un souvenir.,0.8680808544158936,0.8804737329483032,-0.1108005940914154,0.05662500858306885
+13:23.4,ai,日本海で　自衛隊に待ち伏せされまして,I was ambushed by the Self-Defense Forces in the Sea of Japan.,Me tendieron una emboscada las Fuerzas de Autodefensa en el Mar de Japón.,0.8455570340156555,0.8738967180252075,-0.03932508826255798,-0.14832496643066406
+13:26.5,ai,た…　大変ですね　ターゲットだと,Th-that's terrible if you're a target.,"Q-qué grave, si eras el objetivo.",0.5947218537330627,0.7385485172271729,-0.6268043518066406,-0.6708478331565857
+13:29.4,ai,いえいえ　皆から狙われるのは力を持つ者の証しですから,"No, no — being targeted by everyone is proof of power.","No, ser blanco de todos es señal de tener poder.",0.8314140439033508,0.6876303553581238,-0.06552961468696594,-0.21422038972377777
+13:34.8,ai,さっ　5時間目を始めますよ,"Now then, let's start fifth period.","Bien, empezaremos la quinta hora.",0.6734402179718018,0.9093180894851685,0.12486955523490906,-0.02595624327659607
+13:41.9,ai,はい,Yes.,Sí.,0.9201773405075073,0.9837301969528198,0.5176658034324646,0.5430672764778137
+13:43.9,ai,先生には　分からないよね,"You wouldn't understand, Sensei.","El profesor no lo entiende, ¿verdad?",0.48419222235679626,0.8380529880523682,-0.16366484761238098,0.32744601368904114
+13:46.6,ai,みんなから　暗殺のターゲットにされるってことは,Being the target of everyone's assassination attempts,Ser objetivo de intentos de asesinato por parte de todos,0.8523339629173279,0.850388765335083,-0.0790543258190155,-0.13838469982147217
+13:49.9,ai,裏を返せば　みんなに力を認められているってことだ,on the flip side means everyone acknowledges your strength.,implica que todos reconocen tu poder.,0.7254487872123718,0.7640722393989563,0.03710663318634033,-0.009353835135698318
+13:55.1,ai,分からないよね　そんな怪物に,You wouldn't understand the feelings of someone who is no longer expected or feared by such a monster…,No lo entendería esa criatura.,0.5491273403167725,0.7428954839706421,-0.2655692398548126,-0.5424449443817139
+13:58.3,ai,期待も警戒もされなくなった　認識さえされない人間の気持ちなんて…,"the feelings of a person who is no longer expected, watched, or even recognized…",Lo que siente una persona ignorada — sin expectativas ni vigilancia — es…,0.7654650211334229,0.787118136882782,-0.12515871226787567,-0.33253175020217896
+14:06.5,ai,お前のおかげで　俺の評価まで　落とされたよ,Because of you my reputation dropped too.,"Por tu culpa, hasta mi reputación ha caído.",0.7183793783187866,0.7201629281044006,0.17293359339237213,0.28134164214134216
+14:10.3,ai,唯一　よかったのは　もうお前を見ずに済むことだ,The only good thing is I don't have to see you anymore.,La única ventaja es no tener que verte más.,0.7169493436813354,0.7933849692344666,-0.17368748784065247,-0.01658785343170166
+14:19.6,ai,殺せるかもしれない,Maybe I could kill him.,Puede que pueda matarlo.,0.8377140760421753,0.9279599189758301,-0.16355493664741516,-0.16994135081768036
+14:21.6,ai,だって　この先生にも僕の姿は　見えてないから,"After all, this teacher can't even see me.",Porque este profesor tampoco puede verme.,0.848729133605957,0.8432796597480774,-0.233347088098526,-0.3065132796764374
+14:36.5,ai,はい　それでは　お題に沿って短歌を作ってみましょう,"All right then, let's compose a tanka following the theme.","Bien, ahora compongan un tanka acorde al tema.",0.6536573767662048,0.5874559879302979,0.2873212993144989,0.07715020328760147
+14:41.6,ai,ラスト７文字を「触手なりけり」で締めてください,"End the last seven syllables with ""shokushu narikeri"" (""…are tentacles"").","Terminen los últimos siete caracteres con ""触手なりけり"" (ser tentáculos).",0.5160893201828003,0.5985699892044067,-0.6309482455253601,-0.6667869091033936
+14:46.6,ai,「触手なりけり」ですか,"""…are tentacles,"" huh?","¿""触手なりけり""?",0.5455003380775452,0.9687780737876892,-0.7138292193412781,0.18778586387634277
+14:48.9,ai,はい　書けた人は先生の所へ持ってきなさい,"Yes. Those who finished, bring them to Sensei.","Sí. Quien lo haya escrito, tráigalo al profesor.",0.3972061276435852,0.8952227234840393,-0.13174866139888763,-0.6883665323257446
+14:52.7,ai,チェックするのは　文法の正しさと触手を美しく表現できたか,I'll check for grammatical correctness and whether the tentacles were expressed beautifully.,Verificaré la gramática y si logran expresar la belleza de los tentáculos.,0.6814302802085876,0.7634854316711426,0.19644464552402496,-0.01504257321357727
+14:58.2,ai,例文です,Here's an example.,Ejemplo:,0.6808686256408691,0.3102092444896698,0.4582977592945099,0.7307384014129639
+14:59.8,ai,花さそふ　嵐の庭の雪ならではえゆくものは触手なりけり,"Flower-inviting / In the storm-garden's snow, what departs is / indeed tentacles.","Invitando flores, la nieve del jardín tempestuoso — lo que se va es un tentáculo.",0.7350512742996216,0.9181472063064575,-1.1795152425765991,-1.25304114818573
+15:08.2,ai,「触手だったのだなぁ」って…,"Like, ""So it was tentacles, huh…""","""¡Ah, era un tentáculo...""",0.7086078524589539,0.8701779842376709,-0.3675600588321686,-0.08974356949329376
+15:10.5,ai,できた者から　今日は　帰ってよし,Those who finish may go home today.,Los que lo terminen pueden irse a casa hoy.,0.7131024599075317,0.7599680423736572,-0.21568602323532104,-0.283780038356781
+15:13.3,ai,そんなの思い付かないよ,I can't think of anything like that.,No se me ocurre nada así.,0.7000025510787964,0.7897377014160156,-0.34176474809646606,-0.2238921821117401
+15:15.3,ai,ほーら　ほら　ヌルヌル　素晴らしい句が湧いてきませんか,"Come on, slime, won't a wonderful verse rise up?","Venga, venga, ¿no les surge un verso resbaladizo y magnífico?",0.5263787508010864,0.6892184615135193,-0.5189917683601379,-0.1550036072731018
+15:19.3,ai,ヌルヌルヌルヌルヌルヌル…,Slime slime slime slime slime…,"Resbaloso, resbaloso…",0.6467268466949463,0.8136368989944458,-0.6279478073120117,-0.5953924655914307
+15:21.9,ai,ヌルヌル　うるせえよ,Shut up with the slime.,"""Resbaloso"", cállate.",0.5400315523147583,0.7670032382011414,-0.6254071593284607,-0.41883260011672974
+15:23.5,ai,先生　質問,"Teacher, question.","Profesor, pregunta.",0.6167230010032654,0.7577651739120483,0.06771393120288849,0.4340488910675049
+15:26.1,ai,何ですか　茅野さん,Yes? Chino?,"¿Sí, Chino?",0.47457438707351685,0.5567383170127869,-0.3538687825202942,-0.138490229845047
+15:28.1,ai,いまさらなんだけどさ　先生の名前　何ていうの,"It's late to ask, but what's your name, Sensei?","Es tarde, pero ¿cómo se llama el profesor?",0.5192515850067139,0.8371074199676514,-0.07863982021808624,-0.3130835294723511
+15:32.9,ai,他の先生と区別するとき不便だよ,It's inconvenient when distinguishing from other teachers.,Es incómodo distinguirlo de otros profesores.,0.9193943738937378,0.8576712012290955,0.17438286542892456,0.06117628887295723
+15:35.8,ai,名前…　ですか,A name… huh?,Un nombre... ¿eh?,0.8623284101486206,0.8916168212890625,0.130854994058609,0.25942176580429077
+15:38.0,ai,そういやぁ…,Now that you mention it…,Ahora que lo dices...,0.5658854246139526,0.7798238396644592,0.11923235654830933,-0.15466387569904327
+15:39.2,ai,名乗ってないね,I haven't introduced myself.,No se ha presentado.,0.6225377917289734,0.696727991104126,-0.5792673826217651,-0.6299520134925842
+15:41.9,ai,名乗るような名前はありませんねぇ,There's no name worth announcing.,No tiene un nombre digno de presentarse.,0.758375346660614,0.8028901815414429,-0.11517974734306335,-0.02551199495792389
+15:44.4,ai,何なら　皆さんで　付けてください,"If you like, you may give me one.","Si quieren, pónganle uno ustedes.",0.5951509475708008,0.7762548327445984,-0.5443565249443054,-0.2673072814941406
+15:46.8,ai,付けていいんだ,We can name you?,¿Podemos ponerle nombre?,0.432804137468338,0.3966769576072693,-0.989834725856781,-0.4290432631969452
+15:48.1,ai,でも　今は　課題に集中ですよ,"But for now, focus on the assignment.",Pero ahora concéntrense en la tarea.,0.7736930847167969,0.8397548794746399,0.553891122341156,0.5036718249320984
+15:50.9,ai,はーい,Okay.,¡Sí!,0.8787356615066528,0.8312838077545166,0.1979873925447464,0.14815525710582733
+15:52.3,ai,では　先生は　その間　一休みを,Then I'll take a little rest in the meantime.,"Bien, el profesor descansará mientras tanto.",0.5930901765823364,0.8844216465950012,0.10511136054992676,0.28129544854164124
+16:03.0,ai,おっ　もうできましたか　渚君,"Oh — already done, Nagisa?","Oh, ¿ya terminaste, Nagisa?",0.6726189255714417,0.7868822813034058,0.38307639956474304,0.4320889413356781
+16:12.4,ai,昼食の後で　僕らが眠くなるころに,"After lunch, when we begin to get sleepy,","Después del almuerzo, cuando nos dé sueño,",0.9154072403907776,0.9543544054031372,-0.06288671493530273,-0.3005579710006714
+16:15.2,ai,先生の顔が薄いピンクになるときがある,there are times when Sensei's face turns a pale pink.,hay momentos en que la cara del profesor se vuelve rosa pálido.,0.6592782139778137,0.9364876747131348,0.18613408505916595,0.3056286573410034
+16:19.5,ai,茅野の質問への反応も少し遅れた,His reaction to Chino's question was also a bit delayed.,Su reacción a la pregunta de Chino también fue algo tardía.,0.7399634122848511,0.7618793249130249,0.3872629702091217,0.43919819593429565
+16:22.8,ai,たぶん　先生も一番　油断する時間なんだ,That’s probably when Sensei is most off guard.,Probablemente ese es el momento en que el profesor más se confía.,0.3081030249595642,0.8440006375312805,-0.019667740911245346,-0.16784170269966125
+16:29.4,ai,この進学校で　落ちこぼれた僕らは思う,We dropouts at this elite school think—,"Nosotros, los rezagados de esta escuela de élite, pensamos",0.7555035948753357,0.746598482131958,-0.27118951082229614,-0.8202362060546875
+16:33.4,ai,どこかで見返さなきゃ,we need to get our revenge somewhere.,que debemos demostrar algo en algún lugar.,0.5385992527008057,0.522712767124176,-0.16653436422348022,-0.2652858793735504
+16:35.4,ai,やればできると　親や　友達や　先生たちを,"To make our parents, friends, and teachers say ""You can do it.""","Para que padres, amigos y profesores crean que podemos lograrlo.",0.8299250602722168,0.8801928758621216,-0.048605043441057205,-0.0946127325296402
+16:41.2,ai,やればできると…,"""You can do it…""","""Si te esfuerzas, puedes...""",0.7895681262016296,0.6702157855033875,-0.06331735849380493,0.03184307739138603
+16:46.9,ai,言ったでしょう もっと　工夫を…,You said it — be more creative…,Te dijeron: sé más ingenioso…,0.814568281173706,0.7811048030853271,0.0829353779554367,-0.05622134730219841
+16:50.1,ai,認めさせなきゃ…,We must make them recognize us…,Debemos hacer que nos reconozcan.,0.5102406740188599,0.5294187664985657,0.002748049795627594,-0.042455073446035385
+16:52.9,ai,どんな手を使っても…,By any means…,Por cualquier medio…,0.6344202160835266,0.8062372803688049,-0.004182007163763046,0.07327865809202194
+17:02.6,ai,しゃーっ,Ha—!,¡Sí!,0.8388224244117737,0.758384644985199,-0.07908220589160919,-0.0418609194457531
+17:03.8,ai,やったぜー,Nailed it!,¡Lo hice!,0.7773318290710449,0.7075183391571045,-0.012922516092658043,0.15977361798286438
+17:04.9,ai,100億円いただき,Got the 10 billion yen.,Conseguí los 10 mil millones.,0.5072774291038513,0.653457522392273,-0.08555279672145844,-0.17705634236335754
+17:05.0,ai,渚,Nagisa.,Nagisa.,0.6878150105476379,0.6878150105476379,-0.09391739964485168,-0.09391739964485168
+17:07.3,ai,ざまあみろ,Serves him right.,Toma eso.,0.46230408549308777,0.8150627613067627,-0.9092368483543396,-0.29563578963279724
+17:08.4,ai,寺坂　何やったんだ,"Terasaka, what did you do?","Terasaka, ¿qué hiciste?",0.69841468334198,0.7421764135360718,0.1318536400794983,0.278363436460495
+17:10.9,ai,こいつも自爆テロは予想してなかったろ,He probably didn't expect a suicide bombing either.,Él tampoco esperaba un suicidio explosivo.,0.7598264813423157,0.6933495402336121,-0.02214573696255684,-0.30077093839645386
+17:13.3,ai,ちょっと　渚に　何　持たせたのよ,What did you make Nagisa carry?,¿Qué le diste a Nagisa para que lo llevara?,0.563061535358429,0.6681827902793884,-0.6682305932044983,-0.6509735584259033
+17:16.8,ai,おもちゃの手榴弾だよ,A toy grenade.,Era una granada de juguete.,0.8729262351989746,0.747346043586731,-0.30025920271873474,-0.26191139221191406
+17:19.2,ai,ただし　火薬を使って威力を上げてある,Although we increased its power with real powder.,Pero con pólvora para aumentar su efecto.,0.5324178338050842,0.7549577951431274,-0.2472139298915863,-0.0754944384098053
+17:22.7,ai,300発の対先生弾がすげえ速さで飛び散るようにな,It made 300 anti-Sensei rounds scatter at crazy speed.,Hizo que 300 balas contra el profesor estallaran a enorme velocidad.,0.615846574306488,0.683271586894989,-0.5121524930000305,-0.3115029036998749
+17:27.9,ai,人間が死ぬ威力じゃねえよ,It's not lethal to humans.,No tiene poder para matar a un humano.,0.5342337489128113,0.6304458379745483,-0.5197238326072693,-0.40091854333877563
+17:30.4,ai,俺の100億で　治療費くらい…,"My 10 billion covers treatment costs, at least…","Con mis 10 mil millones cubriría gastos médicos, más o menos…",0.852818489074707,0.8463214635848999,0.16589684784412384,0.2176532745361328
+17:35.6,ai,無傷　やけど一つ負ってねえのか,"No injuries, not a single burn?","Está ileso, ni una quemadura.",0.7009512782096863,0.7297882437705994,-0.2000129520893097,-0.49402645230293274
+17:38.6,ai,それに　何だ　この膜,And what's with this membrane?,"Y además, ¿qué es esta membrana?",0.8964695334434509,0.9092830419540405,-0.1764151155948639,0.05186321586370468
+17:40.9,ai,タコの死体に　つながっ…,It's connected to the octopus's corpse…,Conectada al cadáver del pulpo…,0.6322854161262512,0.8420266509056091,-0.2813338339328766,-0.30216124653816223
+17:41.8,ai,実は　先生　月に１度ほど　脱皮をします,"Actually, Sensei sheds his skin about once a month.","En realidad, el profesor muda la piel aproximadamente una vez al mes.",0.4483182728290558,0.7364710569381714,0.3618253767490387,0.3684566915035248
+17:45.9,ai,脱いだ皮を渚君にかぶせて守りました,I covered Nagisa with the shed skin to protect him.,Le puse la piel que mudó sobre Nagisa para protegerlo.,0.6214646100997925,0.6480777263641357,-0.26717880368232727,-0.7457042336463928
+17:51.5,ai,月1で使える　先生の奥の手です,It's Sensei's secret technique usable once a month.,"Es el recurso secreto del profesor, usable una vez al mes.",0.4421018958091736,0.7383636236190796,-0.07984249293804169,0.015003496780991554
+17:58.2,ai,寺坂　吉田　村松,"Terasaka, Yoshida, Muramatsu.","Terasaka, Yoshida, Muramatsu.",0.7486422657966614,0.7486398220062256,-0.2979409098625183,-0.2979409098625183
+18:03.8,ai,先生の顔は　顔色を見るまでもなく…,You could tell Sensei's mood without checking his complexion…,"El rostro del profesor, sin siquiera mirar su color…",0.4902270436286926,0.9098879098892212,0.2246643304824829,-0.3819214105606079
+18:12.8,ai,真っ黒,pitch black.,está completamente negro.,0.7758608460426331,0.7636836171150208,0.1072859913110733,-0.08330751955509186
+18:14.6,ai,ど怒りだ,Furious.,Está furioso.,0.7137596607208252,0.7255586385726929,0.2038339376449585,0.25615963339805603
+18:15.7,ai,首謀者は　君ら３人だろ,"You three are the ringleaders, right?","Ustedes tres son los instigadores, ¿no?",0.6773537397384644,0.8922557234764099,0.09138885140419006,-0.07102692127227783
+18:19.6,ai,いっ　いや…,N-no…,N-no…,0.9015066623687744,0.9015066623687744,0.6205662488937378,0.6205662488937378
+18:20.8,ai,渚が勝手に…,Nagisa acted on his own…,Nagisa actuó por su cuenta…,0.3967912197113037,0.4695129990577698,-0.5311658382415771,0.010736050084233284
+18:29.1,ai,いなく…,He's gone…,No está…,0.4393347203731537,0.9104247093200684,-0.430490642786026,-0.0960783064365387
+18:34.0,ai,俺らんちの表札,Our family nameplate—,El nombre de mi casa…,0.526819109916687,0.489621639251709,-0.3997414708137512,-0.8276187181472778
+18:36.2,ai,政府との契約ですから　先生は　決して君たちに危害は加えない,"By contract with the government, Sensei will never harm you.",Hay un contrato con el gobierno: el profesor jamás dañará a los estudiantes.,0.5835915207862854,0.8921397924423218,0.19712109863758087,0.26730668544769287
+18:41.7,ai,が　しかし…,But — however…,"Pero, sin embargo…",0.9318357706069946,0.9778550863265991,0.15656843781471252,0.3403032720088959
+18:44.5,ai,次　また　今のような方法で暗殺に来たら,"Next time you try an assassination the way you did just now,","Si vienen la próxima vez con un método como el anterior,",0.7971457839012146,0.4756178557872772,-0.012087853625416756,-0.49436816573143005
+18:49.2,ai,君たち以外には何をするか分かりませんよ,I don't know what he'll do to anyone else.,no sé qué hará con otros que no sean ustedes.,0.5592430830001831,0.8429167866706848,-0.1218487024307251,-0.019434113055467606
+18:53.2,ai,家族や友人…　いいや,"Family or friends… no,","Sus familias y amigos… mejor dicho,",0.8259458541870117,0.8423701524734497,-0.5066935420036316,-0.4809463322162628
+18:56.3,ai,君たち以外を地球ごと消しますかね,maybe he'll erase everything but you from the Earth.,quizá borraría del planeta a quienes no sean ustedes.,0.7821250557899475,0.8761266469955444,-0.3433418869972229,-0.10813145339488983
+19:01.6,ai,5秒間で　皆　悟った,In five seconds everyone understood.,"En cinco segundos, todos entendieron.",0.8764376640319824,0.924066960811615,0.3836900293827057,0.41355597972869873
+19:04.6,ai,地球の裏でも　逃げられないと,You can't escape even to the other side of the planet.,Que no habrá escape ni al otro lado del planeta.,0.7805741429328918,0.8685868382453918,-0.31086650490760803,-0.5392729043960571
+19:08.0,ai,どうしても逃げたければ,"If you really wanted to run,","Si realmente quieren huir,",0.594391942024231,0.8913546800613403,-0.36546653509140015,-0.03220566734671593
+19:12.3,ai,この先生を殺すしか…,you'd have to kill this teacher…,solo les queda matar a este profesor.,0.9258008003234863,0.9272590279579163,-0.26146751642227173,0.030425094068050385
+19:16.7,ai,何なんだよ　てめえ　迷惑なんだよ,"What the hell, you're a nuisance.",¿Qué te pasa? Eres un problema.,0.6254517436027527,0.7387327551841736,-0.21378275752067566,-0.5542566776275635
+19:20.1,ai,いきなり来て　地球　爆破とか　暗殺しろとか,"Suddenly showing up and saying ""blow up the Earth"" or ""assassinate"" —",Llegas de repente y hablas de explotar la Tierra y de asesinatos.,0.7585068941116333,0.840721070766449,-0.6337542533874512,-0.24905052781105042
+19:23.5,ai,迷惑なやつに　迷惑な殺し方して　何が悪いんだよ,Doing annoying things to an annoying guy — what's wrong with that?,¿Qué tiene de malo darles a los molestos una muerte molesta?,0.4686037600040436,0.721122145652771,-0.08920207619667053,-0.4514312148094177
+19:28.0,ai,迷惑　とんでもない,Nuisance? That's outrageous.,"Molesto, no, de ninguna manera.",0.5269733667373657,0.8026638627052307,0.09006871283054352,-0.19766181707382202
+19:30.2,ai,君たちのアイデア自体は　すごくよかった,Your idea itself was actually quite good.,Sus ideas en sí fueron bastante buenas.,0.9361973404884338,0.8047922253608704,0.4851438105106354,0.6717457175254822
+19:33.2,ai,特に　渚君,"Especially you, Nagisa.","Especialmente tú, Nagisa.",0.7576610445976257,0.7765220403671265,0.11717985570430756,0.2759637236595154
+19:34.9,ai,君の肉薄までの自然な体運びは100点です,Your natural movement to get close to him scored a hundred points.,Tu acercamiento corporal natural hasta el punto de impacto fue perfecto.,0.5716519355773926,0.41152581572532654,-0.3812862038612366,-0.23017355799674988
+19:38.9,ai,先生は　見事に　隙を突かれました,Sensei was superbly caught off guard.,El profesor fue alcanzado por su descuido con gran maestría.,0.2668948173522949,0.7626267671585083,-0.4260333478450775,-0.4766313433647156
+19:41.9,ai,ただし,However—,"Sin embargo,",0.7476965188980103,0.8222899436950684,0.09484302997589111,0.030759692192077637
+19:43.5,ai,寺坂君たちは　渚君を,Terasaka and the others,Terasaka y compañía,0.5575369596481323,0.36855682730674744,-0.3219381868839264,-0.16352848708629608
+19:45.9,ai,渚君は　自分を大切にしなかった,Nagisa didn't value himself.,Nagisa no se cuidó a sí mismo.,0.5313924551010132,0.5500772595405579,-0.00809960812330246,-0.4660489559173584
+19:49.4,ai,そんな生徒に暗殺する資格はありません,Such a student has no right to assassinate.,Un estudiante así no merece intentar un asesinato.,0.8551576733589172,0.9268268942832947,0.3842024505138397,0.29057976603507996
+19:53.1,ai,人に笑顔で胸を張れる暗殺をしましょう,Perform an assassination you can do with a smile and pride.,Realicen un asesinato del que puedan estar orgullosos y sonreír.,0.8454315662384033,0.8798555731773376,-0.1506686806678772,0.06889401376247406
+19:56.3,ai,君たち　全員　それができる力を秘めた有能なアサシンだ,All of you are capable assassins with that potential.,"Ustedes, todos, son asesinos capaces con ese potencial.",0.7644595503807068,0.6116034984588623,-0.04855122044682503,-0.055353712290525436
+20:01.7,ai,ターゲットである先生からのアドバイスです,"Advice from the target, your teacher.","Es un consejo del objetivo, el profesor.",0.9274691343307495,0.9274664521217346,-0.20994022488594055,-0.6365492939949036
+20:06.3,ai,マッハ20で怒られてうねる触手で褒められた,"Scolded at Mach 20, praised by writhing tentacles.",Fui reprendidos por alguien a Mach 20 y elogiados por sus retorcidos tentáculos.,0.5321266055107117,0.5439707636833191,-0.599612295627594,-0.6251252293586731
+20:11.5,ai,この異常な教育が　僕は　普通に　うれしかった,I was oddly genuinely happy for this abnormal education.,"Extrañamente, me gustó esta educación tan fuera de lo común.",0.9337295293807983,0.8081299662590027,0.14709581434726715,0.257839173078537
+20:16.3,ai,この異常な先生は僕らのことを　正面から見てくれたから,Because this abnormal teacher looked at us directly.,Porque este profesor anómalo nos miró de frente.,0.809662938117981,0.901995062828064,-0.08524876832962036,0.1468527615070343
+20:30.8,ai,あなたの…,Your…,Tu…,0.9627358913421631,0.9147995710372925,-0.25156304240226746,-0.1838999092578888
+20:33.3,ai,あなたの時間をくれるなら,If you would give your time—,"Si me das tu tiempo,",0.8333388566970825,0.975655734539032,0.04018484428524971,0.2394719421863556
+20:36.3,ai,あの子たちを教えてあげて,teach those kids.,enséñales a esos chicos.,0.7814545035362244,0.8659271597862244,-0.19607055187225342,0.015031354501843452
+20:40.8,ai,なんて　すてきな触手…,What wonderful tentacles…,Qué tentáculo tan maravilloso…,0.6038254499435425,0.8617784976959229,0.15736186504364014,0.17007166147232056
+20:43.7,ai,この手なら　きっと　あなたはすてきな教師に…,"With these hands, surely you would be a wonderful teacher…","Con esta mano, seguro serías un gran profesor…",0.8610410094261169,0.9335755705833435,-0.03280917555093765,-0.12766888737678528
+20:51.0,ai,さて　問題です　渚君,"Now, question, Nagisa.","Ahora, pregunta: Nagisa.",0.5786585807800293,0.6269069314002991,0.17738163471221924,-0.15926146507263184
+20:53.8,ai,先生は　殺される気などみじんもない,Sensei has not the slightest intention of being killed.,El profesor no tiene intención alguna de dejarse matar.,0.47189223766326904,0.8692179918289185,-0.10739903151988983,0.0690915435552597
+20:57.0,ai,皆さんと　来年　3月までエンジョイしてから,"He intends to enjoy time with you until March next year,","Disfrutará con ustedes hasta marzo del próximo año,",0.6862119436264038,0.8179231286048889,-0.12715619802474976,-0.2530287504196167
+20:59.5,ai,地球を爆破です,then blow up the Earth.,y después destruirá la Tierra.,0.8371953964233398,0.8092626929283142,-0.5985440015792847,-0.25810497999191284
+21:02.1,ai,それが嫌なら君たちは　どうしますか,"If you don't like that, what will you do?","Si no les gusta eso, ¿qué harán?",0.8773297071456909,0.8611702919006348,0.0677633062005043,-0.49528923630714417
+21:06.6,ai,暗殺なんて　したことないし,We've never done assassination before.,Nunca hemos asesinado antes.,0.7514157295227051,0.7618787884712219,0.043060895055532455,-0.13260595500469208
+21:09.3,ai,僕らには　他に　すべきことがたくさんある,We have plenty of other things to do.,Tenemos muchas otras cosas que hacer.,0.8946980237960815,0.9648216962814331,0.5668615102767944,0.6464036703109741
+21:14.2,ai,けど　思った,But I thought—,Pero pensé:,0.8585136532783508,0.8920122385025024,0.38832417130470276,0.40786072611808777
+21:16.7,ai,この先生なら　殺意さえも受け止めてくれるって,this teacher would accept even murderous intent.,que este profesor incluso aceptaría la intención de matarlo.,0.8080307245254517,0.8967586755752563,0.08711260557174683,-0.4537762403488159
+21:21.2,ai,地球を爆破されるその前に　先生を殺します,"Before the Earth is destroyed, we'll kill Sensei.","Antes de que destruya la Tierra, mataremos al profesor.",0.6045086979866028,0.9240863919258118,-0.26391926407814026,0.0019174553453922272
+21:27.4,ai,ならば　今　やってみなさい,Then try it now.,Entonces háganlo ahora.,0.870785117149353,0.8176636695861816,0.465902715921402,0.5727081894874573
+21:29.4,ai,殺せた者から　今日は帰ってよし,Whoever succeeds in killing him may go home today.,Los que lo consigan pueden irse a casa hoy.,0.7240631580352783,0.6585515737533569,-0.2355501651763916,-0.49073395133018494
+21:32.7,ai,んな簡単に…,It's not that easy…,No es tan fácil…,0.6604695320129395,0.731124758720398,0.011377503164112568,0.3664378225803375
+21:33.8,ai,殺せるわけねえだろ,There's no way we can kill him.,No hay forma de matarlo.,0.5697576999664307,0.7230793237686157,-0.6173339486122131,-0.4838750660419464
+21:35.9,ai,僕らは　殺し屋,We're assassins.,Somos asesinos.,0.8503370881080627,0.9525400996208191,0.2555314600467682,0.40173962712287903
+21:37.9,ai,ターゲットは　先生,The target is Sensei.,El objetivo es el profesor.,0.32468533515930176,0.7843642830848694,0.1819857358932495,0.20599214732646942
+21:40.9,ai,ふきふき　ふきふき,"Wipe wipe, wipe wipe.","(Onomatopeya: frotar, frotar)",0.6381133198738098,0.5057774782180786,-0.7765161991119385,-1.0927869081497192
+21:42.6,ai,今　撃っても…,Even if you shoot now…,Aunque disparen ahora…,0.7498826384544373,0.8280530571937561,-0.22155775129795074,-0.006350111216306686
+21:43.7,ai,表札と一緒に手入れされる…,you'll be groomed along with the nameplate…,serán arreglados junto con la placa de nombre…,0.6402224898338318,0.8126175999641418,-0.4293738007545471,-0.44858813285827637
+21:46.0,ai,帰れねえ…,Can't go home…,No podemos volver a casa…,0.6627788543701172,0.6267035603523254,-0.040991853922605515,0.12984886765480042
+21:48.1,ai,殺せない先生か…,A teacher you can't kill…,¿Un profesor al que no se le puede matar…?,0.7716067433357239,0.8224526047706604,-0.4354945421218872,-0.8279139399528503
+21:50.8,ai,殺せない…　ころ…,Can't kill… die…,Imposible de matar…,0.8136245012283325,0.8202246427536011,-1.0806677341461182,-0.2869945168495178
+21:54.2,ai,殺せんせーは,Koro-sensei is—,¡Koro-sensei es…!,0.22503149509429932,0.45065850019454956,-0.8166776895523071,-0.8474899530410767
+21:56.3,ai,殺せんせー,Koro-sensei.,¡Koro-sensei!,0.25008660554885864,0.4688090682029724,-0.4488725960254669,-0.5929326415061951
+21:59.8,ai,殺せんせーと　僕らの暗殺教室,Koro-sensei and our Assassination Classroom.,Y así es nuestra clase de asesinato.,0.7782639265060425,0.8004268407821655,-0.2177855521440506,-0.551547646522522
+22:05.0,ai,始業のベルは　明日も鳴る,The starting bell will ring again tomorrow.,La campana sonará mañana también.,0.8457146286964417,0.9005287885665894,0.42881661653518677,0.447024941444397
+00:48.8,fansub,それでは,"Now, then.","Muy bien, entonces...",0.7738966941833496,0.8782625198364258,-0.0788385272026062,0.18869271874427795
+00:50.5,fansub,ホームルームを始めます,Let's begin homeroom.,Vamos a empezar.,0.9257076382637024,0.5917356610298157,0.06263376772403717,0.09947359561920166
+00:52.7,fansub,日直の人は号令を,"Class monitor, on your command.","Encargado de la clase, a su señal.",0.2207968384027481,0.6186150312423706,-0.7441353797912598,-0.8497682809829712
+00:54.9,fansub,き…起立,S-Stand!,¡D-De pie!,0.7081558108329773,0.5741325616836548,-0.5448389649391174,-1.093388557434082
+01:00.1,fansub,気を付け,Attention!,¡Atención!,0.6835134029388428,0.8109493255615234,0.060198236256837845,0.202046737074852
+01:05.0,fansub,礼,Bow!,¡Saluden!,0.5555450320243835,0.8780123591423035,-0.49664363265037537,-0.3832583427429199
+01:09.7,fansub,おはようございます,Good morning.,Buenos días.,0.9813489317893982,0.4819415807723999,0.29765406250953674,0.26929083466529846
+01:11.6,fansub,発砲したままで結構ですので　出欠をとります,"I'll be taking attendance, so please, fire all you like.",Disparen todo lo que quieran... Sólo estaré tomando asistencia.,0.4731929302215576,0.5178148746490479,-0.5376901030540466,-0.6675213575363159
+01:15.2,fansub,磯貝君,Isogai-kun?,¿Isogai?,0.3851848542690277,0.6566787362098694,-0.4739011824131012,-0.3863074481487274
+01:16.7,fansub,はい,Present.,¡Aquí!,0.5556486248970032,0.7900916934013367,-0.3070428967475891,-0.3760995864868164
+01:18.0,fansub,すみませんが　銃声の中なので　大きな声で,"My apologies. I'll need you to speak up,  what with all this gunfire.",Disculpa pero vas a tener que hablar más alto con todo este tiroteo.,0.7630748748779297,0.8326613306999207,0.06447513401508331,0.1938365399837494
+01:21.4,fansub,はい,Present!,¡Aquí!,0.45310354232788086,0.7900916934013367,-0.48822394013404846,-0.3760995864868164
+01:22.3,fansub,岡島君,Okajima-kun?,¿Okajima?,0.6251405477523804,0.5866428017616272,-0.33860576152801514,-0.3859679400920868
+01:23.6,fansub,はい,Present!,¡Aquí!,0.45310354232788086,0.7900916934013367,-0.48822394013404846,-0.3760995864868164
+01:24.3,fansub,奥田さん,Okuda-san?,¡Okuda!,0.4629349708557129,0.6745045781135559,-0.5404396057128906,-0.19322779774665833
+01:25.5,fansub,はい,Present!,¡Aquí!,0.45310354232788086,0.7900916934013367,-0.48822394013404846,-0.3760995864868164
+01:26.3,fansub,片岡さん,Kataoka-san?,¿Kataoka?,0.5574085116386414,0.6223973035812378,-0.4470627009868622,-0.4550284445285797
+01:27.4,fansub,はい,Present!,¡Aquí!,0.45310354232788086,0.7900916934013367,-0.48822394013404846,-0.3760995864868164
+01:28.0,fansub,茅野さん,Kayano-san?,¿Kayano?,0.36986449360847473,0.6716351509094238,-0.5141811966896057,-0.5777075290679932
+01:28.9,fansub,はい,Present!,¡Aquí!,0.45310354232788086,0.7900916934013367,-0.48822394013404846,-0.3760995864868164
+01:29.5,fansub,神崎さん,Kanzaki-san?,¡Kanzaki!,0.6532493233680725,0.7648826837539673,-0.2109271138906479,-0.03422015905380249
+01:30.5,fansub,はい,Present!,¡Aquí!,0.45310354232788086,0.7900916934013367,-0.48822394013404846,-0.3760995864868164
+01:33.3,fansub,はい　遅刻なしっと,All right.,Muy bien.,0.5753032565116882,0.6827538013458252,-0.22407059371471405,-0.4065271317958832
+01:36.0,fansub,素晴らしい　先生　とてもうれしいです,"Everyone on time, I see. Excellent! That makes me very happy.","¡No hay tardanzas, Excelente! Eso me hace muy feliz.",0.5194498896598816,0.6079084277153015,0.1673373430967331,0.29775241017341614
+01:39.4,fansub,速過ぎ,He's way too fast.,Es muy rápido.,0.7664305567741394,0.7455984354019165,-0.17453517019748688,0.054085247218608856
+01:40.9,fansub,クラス一斉射撃で駄目なのかよ,So even the whole class  at once can't bring him down?,¿La clase entera le disparó y no funciono?,0.5760270357131958,0.7389812469482422,-0.6059494614601135,-0.6238664984703064
+01:43.5,fansub,僕らは,We...,Nosotros,0.9014974236488342,0.9181817770004272,-0.3942144811153412,-0.021054983139038086
+01:45.0,fansub,殺し屋,are killers.,somos asesinos.,0.8248454928398132,0.7281240224838257,-0.48643431067466736,-0.12352946400642395
+01:46.5,fansub,僕らのターゲットは,And our target...,Y nuestro blanco,0.913442850112915,0.5792238116264343,0.22014495730400085,-0.004836078733205795
+01:49.1,fansub,先生,is our teacher.,es nuestro maestro.,0.45772451162338257,0.5073880553245544,-0.5345638394355774,-0.29659634828567505
+01:50.1,fansub,残念ですねぇ,Too bad.,Lástima.,0.7737926244735718,0.8849707245826721,0.1570831686258316,0.2641994059085846
+01:51.6,fansub,今日も命中弾ゼロです,"Not one of your bullets hit me today, either."," Ni una sola bala le atino a su objetivo hoy, igual que antes.",0.5954908728599548,0.6905832886695862,-0.197511687874794,-0.34186816215515137
+01:54.0,fansub,数に頼る戦術は　個々の思考を疎かにする,Tactics that rely on sheer numbers neglect individual focus.,Métodos que se basan en solo números carecen de cualquier pensamiento individual.,0.7798707485198975,0.5353091955184937,0.4254070222377777,0.03713993728160858
+01:57.6,fansub,目線　銃口の向き　指の動き,"Be it line of sight, barrel position,  or finger movement,","Linea de visión, posición del cartucho, movimiento de los dedos...",0.7455331087112427,0.7949874401092529,0.04003702476620674,0.21872176229953766
+02:01.4,fansub,一人一人が単純過ぎます,each of you was far too easy to read.,Cada uno de ellos es demasiado simple.,0.4754267632961273,0.9075090885162354,-0.591498076915741,0.21488013863563538
+02:04.0,fansub,もっと工夫しましょう,You need to be more inventive!,¡Tienen que ser mas originales!,0.584689736366272,0.4452786147594452,0.4258664846420288,0.3720815181732178
+02:05.9,fansub,でないと,"Otherwise,",De lo contrario...,0.670146644115448,0.6375507116317749,-0.6682881712913513,-0.6659517884254456
+02:07.4,fansub,最高速度マッハ20の先生は　殺せませんよ,"you'll never be able to kill me.  I can speed up to Mach 20, you know?",No seran capaces de matarme a mi máxima velocidad de Mach 20.,0.5665683150291443,0.526486873626709,-0.3108457028865814,-0.1868399828672409
+02:12.2,fansub,いや　ていうかさ,"But, like, see...",Pero sabes...,0.5832680463790894,0.6439346075057983,-0.052676137536764145,-0.0704871118068695
+02:14.4,fansub,本当に全部よけてんのかよ　先生,There's no way you seriously  dodged all of those!,¡Es imposible que hayas evadido todo eso!,0.4487977921962738,0.48696959018707275,-0.5068045258522034,-0.23648038506507874
+02:16.6,fansub,どう見ても これ　ただのBB弾だろ,"I mean, these are just BB pellets.","Quiero decir, son solo Balas de salva",0.6412029266357422,0.5473598837852478,-0.1667417585849762,-0.733674943447113
+02:19.8,fansub,当たってるのに　我慢してるだけじゃないの,You coulda just taken them on the chin.,Pudiste estar parado ahí apretando los dientes mientras te golpeaban.,0.4061237573623657,0.6032870411872864,-0.7443278431892395,-0.13674569129943848
+02:22.6,fansub,そうよ　そうだよ,Yeah! That's right!,¡Sí! ¡Es verdad!,0.7793502807617188,0.8316813111305237,0.4528082609176636,0.5454990863800049
+02:26.2,fansub,では　弾を込めて渡しなさい,Very well. Gather up the BBs and hand them over.,Entonces pérmitanme utilizar una.,0.5015981197357178,0.6161479949951172,-0.24383366107940674,-0.9207775592803955
+02:29.4,fansub,言ったでしょう,I told you: these may be harmless to you...,Se los dije: estas cosas pueden ser inofensivas para ustedes...,0.4730413854122162,0.5107730031013489,-0.4576140344142914,-0.2799864411354065
+02:31.0,fansub,この弾は君たちにとっては無害ですが,,,0.28008273243904114,0.28008273243904114,-0.5748586654663086,-0.5748586654663086
+02:36.6,fansub,国が開発した対先生用特殊弾です,but they're special anti-me BB pellets developed by the government.,Pero son especiales contra su maestro y fueron diseñadas por el gobierno.,0.5705960392951965,0.4287838935852051,-0.4590182900428772,-0.6795661449432373
+02:40.4,fansub,当たれば　先生の細胞を豆腐のように破壊できる,"If one hits me, it'll slice  right through my cells like tofu.","Si una de ellas me golpea, puede atravesar mis células como si fueran tofu.",0.5051179528236389,0.522590696811676,-0.2527965307235718,-0.36549943685531616
+02:45.0,fansub,もちろん数秒あれば再生しますが,"They'll regenerate a few seconds later, of course.","Por supuesto, se regeneran varios segundos después.",0.710536777973175,0.7536311149597168,0.18624278903007507,0.32405751943588257
+02:48.5,fansub,だが　君たちも目に入ると危ない,I'm more concerned about you putting a classmate's eyes out.,"Pero tengan cuidado, pueden sacarse un ojo con eso.",0.5754356980323792,0.7945264577865601,-0.5391502380371094,-0.577502429485321
+02:52.2,fansub,先生を殺す以外の目的で室内での発砲はしないように,No shooting in the classroom unless you're trying to kill me.,No disparen en el salón a menos que intenten matarme.,0.7909468412399292,0.6636813282966614,-0.05250604823231697,0.08324335515499115
+02:57.5,fansub,殺せるといいですね　卒業までに,"And I do hope you can kill me— before graduation, that is.",Espero que puedan matarme antes de la graduación.,0.8396729230880737,0.8170667886734009,-0.4400535225868225,-0.13436023890972137
+03:02.0,fansub,さあ　銃と弾を片付けましょう,"Now then, let's put away the arms and ammunition and begin class.","Bueno, déjen a un lado las armas y las balas de salva y empezemos la clase.",0.6872918009757996,0.7754852771759033,0.16489632427692413,-0.33800655603408813
+03:04.8,fansub,授業を始めます,,,0.4495856463909149,0.4495856463909149,-0.27042555809020996,-0.27042555809020996
+03:08.1,fansub,椚ヶ丘中学校３-Eは　暗殺教室,"At Class 3-E of Kunugigaoka Junior High School, the assassination classroom","En la clase 3-E de la secundaria Kunugigaoka, la clase de asesinato...",0.8085193037986755,0.7485880851745605,0.003498997539281845,-0.5285897254943848
+03:13.6,fansub,始業のベルが　今日も鳴る,the bell signals the start of another school day.,"Otro día, otra campana que marca el inicio de las clases.",0.714470386505127,0.7418374419212341,0.4126596450805664,0.11822651326656342
+04:56.5,fansub,はい　ここで問題です,"Now, here's the question:","Bien, esta es la pregunta:",0.748860239982605,0.780877947807312,0.4380284547805786,0.3308669924736023
+04:58.9,fansub,磯貝君,Isogai-kun!,¡Isogai!,0.5565942525863647,0.7935485243797302,-0.4246349334716797,-0.27803942561149597
+05:00.3,fansub,はい,"Y-Yes, sir?","¿S-Si, señor?",0.7030056715011597,0.7848860025405884,-0.27628931403160095,-0.1534426063299179
+05:01.2,fansub,この4本の触手のうち　仲間外れは,Which of these four tentacles is not like the others?,¿Cúal de estos 4 tentáculos es diferente a los otros?,0.6766168475151062,0.7830154895782471,-0.28590312600135803,-0.3047372102737427
+05:04.4,fansub,ええと　青い触手,Um... the blue one?,Um... ¿El azul,0.8048126697540283,0.906715989112854,-0.30982986092567444,-0.4231846034526825
+05:06.7,fansub,正解　青の例文の「WHO」だけが関係詞です,Correct!,¡Correcto!,0.36420321464538574,0.3856472373008728,-0.2515796720981598,-0.40798506140708923
+05:11.4,fansub,関係代名詞は直前の名詞を修飾し,"The only relative pronoun is ""who,"" in the blue sentence.","El único pronombre relativo es ""quién"", en la oración de azul.",0.4093068838119507,0.29630979895591736,-0.8626600503921509,-1.1069146394729614
+05:14.4,fansub,ここでは「who is standing over there」が,"A relative pronoun modifies the noun right before it, so the clause","Un pronombre relativo califica al sustantivo justo antes de él, entonces…",0.4572649896144867,0.553657591342926,-0.8930258750915527,-0.7608160376548767
+05:17.5,fansub,前の「the boy」少年を説明しています,"""who is standing over there"" describes the ""boy"" here.","Quién esta sentado por ahí está describiendo al chico"" de ahí.",0.6983131170272827,0.7568469047546387,-0.356205016374588,-0.3934089243412018
+05:12.2,fansub,ねえ　渚,"Hey, Nagisa.","Oye, Nagisa.",0.6970676183700562,0.7044911980628967,0.21503154933452606,0.21984802186489105
+05:16.1,fansub,昼間だけど　出てるね　三日月,The crescent moon's out in broad daylight.,La luna creciente salió aunque aun es de día.,0.31877878308296204,0.3131735026836395,-0.581901490688324,-0.7405837774276733
+05:21.4,fansub,何で僕らがこんな状態になったのか,How did we end up in this mess?,¿Cómo es que terminamos así?,0.7521975040435791,0.6778548955917358,0.3246529698371887,0.1472560465335846
+05:25.5,fansub,３年生の始め,"As we began our third year of junior high,  we were greeted by two extraordinary incidents.",Dos cosas pasaron cuando empezamos nuestro tercer año de secundaria...,0.5357392430305481,0.6253225803375244,0.0724814161658287,0.16224722564220428
+05:27.4,fansub,僕らは二つの事件に同時に遭った,,El primero fue una explosión repentina que dejó a la Luna en la fase creciente.,0.2197536826133728,0.1927611380815506,-0.49114951491355896,-0.2669198215007782
+05:45.8,fansub,一つ目は　その日突然　月が爆発して三日月形になってしまったこと,The first was the sudden explosion that left the moon permanently crescent-shaped.,,0.7534047365188599,0.11349888145923615,0.27799057960510254,-0.68349689245224
+05:55.2,fansub,番組の途中ですが　ここで臨時ニュースです,We interrupt this program to bring you breaking news.,Interrumpimos este programa para traer las últimas noticias.,0.5305342674255371,0.579522967338562,0.31510382890701294,0.42197364568710327
+05:58.3,fansub,つい先ほど　月が７割方蒸発し　失われたとの情報が入りました,We've just gotten word that about seventy percent of the moon,Acabamos de recibir el informe de que casi el 70% de la luna,0.7408742904663086,0.7638647556304932,-0.5764225125312805,-0.6830803155899048
+06:04.5,fansub,繰り返します,has been vaporized into nothing. I repeat...,ha sido destruida. Repito...,0.375929057598114,0.7836708426475525,-0.24151474237442017,-0.1939205527305603
+06:05.7,fansub,われわれはもう一生三日月しか見られないということでしょうか,Will we have only a crescent moon to look at for the rest of our lives?,¿Tendremos que mirar la luna creciente por el resto de nuestras vidas?,0.4870545268058777,0.4983260929584503,0.06424534320831299,0.032564956694841385
+06:10.7,fansub,そして　二つ目の事件が　これ,And the second was his arrival.,Y lo segundo fué esto:,0.5990229249000549,0.9128521680831909,-0.3401295244693756,0.31187841296195984
+06:13.9,fansub,初めまして　私が月をやった犯人です,How do you do? I'm the one who tore that chunk out of your moon.,¿Cómo estan? Soy el que destruyó su luna.,0.7370662689208984,0.8244001865386963,-0.667973518371582,-0.7932350039482117
+06:20.9,fansub,来年には　地球もやる予定です,I plan to do the same to the Earth next year.,Planeo hacer lo mismo con la Tierra el año que viene.,0.884827196598053,0.9126461744308472,0.0970165878534317,0.22948218882083893
+06:23.5,fansub,君たちの担任になったので　どうぞよろしく,"But until then, I'll be your teacher. Nice to meet you.",Pero ahora seré su maestro. Mucho gusto.,0.6999317407608032,0.7368550300598145,0.015456992201507092,-0.1999710500240326
+06:28.1,fansub,まず五六カ所ツッコませろ,There are at least six things wrong with this picture!,¡Hay al menos seis cosas mal con esto!,0.44708460569381714,0.5348581075668335,-0.35596179962158203,-0.41778460144996643
+06:30.4,fansub,クラス全員　そう思った,The feeling was unanimous.,El sentimiento fue unánime.,0.5160229802131653,0.3985203802585602,0.037534963339567184,0.06074806675314903
+06:34.0,fansub,防衛省の烏間という者だ,"I'm Karasuma, from the Ministry of Defense.","Soy Karasuma, del Ministerio de Defensa.",0.6980612874031067,0.6867724657058716,-0.07670184969902039,0.03688327223062515
+06:36.5,fansub,まずは　ここからの話は国家機密だと理解いただきたい,"First, please understand that what I'm about to say is classified information.","Primero, quiero que entiendan que lo que les voy decir es información clasificada.",0.6111176013946533,0.5956660509109497,0.559177577495575,0.5710687041282654
+06:43.7,fansub,単刀直入に言う,Allow me to be blunt:,Iré al grano.,0.5466828346252441,0.5969406962394714,-0.2373344898223877,-0.8058591485023499
+06:45.8,fansub,この怪物を君たちに殺してほしい,I want you to kill this creature.,Quiero que ustedes asesinen a estra criatura.,0.7779572606086731,0.753796398639679,0.083719402551651,-0.2063823789358139
+06:50.9,fansub,えっと　何っすか,Um...,Disculpe...,0.7004411220550537,0.6211338639259338,0.04014033079147339,-0.30562588572502136
+06:53.9,fansub,そいつ　攻めてきた宇宙人か何かっすか,What's the deal? Is he an alien invader or something?,¿Qué es eso? ¿Es un alien o algo así que vino a atacarnos?,0.6667881608009338,0.7836403846740723,-0.10271716117858887,0.06627537310123444
+06:56.4,fansub,失礼な,How rude!,¡Qué grosero!,0.7125157117843628,0.7922166585922241,0.21483764052391052,-0.16038812696933746
+06:57.3,fansub,生まれも育ちも地球ですよ,I'll have you know I was born and raised on Earth!,¡Sepan que nací y fui criado aquí en la Tierra!,0.8087303638458252,0.816392183303833,-0.5203873515129089,-0.0012029875069856644
+07:00.2,fansub,地球,He was?,¿En serio?,0.18638969957828522,0.3939668536186218,-0.8892212510108948,-0.2895461320877075
+07:01.6,fansub,詳しいことを話せないのは申し訳ないが,"I'm afraid I can't discuss the details, but he's telling the truth.","Temo que no puedo dar más detalles, pero lo que dice es cierto.",0.5685531497001648,0.5601249933242798,0.02449548989534378,0.42216017842292786
+07:04.4,fansub,こいつが言ったことは真実だ,,,0.23941107094287872,0.23942705988883972,-0.6077050566673279,-0.6077050566673279
+07:06.8,fansub,月を壊したこの生物は,"And as he said, he won't stop at the moon. Next year...","Y como dijo, lo de la Luna no fue todo. En marzo del año entrante...",0.41572582721710205,0.580392599105835,-0.535265326499939,-0.4212736189365387
+07:09.0,fansub,来年の三月　地球をも破壊する,he will destroy the Earth as well.,...destruirá la tierra también.,0.7072687149047852,0.7293193340301514,-0.4236227571964264,-0.2396162450313568
+07:14.3,fansub,このことを知っているのは各国首脳だけ,Only the world's leaders know about this.,Sólo los lideres del mundo saben de esto.,0.8423761129379272,0.8574092388153076,0.48679521679878235,0.47800150513648987
+07:18.1,fansub,こいつの存在が公になれば　世界はパニックに陥るだろう,"If news of this guy got out there, we'd be looking at a global panic.","Si lo de este sujeto se llega a saber, crearía un pánico a nivel mundial.",0.867163896560669,0.8615630865097046,0.13972897827625275,0.03499121963977814
+07:23.2,fansub,そうなる前に秘密裏にこいつを殺さなければならない,That's why we have to kill him in secret before that happens.,Tienen que matarlo en secreto antes de que eso pase.,0.9038216471672058,0.9295288324356079,-0.05135020986199379,0.006473775953054428
+07:27.7,fansub,つまり　暗殺だ,In other words: an assassination.,En otras palabras...un asesinato.,0.8969182968139648,0.9453285932540894,0.41492652893066406,0.3847529888153076
+07:30.4,fansub,だが　こいつは…,But here's the catch.,Pero este tipo...,0.51365727186203,0.8697888851165771,0.15642563998699188,0.23121581971645355
+07:31.9,fansub,とにかく速い,His speed is unmatched!,...es extremadamente rápido.,0.5080053806304932,0.8728924989700317,-0.026723481714725494,0.19255569577217102
+07:33.4,fansub,殺すどころか,"You try to kill him,",Así que intentarán asesinarlo...,0.5901792645454407,0.6382961273193359,-0.838409960269928,-0.29721567034721375
+07:35.4,fansub,眉毛の手入れをされている始末だ,and he ends up grooming your eyebrows instead—immaculately!,y él terminará limpiando sus cejas... ¡impecablemente!,0.7058548331260681,0.5819017887115479,-0.40172162652015686,-0.6250724792480469
+07:38.0,fansub,丁寧にな,,,0.7502651214599609,0.7502651214599609,-0.2357376515865326,-0.2357376515865326
+07:41.8,fansub,満月を三日月に変えるほどのパワーを持つ超生物だ,He's a superbeing with enough power to reduce the full moon to a crescent.,Es un ente sobrenatural con poder suficiente como para reducir la Luna a solo una cuarta parte.,0.6142702102661133,0.714897632598877,-0.6598834991455078,-0.24831080436706543
+07:45.9,fansub,最高速度はマッハ20,His speed tops out at Mach 20!,¡Su velocidad máxima es de mach 20!,0.6903485655784607,0.8275643587112427,0.3986145257949829,0.3218391537666321
+07:48.4,fansub,つまり　こいつが本気で逃げれば,"In short, if he actually wanted to get away from us,","En resumen, si el decidiera escapar,",0.7861563563346863,0.8883504867553711,-0.5028969049453735,-0.40571844577789307
+07:51.5,fansub,われわれは破滅の時まで　手も足も出ない,we wouldn't be able to do a thing to stop him.,estaríamos indefensos esperando nuestra destrucción.,0.46883800625801086,0.8029324412345886,-0.4719383418560028,-0.5590193867683411
+07:55.9,fansub,まあ　それでは面白くないのでね,But where's the fun in that?,Y eso no es divertido.,0.44350045919418335,0.8213269114494324,-0.21583124995231628,0.051836173981428146
+07:58.6,fansub,私から国に提案したのです,So I made your government an offer.,Así que le hice una oferta a su gobierno.,0.7055976390838623,0.7530901432037354,0.19720731675624847,0.3235170841217041
+08:01.2,fansub,殺されるのはごめんですが,They will refrain from attempts on my life.,En vez de matarme.,0.12156099826097488,0.5939785838127136,-0.48296424746513367,-0.6315963864326477
+08:03.5,fansub,椚ヶ丘中学校　3年E組の担任ならやってもいいと,"And in return, I'll teach Class 3-E at Kunigigaoka Junior High School.",Yo daré clases a la clase 3 - E 3 - E de la secundaria Kunigigaoka.,0.5819752812385559,0.6155674457550049,-0.1090104728937149,-0.6277436017990112
+08:08.1,fansub,いや　なんで,What? Why?,¿Qué? ¿Por qué?,0.6620965003967285,0.7794877290725708,-0.03562533110380173,0.04970332235097885
+08:09.5,fansub,こいつの狙いは分からん,We don't know what he's after.,No sabemos cuál es su objetivo.,0.7489612698554993,0.6528656482696533,-0.6165707111358643,0.3066331446170807
+08:11.7,fansub,しかし　われわれ政府は,"But we had no choice but to agree,","Pero nos vimos forzados a aceptar,",0.49642476439476013,0.5706362724304199,0.07865376770496368,0.15495043992996216
+08:13.6,fansub,君たち生徒に危害を加えないことを条件にやむなく承諾した,on the condition that he doesn't  harm any of you students.,con la condición de no agredir a los estudiantes.,0.7356076240539551,0.7139259576797485,-0.035073526203632355,-0.03754638880491257
+08:18.9,fansub,理由は二つ,We have two reasons for this.,Tenemos dos razones:,0.8916146755218506,0.9290175437927246,0.6030935645103455,0.6893200874328613
+08:20.4,fansub,教師として毎日教室に来るのなら　監視ができる,"First and foremost, if he's coming to a classroom every day to teach, we can keep an eye on him.","Primera y más importante, asistir a un salón de clases todos los días nos permitirá tenerlo vigilado,",0.7457137107849121,0.8587865233421326,0.1635112762451172,0.03965847194194794
+08:24.2,fansub,何よりも,"And second, it gives some thirty people the  opportunity to kill him from extremely close range.","y segundo, le dará la oportunidad a 30 personas de asesinarlo",0.15386655926704407,0.21364359557628632,-0.309011310338974,-0.6280490159988403
+08:25.9,fansub,30人もの人間が　至近距離からこいつを殺すチャンスを得る,,de un rango extremadamente cercano.,0.1093551516532898,0.28516361117362976,-0.6292489171028137,-0.23167961835861206
+08:33.4,fansub,中村さん,Nakamura-san.,Nakamura...,0.5834060907363892,0.6106345653533936,0.1220918744802475,-0.16614890098571777
+08:35.4,fansub,暗殺は勉強の妨げにならないときにと言ったはずです,Didn't I tell you not to let assassination interfere with your studies?,¿No te dije que no dejaras que el asesinato interfiriera con tus estudios?,0.7749323844909668,0.8060407042503357,-0.04660933092236519,0.026745792478322983
+08:39.0,fansub,すみません,Sorry.,Perdón...,0.8918251991271973,0.960002064704895,0.3273327648639679,0.5290346741676331
+08:40.1,fansub,罰として後ろで立って受講しなさい,Stand at the back for the rest of this lesson and think about what you've done!,¡Como castigo ve y siéntate al fondo!,0.6507575511932373,0.8421585559844971,0.0711510181427002,-0.7540361881256104
+08:44.0,fansub,なんでこんな怪物がうちの担任に,"""How could you make this creature our teacher?""",¿Cómo esta criatura puede ser nuestro maestro?,0.6225711703300476,0.6056509613990784,-0.0947813093662262,-0.17054013907909393
+08:47.0,fansub,どうして僕らが暗殺なんか…,"""And why are you making  us assassinate him?""",¿Y cómo podremos asesinarlo?,0.6727467775344849,0.6898621916770935,0.03009682148694992,-0.3688144385814667
+08:49.7,fansub,そんな声は　この条件でかき消えた,These cries faded as one  final condition was announced.,Todos los llantos desaparecieron cuando nos dijeron la condición final.,0.5064994096755981,0.42803505063056946,0.1584998369216919,0.18044835329055786
+08:53.8,fansub,成功報酬は100億円,Your success will be rewarded with ten billion yen.,"Si tienen éxito, serán recompensados con diez billones de yenes.",0.4444952607154846,0.47988376021385193,0.4453175365924835,0.4665246307849884
+08:57.4,fansub,当然の額だ,It's only fair.,Es lo justo.,0.36595600843429565,0.7591769695281982,-0.12864336371421814,-0.14455917477607727
+08:59.6,fansub,暗殺の成功は冗談抜きで地球を救うことなのだから,"If you can assassinate him, you will literally save the Earth.","Un asesinato exitoso, literalmente habrá salvado a la Tierra.",0.6955702900886536,0.8334860801696777,-0.5035912990570068,-0.33255669474601746
+09:04.6,fansub,幸いなことに　こいつは君たちをなめきっている,"Fortunately, he doesn't think much of you.","Afortunadamente, no cree mucho en ustedes.",0.48524266481399536,0.45140302181243896,-0.674458384513855,-0.3056819438934326
+09:08.3,fansub,見ろ　緑のしましまになったときは　なめている顔だ,See? Those green stripes mean he's looking down on you!,¿Lo ven? Esas rayas verdes significan que los ve inferiores.,0.7492051124572754,0.5813169479370117,-0.47893932461738586,-0.7964233160018921
+09:12.0,fansub,どんな皮膚だよ,"What is he, a chameleon?!",¿Qué clase de piel es esa?,0.25687992572784424,0.9366148114204407,-0.4601340591907501,0.6188780069351196
+09:13.1,fansub,当然でしょう,Of course I am!,¡Por supuesto!,0.6688615083694458,0.9195569157600403,-0.008895054459571838,0.6257913112640381
+09:14.7,fansub,国がやれない私を　君たちがやれるわけがない,"If the government can't  kill me, how could you?","Si el gobierno no pudo asesinarme, ¿cómo podrían ustedes?",0.612246572971344,0.5854140520095825,-0.30707406997680664,-0.27021095156669617
+09:18.5,fansub,最新鋭の戦闘機に襲われた時も,"Even when they sent their very  newest fighter jet after me,",Incluso cuando enviaron su raptor de caza más nuevo contra mí...,0.7041857242584229,0.4671010375022888,-0.2715999186038971,-0.46325817704200745
+09:29.2,fansub,逆に空中でワックスをかけてやりましたよ,all it got was a good  waxing right there in midair!,...¡Terminé con una buena encerada en pleno vuelo!,0.6442630887031555,0.6985413432121277,-0.4301183521747589,-0.4304905831813812
+09:32.1,fansub,だからなぜ手入れする,What's with all the grooming?,¿Por qué le interesa tanto limpiar?,0.39215925335884094,0.6363093852996826,-0.2891642451286316,0.061216358095407486
+09:34.1,fansub,君たちにはなめているこいつの隙をあわよくば突いてほしい,"So while this guy looks down on you, your job is to find an opening in his defenses and strike it.",Deberán encontrar un punto bajo en sus defensas y atacarlo.,0.6593483090400696,0.3797069191932678,-0.1314016878604889,-0.3649274408817291
+09:38.9,fansub,人間には無害で　こいつには効く武器と弾を支給する,We'll provide you with weapons and ammo  that won't hurt humans but will work on him.,"Tendrán armas y municiones que no pueden herir a humanos, pero sí a él.",0.6836960911750793,0.7785202264785767,-0.10798504948616028,-0.2144574671983719
+09:43.6,fansub,君たちの家族や友人には絶対秘密だ,You must keep this absolutely secret from your family and friends.,Deben mantenerlo en secreto de sus amigos y familiares.,0.8240665197372437,0.7544542551040649,0.5580812692642212,0.580001711845398
+09:47.2,fansub,とにかく時間がない,There's no time to lose.,No hay tiempo que perder.,0.7318045496940613,0.7704600095748901,0.197440505027771,0.4739638864994049
+09:49.0,fansub,地球が消えれば　逃げる場所など　どこにもない,"If the Earth is destroyed,  we'll have nowhere left to run.","Si la Tierra es destruida, no tendremos a dónde huir.",0.7825609445571899,0.7786811590194702,0.06897474825382233,0.3396652340888977
+09:52.9,fansub,そういうことです,And that's about it.,¡Y eso es todo!,0.841272234916687,0.8324761390686035,0.12032899260520935,0.0948677510023117
+09:54.6,fansub,さあ　皆さん　残された1年を有意義に過ごしましょう,"Well then, I hope you'll make the most  of your one remaining year!",¡Hay que dar lo mejor de cada uno durante el año que queda!,0.7569827437400818,0.7489217519760132,0.38322362303733826,0.23957093060016632
+10:02.1,fansub,残された時間は1年,We only have one year.,Solo nos queda un año.,0.5197523832321167,0.706631600856781,0.33801084756851196,0.6586290001869202
+10:04.7,fansub,僕たちがこいつの暗殺に成功しないと,"If we can't assassinate him by then,",Si no podemos asesinarlo para entonces...,0.8334423303604126,0.8526732921600342,-0.23847121000289917,-0.3750866651535034
+10:08.3,fansub,地球が壊される,the Earth will be history.,La tierra será historia.,0.5316834449768066,0.5388602614402771,-0.6141400337219238,-0.6235615015029907
+10:16.9,fansub,昼休みですね,"Ah, lunchtime!","Ah, ¡La hora del almuerzo!",0.9124810695648193,0.9270126223564148,-0.1818488985300064,-0.1518193930387497
+10:18.8,fansub,先生　ちょっと中国に行ってマーボー豆腐を食べてきます,I'll just pop over to China for some mapo tofu.,Iré un momento a China por un poco de mapo tofu.,0.6975187063217163,0.7672867774963379,-0.15893903374671936,-0.34332165122032166
+10:23.5,fansub,暗殺希望者がもしいれば　携帯で呼んでください,"If anyone would like to try assassinating me,  just call me on my cell.",Cualquier aspirante a asesino es bienvenido sólo llamen a mi celular.,0.7976638078689575,0.884522557258606,0.32268962264060974,0.0582885779440403
+10:29.9,fansub,えーと　マッハ20だから,"Uh, let's see...if he's traveling at Mach 20…",Veamos. Si viaja a mach 20...,0.5066958069801331,0.7598402500152588,-0.0927429348230362,-0.5822855234146118
+10:33.0,fansub,マーボーの本場　四川省まで10分くらい,"...it'll take maybe ten minutes to get to Sichuan, the home of mapo tofu.","le tomará más o menos diez minutos llegar a Sichuan, la tierra del mapo tofu.",0.6998347043991089,0.7426701188087463,0.224969282746315,-0.05452415719628334
+10:36.7,fansub,確かにあんなもん　ミサイルでも落とせんわな,Guess no missile could shoot that down.,Supongo que no hay misil que pueda alcanzarlo.,0.7488313913345337,0.6613722443580627,-0.3908901512622833,-0.5038262605667114
+10:40.5,fansub,しかも　あのタコ　音速飛行中にテストの採点までしてるんだぜ,"Heck, that octopus even grades tests while he breaks the sound barrier!","Maldición, ese pulpo incluso califica los exámenes mientras viaja a la velocidad del sonido.",0.6411547064781189,0.7989804148674011,-0.17641201615333557,-0.33090877532958984
+10:44.7,fansub,マジで,Seriously?!,¿En serio?,0.5617764592170715,0.7109953165054321,0.38597747683525085,0.2860048711299896
+10:46.0,fansub,俺なんかイラスト付きで返ってきた,He even did a little drawing on mine.,Hasta hizo un dibujo en el mio.,0.5594772696495056,0.6397368311882019,-0.3412608504295349,-0.49242791533470154
+10:48.5,fansub,てか　あいつ　何げに教えてるの　うまくない,"Isn't he actually a pretty good teacher, though?","De echo, ¿no crees que es muy bueno enseñando?",0.7482513785362244,0.6601993441581726,-0.3702748119831085,-0.35491064190864563
+10:51.3,fansub,わかる,He is!,¿Verdad?,0.5246332287788391,0.5223642587661743,-0.7140714526176453,-0.43580859899520874
+10:52.4,fansub,放課後に数学教わって　次のテストの点　よかったもん,I aced my math test thanks to his after-school tutoring!,El me enseñó matemáticas y me fue muy bien en el examen.,0.7286000847816467,0.7331142425537109,-0.2307281345129013,-0.21066458523273468
+10:56.9,fansub,まっ　でもさ,"Yeah, but...","Si, pero...",0.832998514175415,0.8563636541366577,0.3574090898036957,0.3159743547439575
+10:59.6,fansub,しょせん俺ら　E組だしな,we are the E Class.,...estámos en la clase E.,0.2569291889667511,0.43578779697418213,-0.33976277709007263,-0.17490726709365845
+11:02.3,fansub,頑張っても仕方ねぇけど,Tryin' our best won't do much.,Esforzarnos no hará gran diferencia.,0.4895206093788147,0.5037214756011963,-0.41501617431640625,-0.32162749767303467
+11:05.1,fansub,そう　タコ型の超生物で暗殺のターゲット,Yeah...He might be an octopoid superbeing not to mention our target,Es verdad él es un super pulpo y es nuestro blanco de asesinato,0.3891527056694031,0.5944661498069763,-0.8849262595176697,-0.013085868209600449
+11:10.1,fansub,なのに,but...,pero...,0.7345200777053833,0.8036364912986755,-0.005402412265539169,0.16003133356571198
+11:11.6,fansub,あの先生はなぜか普通に先生している,"for whatever reason, he's teaching us just like any other teacher would.","...por alguna razón, como maestro, es realmente bueno.",0.8016687631607056,0.7489452958106995,0.04886388033628464,-0.46840083599090576
+11:15.9,fansub,僕らも同じ　即席の殺し屋であるのを除けば　普通の生徒だ,"Likewise, we're perfectly normal students outside of the whole killer thing,","Somos estudiantes perfectamente normales, salvo por lo de asesinos,",0.7701049447059631,0.8013108372688293,-0.2760750651359558,-0.14073167741298676
+11:21.8,fansub,けど　僕らE組は　少しだけ普通と違う,but E Class is a little different from the rest.,pero la clase E es diferente al resto.,0.5215271711349487,0.64000004529953,0.3687388598918915,0.3675265908241272
+11:29.1,fansub,おい　渚,"Hey, Nagisa.","Oye, Nagisa.",0.7722886800765991,0.7269465923309326,0.006251605227589607,-0.11203527450561523
+11:31.3,fansub,ちょっと付き合えよ,Come with us.,Ven con nosotros.,0.5501481294631958,0.5913214087486267,-0.06330005824565887,0.04812561348080635
+11:32.9,fansub,暗殺の計画　進めようぜ,It's time to put our assassination plan into action.,Es hora de que pongamos en acción nuestro plan de asesinato.,0.7945950627326965,0.8418892621994019,0.26362520456314087,0.2825918197631836
+11:39.9,fansub,あのタコ　機嫌によって顔の色が変わるだろ,"That octopus's face changes color according to his mood, right?","La cara del pulpo cambia de acuerdo a su humor, ¿cierto?",0.6859196424484253,0.7886742949485779,0.32693541049957275,0.20476818084716797
+11:43.9,fansub,観察しとけって言ったやつ　できてるか,Did you note down all the variations like I asked?,¿Has echo las observaciones que te dije?,0.39943647384643555,0.6275525093078613,-0.26783260703086853,-0.45503440499305725
+11:47.2,fansub,一応,More or less.,Más o menos.,0.5967311263084412,0.8444567322731018,-0.2943370044231415,-0.3052263855934143
+11:48.8,fansub,余裕な時は　緑のしましまなのは知ってるよね,"It's striped green when he's feeling confident, as we all know.",Sabemos que las lineas verdes aparecen cuando esta confiado.,0.5317420959472656,0.6098084449768066,-0.8019277453422546,-0.6619855165481567
+11:53.3,fansub,生徒の解答が間違っていたら暗い紫,"When we give an incorrect answer, it's dark purple.","Cuándo damos una respuesta incorrecta, se pone de color púrpura oscuro.",0.7981048822402954,0.8402901887893677,-0.4484143555164337,-0.33483511209487915
+11:57.1,fansub,正解だったら明るい朱色,A correct answer makes it go bright scarlet.,Una respuesta correcta hace que se ponga de color rojo.,0.6935293078422546,0.5841162204742432,-0.3137983977794647,-0.5193330645561218
+12:00.0,fansub,面白いのは昼休みの後で…,"But what's really interesting is after lunch, when—",Pero lo que en verdad es interesante es después del almuerzo...,0.9015754461288452,0.9233518242835999,0.11317233741283417,0.19678963720798492
+12:02.1,fansub,俺は知らなくていいんだよ,I don't need to know all that.,No necesito saber eso.,0.7337528467178345,0.7676172256469727,0.2135007381439209,0.5836073756217957
+12:05.0,fansub,作戦がある,I have a plan.,Tengo un plan.,0.6188550591468811,0.6474487781524658,0.19882524013519287,0.2177305370569229
+12:06.8,fansub,あいつが一番油断してる顔の時に　お前がやりに行け,"And at the moment he least expects it,you are going to carry it out.",Y en el momento que menos se lo espera...tú lo llevarás a cabo.,0.5636872053146362,0.5236330032348633,-0.6458879113197327,-0.617344081401825
+12:11.6,fansub,ぼ…僕が,M-Me? But...,¿Y-Yo? Pero...,0.7037534713745117,0.7505395412445068,-0.20685938000679016,-0.1697070300579071
+12:13.2,fansub,でも…,,,0.6064406037330627,0.6064406037330627,-0.1194068044424057,-0.1194068044424057
+12:13.8,fansub,いい子ぶってんじゃねえよ,Don't be such a goody-goody.,No seas tan cobarde. Somos la clase E...,0.6579176783561707,0.5387974977493286,-0.8493313193321228,-0.7418645024299622
+12:16.0,fansub,俺らはE組だ,We're the E Class—,,0.5587213635444641,0.6056779623031616,0.17752937972545624,-0.44899001717567444
+12:17.9,fansub,進学校で有名なこの学校のレベルについていけなかった脱落組,the rejects that failed to keep up at this famous prep school.,...los rechazados que no pudimos estar a la altura de esta secundaria tan famosa.,0.6589465737342834,0.7331857085227966,-0.4095896780490875,-0.7999280691146851
+12:23.0,fansub,通称　エンドのE組,They call us...the End Class.,Nos llaman... La clase Final.,0.5455483198165894,0.6169652938842773,-0.46956440806388855,-0.6885905265808105
+12:27.7,fansub,毎日山の上の隔離校舎まで通わされて,"Every day, they send us to this isolated mountaintop campus","Todos los días, nos envían a este campus en la cima de una colina olvidada...",0.7667543888092041,0.6730577349662781,-0.08453340828418732,-0.321074903011322
+12:31.3,fansub,あらゆる面でカスみたいに差別されてる,and discriminate against us in every way like we're scum.,"...y nos discriminan de todas las formas, como si fuéramos basura.",0.7758739590644836,0.7445387840270996,0.07528208196163177,0.10714338719844818
+12:35.2,fansub,落ちこぼれの俺らが100億円稼ぐチャンスなんて,You think us losers are ever gonna get  another chance to score a cool ten billion yen?,¿Cuándo crées que perdedores como nosotros tendrán otra oportunidad,0.6982677578926086,0.6075043082237244,-0.24459043145179749,-0.37189462780952454
+12:38.7,fansub,この先　一生回ってこねえぞ,,de tener 10 billones de llenes?,0.4588300585746765,0.35028156638145447,-0.9770984053611755,-1.5248206853866577
+12:41.9,fansub,抜け出すんだよ　このクソみてえな状況から,We're gonna climb our way out of this shithole...,Vámos a poder salir de esta horrible situación...,0.6187772750854492,0.7739902138710022,-0.24053803086280823,-0.5581517219543457
+12:46.4,fansub,たとえ　どんな手を使ってもな,any way we can.,sea cual sea el precio.,0.5149388909339905,0.4019990563392639,-0.35886481404304504,-0.043064504861831665
+12:51.0,fansub,しくじんなよ　渚君,Just don't screw up Nagisa-kun.,No lo eches a perder Nagisa.,0.4976099729537964,0.606941819190979,-0.5740827918052673,-0.9497339725494385
+12:54.7,fansub,渚のやつ　E組行きだってよ,I heard Nagisa's headed for E Class.,Escuché que Nagisa es el representante de la clase E.,0.41728848218917847,0.3566115200519562,-0.34528765082359314,-0.28137797117233276
+12:58.9,fansub,終わったな　あいつ,"Ooh. Well, that's it for him.","Bueno, hasta ahí llegó.",0.6955193877220154,0.7027467489242554,-0.1736663281917572,0.1215544193983078
+13:01.2,fansub,俺　あいつのアドレス消すわ,I better delete him from my address book.,Voy a borrar su información de contacto.,0.7971506118774414,0.7484050393104553,-0.004356857389211655,0.21154296398162842
+13:03.5,fansub,俺も,Same.,"¡Yo igual, no quiero ni pensar que estámos al mismo nivel!",0.6014862060546875,0.46257326006889343,-0.010712813585996628,-0.05633285269141197
+13:04.4,fansub,同じレベルだと思われたくないし,I don't want anybody to think I'm on his level!,,0.6007425785064697,0.152593195438385,0.03780844807624817,-0.4416588544845581
+13:15.9,fansub,ただ今　帰りました,I'm back!,¡Estoy de regreso!,0.6995733976364136,0.7609232664108276,-0.22716760635375977,0.3748202621936798
+13:17.4,fansub,お…　おかえり　先生,"H-Hello, sir...","B-Bienvenido, maestro...",0.6807346940040588,0.6123829483985901,0.1454932540655136,0.031089551746845245
+13:20.1,fansub,どうしたの　そのミサイル,What's with the missile?,¿Qué pasó con ese misil?,0.9524515867233276,0.6836247444152832,0.22496354579925537,0.5808145403862
+13:22.2,fansub,お土産です,A souvenir.,Un regalo.,0.8431150913238525,0.8205704689025879,0.0630425363779068,0.2514074742794037
+13:23.4,fansub,日本海で　自衛隊に待ち伏せされまして,The Self-Defense Force ambushed me over the Sea of Japan.,La fuerza de autodefensa estába esperando por mi en el mar de Japón.,0.7991005182266235,0.8941231369972229,-0.14756563305854797,0.11324617266654968
+13:26.5,fansub,た…　大変ですね　ターゲットだと,"I-It must be tough, having everyone after your life.",D-Debe ser terrible ser un blanco.,0.3682067394256592,0.43275630474090576,-0.28192269802093506,-0.5047607421875
+13:29.4,fansub,いえいえ　皆から狙われるのは力を持つ者の証しですから,Not at all! You know you're truly powerful when everyone has it in for you.,No del todo. Sabes que eres poderoso cuando todos van tras de ti.,0.6343587040901184,0.6628735661506653,-0.2824946641921997,0.06481434404850006
+13:34.8,fansub,さっ　5時間目を始めますよ,"Now, I do believe it's time for fifth period.",Empecemos con el quinto periodo.,0.5574986338615417,0.6674684286117554,-0.04543885216116905,0.16152992844581604
+13:41.9,fansub,はい,"Yes, sir.",Si.,0.8588217496871948,0.9869241714477539,0.3573549687862396,0.15664049983024597
+13:43.9,fansub,先生には　分からないよね,He doesn't understand.,El maestro no lo entiende.,0.5709109902381897,0.8481518030166626,-0.16591592133045197,0.1053418219089508
+13:46.6,fansub,みんなから　暗殺のターゲットにされるってことは,"If you're everyone's assassination target,","Si eres el blanco de asesinato de todos,",0.8563591837882996,0.8567897081375122,-0.41054150462150574,-0.5056649446487427
+13:49.9,fansub,裏を返せば　みんなに力を認められているってことだ,that means they all acknowledge your power.,significa que todos ya conocen tu poder.,0.7201845049858093,0.673196017742157,0.1774953305721283,-0.09912109375
+13:55.1,fansub,分からないよね　そんな怪物に,A creature like that wouldn't understand what it's like,Una criatura como esa no podrá entender como se siente,0.6623557806015015,0.6496199369430542,-0.3048417568206787,-0.1533411741256714
+13:58.3,fansub,期待も警戒もされなくなった　認識さえされない人間の気持ちなんて…,"for no one to expect or fear anything from you, or even acknowledge your existence...","ser indigno de las espectativas de otros o del miedo, o siquiera el ser reconocido…",0.5552620887756348,0.6701948046684265,-0.34767064452171326,-0.7532035708427429
+14:06.5,fansub,お前のおかげで　俺の評価まで　落とされたよ,"Thanks to you, my evaluation's in the gutter!","Gracias a ti, ¡mi evaluación esta en el caño!",0.42451128363609314,0.5710554718971252,-0.7249782681465149,-0.759566605091095
+14:10.3,fansub,唯一　よかったのは　もうお前を見ずに済むことだ,The only silver lining is I'll never have to see you again.,Lo único bueno es que no voy a poder verte nunca más.,0.6285058259963989,0.6660105586051941,-0.07073046267032623,0.19590656459331512
+14:19.6,fansub,殺せるかもしれない,I might just be able to kill him.,Quizá logre asesinarlo.,0.8254801034927368,0.9141693115234375,-0.40048590302467346,-0.17581909894943237
+14:21.6,fansub,だって　この先生にも僕の姿は　見えてないから,"After all, this teacher can't see me, either.","Después de todo, tampoco es que me note.",0.8687024116516113,0.596672534942627,-0.2365400791168213,-0.703472375869751
+14:36.5,fansub,はい　それでは　お題に沿って短歌を作ってみましょう,"All right, then, compose a short poem to go along with our theme.","Muy bien, chicos. Compongan un poema corto con el tema que estamos utilizando.",0.7613362073898315,0.7749484181404114,0.494329035282135,0.41633883118629456
+14:41.6,fansub,ラスト７文字を「触手なりけり」で締めてください,"The final line should be ""was tentacles all along.""",La linea final debe ser eran tentáculos todo el tiempo.,0.36530154943466187,0.3697720170021057,-0.7085260152816772,-1.0165126323699951
+14:46.6,fansub,「触手なりけり」ですか,"Huh? ""Was tentacles all along""?","¿""Eran tentáculos todo el tiempo""?",0.523398756980896,0.6136953234672546,-0.7933088541030884,-0.632583498954773
+14:48.9,fansub,はい　書けた人は先生の所へ持ってきなさい,"Indeed! When you're finished, bring them to me.","¡Así es! Cuando terminen, entreguenlos.",0.522435188293457,0.5295721292495728,-0.0037852153182029724,-0.018780428916215897
+14:52.7,fansub,チェックするのは　文法の正しさと触手を美しく表現できたか,I'll be looking for proper grammar and whether you've aptly  conveyed the tentacle's beauty.,Revisane la gramática......y qué tan bien expresen la belleza de los tentáculos.,0.6241647005081177,0.726302981376648,0.07224972546100616,-0.043794747442007065
+14:58.2,fansub,例文です,An example:,Un ejemplo:,0.6834293007850647,0.7020761966705322,0.47502392530441284,0.6205208897590637
+14:59.8,fansub,花さそふ　嵐の庭の雪ならではえゆくものは触手なりけり,Not the storm of garden's snow or flowers moving on but sprouting there instead Was tentacles all along.,La tormenta llega en destiempo o las flores tienen contratiempos pero germinando siempre están los tentaculos todo el tiempo.,0.7486276030540466,0.6662421226501465,-1.0835468769073486,-1.0356401205062866
+15:08.2,fansub,「触手だったのだなぁ」って…,We have to write it was tentacles? Really?,¿Eran tentáculos? ¿En serio?,0.4933299422264099,0.47189322113990784,-0.6749503016471863,-0.560411810874939
+15:10.5,fansub,できた者から　今日は　帰ってよし,"Once you're done, you're free to go home!",¡Una vez que terminen pueden irse a casa!,0.6670985221862793,0.7934823632240295,-0.09948091208934784,-0.0350743904709816
+15:13.3,fansub,そんなの思い付かないよ,How are we gonna write about that?,¿Cómo se supone que escríbamos sobre eso?,0.41155752539634705,0.39635151624679565,-0.8870865702629089,-0.7675613164901733
+15:15.3,fansub,ほーら　ほら　ヌルヌル　素晴らしい句が湧いてきませんか,"Now, now...Aren't any marvelously  slithery phrases coming to mind?","Vamos, vamos. ¿No se les viene ninguna frase maravillosa y escurridiza a la mente?",0.604346752166748,0.7303060293197632,-0.26101723313331604,-0.17136265337467194
+15:19.3,fansub,ヌルヌルヌルヌルヌルヌル…,Slither slither slither slither!,"¡Escurridiza, escurridiza, escurridiza!",0.566902756690979,0.8235125541687012,-1.1188856363296509,-0.5876986980438232
+15:21.9,fansub,ヌルヌル　うるせえよ,Enough with the slithering!,¡Deja de repetirlo!,0.569487452507019,0.6038526892662048,-0.4618203341960907,-0.23465725779533386
+15:23.5,fansub,先生　質問,I have a question!,¡Tengo una pregunta!,0.3529166877269745,0.4392043650150299,0.2757117748260498,0.5390090346336365
+15:26.1,fansub,何ですか　茅野さん,"Yes, Kayano-san?","Ah. ¿Si, Kayano?",0.470990926027298,0.6028062701225281,0.027372192591428757,0.09977716207504272
+15:28.1,fansub,いまさらなんだけどさ　先生の名前　何ていうの,"It feels weird to only ask this now, but... what's your name?","Es una pregunta extraña a estas alturas, pero... ¿Cual es su nombre?",0.5549417734146118,0.6736489534378052,-0.1383703649044037,0.0755118876695633
+15:32.9,fansub,他の先生と区別するとき不便だよ,How else are we supposed to refer to you specifically?,¿De qué otro modo podemos referirnos a usted maestro?,0.3786526620388031,0.7299249172210693,-0.5663427710533142,-0.39281541109085083
+15:35.8,fansub,名前…　ですか,My... name?,¿Mi... nombre?,0.7729742527008057,0.8656001687049866,0.2347354143857956,0.33526989817619324
+15:38.0,fansub,そういやぁ…,Now that you mention it...,Ahora que lo mencionas...,0.5658854246139526,0.7051405310630798,0.11923235654830933,0.1395600587129593
+15:39.2,fansub,名乗ってないね,He never did tell us.,...el núnca nos lo ha dicho.,0.35598546266555786,0.4740329682826996,-0.5093874335289001,-0.662905216217041
+15:41.9,fansub,名乗るような名前はありませんねぇ,Hmm... I don't really have the kind of name you tell people.,Hmm... En verdad no tengo el tipo de nombre para contarle a la gente.,0.790028989315033,0.821440577507019,-0.4753253757953644,-0.4119057357311249
+15:44.4,fansub,何なら　皆さんで　付けてください,Go ahead and give me one.,"Adelante, denme uno.",0.6028971076011658,0.7306720018386841,-0.26743873953819275,-0.5824185013771057
+15:46.8,fansub,付けていいんだ,You sure about that?,¿Está seguro de eso?,0.43475446105003357,0.4181693196296692,-0.4597092866897583,-0.42617905139923096
+15:48.1,fansub,でも　今は　課題に集中ですよ,"But right now, focus on your schoolwork.","Pero por ahora, concéntrence en su tarea.",0.6786209940910339,0.8470049500465393,0.5152838826179504,0.45999401807785034
+15:50.9,fansub,はーい,"Yes, sir.",Si...,0.6751063466072083,0.8205040693283081,0.34167781472206116,-0.1187838464975357
+15:52.3,fansub,では　先生は　その間　一休みを,"Meanwhile, I'll just take a little break.","Mientras tanto, tomaré un pequeño descanzo.",0.5944935083389282,0.5794579386711121,0.2048868089914322,0.18666070699691772
+16:03.0,fansub,おっ　もうできましたか　渚君,"Finished already, Nagisa-kun?","¿Terminaste, Nagisa?",0.5959504842758179,0.7612137198448181,0.0749480277299881,-0.30373266339302063
+16:12.4,fansub,昼食の後で　僕らが眠くなるころに,"After lunch, right around the time we get sleepy,","Después del almuerzo, justo después empieza a sentirse adormilado,",0.9209164977073669,0.7529287934303284,0.14076641201972961,-0.19928430020809174
+16:15.2,fansub,先生の顔が薄いピンクになるときがある,his face sometimes goes light pink.,y su cara se pone de un color rosado.,0.7024931907653809,0.7581660747528076,0.37172216176986694,0.13876859843730927
+16:19.5,fansub,茅野の質問への反応も少し遅れた,"He was a little slow responding to Kayano's question, too.",Además estuvo un poco lento al responderle a Kayano.,0.6639479398727417,0.5772128701210022,0.3993246555328369,0.25877848267555237
+16:22.8,fansub,たぶん　先生も一番　油断する時間なんだ,That might be when he's at his most vulnerable.,Eso significa qué es cuando esta más vulnerable.,0.30455806851387024,0.1377609223127365,-0.09331274032592773,-0.8466349244117737
+16:29.4,fansub,この進学校で　落ちこぼれた僕らは思う,"We prep-school failures are always thinking,","Nosotros, los perdedores de la secundaria, siempre pensamos,",0.5849969387054443,0.679791271686554,-0.4592629075050354,-0.697723925113678
+16:33.4,fansub,どこかで見返さなきゃ,We gotta get back at 'em somehow.," ""Tenemos que vengarnos de ellos de alguna manera.""",0.6095563173294067,0.5214993953704834,-0.2912077009677887,0.007958056405186653
+16:35.4,fansub,やればできると　親や　友達や　先生たちを,"""We'll show our parents, friends, and teachers that we can do it if we try.""","Es lo que nuestros padres, amigos y maestros siempre dicen.",0.7206633687019348,0.5464545488357544,0.03790031373500824,-0.07308584451675415
+16:41.2,fansub,やればできると…,We can do it if we try.,Puedes hacerlo si lo intentas.,0.6485413908958435,0.7650553584098816,-0.03949391841888428,-0.23714658617973328
+16:46.9,fansub,言ったでしょう もっと　工夫を…,Didn't I tell you to be more inventive?,¡Te lo dije: se más original!,0.6415873765945435,0.730821967124939,0.013458620756864548,0.1041083037853241
+16:50.1,fansub,認めさせなきゃ…,We have to prove ourselves...,Tenemos que probarnos a nosotros mismos...,0.5504395961761475,0.518184244632721,-0.09509269893169403,-0.3230573236942291
+16:52.9,fansub,どんな手を使っても…,by any means necessary.,...por cualquier medio necesario.,0.5110604763031006,0.832522451877594,0.13231676816940308,0.06888291239738464
+17:02.6,fansub,しゃーっ,Hell yeah!,¡Siii!,0.7788326144218445,0.844497561454773,0.12904387712478638,0.0972805768251419
+17:03.8,fansub,やったぜー,We did it!,¡Lo hicimos!,0.6274900436401367,0.6788132190704346,0.08466795086860657,0.3064195215702057
+17:04.9,fansub,100億円いただき,Ten billion yen! Cha-ching!,¡10 billones de yenes! ¡Genial!,0.5228986144065857,0.5896346569061279,-0.2820044755935669,-0.0010655689984560013
+17:05.0,fansub,渚,Nagisa!,¡Nagisa!,0.6476224064826965,0.6706982254981995,-0.327044814825058,-0.5043675303459167
+17:07.3,fansub,ざまあみろ,Serves you right!,¡Bien echo!,0.6474286913871765,0.7986372113227844,-0.9606282114982605,-0.42868953943252563
+17:08.4,fansub,寺坂　何やったんだ,Terasaka! What have you done?!,¡Terasaka! ¡¿Qué has echo?!,0.6940606832504272,0.7594667077064514,0.033567823469638824,0.14907877147197723
+17:10.9,fansub,こいつも自爆テロは予想してなかったろ,Bet he never expected a suicide bomber!,¡El no esperába un acto suicida!,0.6941525340080261,0.6470419764518738,-0.18395492434501648,-0.20377834141254425
+17:13.3,fansub,ちょっと　渚に　何　持たせたのよ,Hey! What'd you give Nagisa?!,¡Oye!¡¿Qué le has dado a Nagisa?!,0.5181235074996948,0.6042880415916443,-0.17268404364585876,-0.16904765367507935
+17:16.8,fansub,おもちゃの手榴弾だよ,Huh? A toy grenade.,¿Eh? Una granada de juguete.,0.9091575145721436,0.8212859630584717,-0.1006547063589096,-0.26423871517181396
+17:19.2,fansub,ただし　火薬を使って威力を上げてある,But I beefed it up with gunpowder,¡Pero le vacié la polvora,0.6195886135101318,0.4249812066555023,-0.10140769183635712,-0.7944794297218323
+17:22.7,fansub,300発の対先生弾がすげえ速さで飛び散るようにな,so it'd shoot three hundred anti-teacher bullets at crazy-high speed!,y entonces explotó con 300 balas anti-maestro a una increible velocidad!,0.6412480473518372,0.7497804164886475,-0.3270174264907837,-0.4808349013328552
+17:27.9,fansub,人間が死ぬ威力じゃねえよ,"Nothin' strong enough to kill human beings, all right?",No son tan fuertes como para matar a alguien.,0.7123064994812012,0.5682851076126099,-0.1876581758260727,-0.34452399611473083
+17:30.4,fansub,俺の100億で　治療費くらい…,My ten billion yen'll cover his medical bills no prob—,Mis diez billones de llenes van a cubrir sus gastos medi-,0.5676480531692505,0.6528984308242798,-0.017607249319553375,-0.7591532468795776
+17:35.6,fansub,無傷　やけど一つ負ってねえのか,He's not hurt? Not even a single burn?,¿No está herido? ¿Ni una sola quemadura?,0.6282663941383362,0.8541110754013062,-0.5261443853378296,-0.4044108986854553
+17:38.6,fansub,それに　何だ　この膜,And what's with this membrane?,¿Y... esta membrana...,0.8964695334434509,0.9104949235916138,-0.1764151155948639,-0.2471274733543396
+17:40.9,fansub,タコの死体に　つながっ…,It's attached to that octopus's corpse?,está adherida al cadaver del pulpo?,0.59555584192276,0.793475866317749,-0.4119119942188263,-0.4349026679992676
+17:41.8,fansub,実は　先生　月に１度ほど　脱皮をします,"As it happens, I shed my skin about once a month.",Como sucede. Cambio mi piel una vez al mes.,0.558162271976471,0.5338661074638367,0.2521458566188812,-0.3297273516654968
+17:45.9,fansub,脱いだ皮を渚君にかぶせて守りました,I protected Nagisa-kun there by covering him with my old skin.,Protegi a Nagisa cubriéndolo con mi vieja piel.,0.6260268688201904,0.6224583387374878,-0.16865195333957672,-0.36885935068130493
+17:51.5,fansub,月1で使える　先生の奥の手です,It's my once-monthly ace-in-the-hole.,Cada mes es mi as bajo la manga.,0.42954495549201965,0.4723370671272278,-0.7966895699501038,-0.8814330101013184
+17:58.2,fansub,寺坂　吉田　村松,"Terasaka, Yoshida, Muramatsu.","Terasaka, Yoshida, Muramatsu.",0.7486397624015808,0.7485907673835754,-0.2979409098625183,-0.2979409098625183
+18:03.8,fansub,先生の顔は　顔色を見るまでもなく…,You don't have to look at the color of his face to know.,No hay necesidad de verle el color del rostro para saberlo.,0.3613274097442627,0.3961207866668701,0.008033808320760727,0.1726503074169159
+18:12.8,fansub,真っ黒,Pitch black! He is furious!,¡Negro puro! ¡Está furioso!,0.5534964203834534,0.7518293261528015,-0.6256935000419617,-0.6337136626243591
+18:14.6,fansub,ど怒りだ,,,0.6733911037445068,0.6733911037445068,-0.46532106399536133,-0.46532106399536133
+18:15.7,fansub,首謀者は　君ら３人だろ,"You three...are responsible for this, aren't you?",Ustedes tres...están detras de todo esto ¿verdad?,0.7850824594497681,0.7978687286376953,-0.19269856810569763,0.002874394878745079
+18:19.6,fansub,いっ　いや…,N-No!,¡N-No!,0.8044813871383667,0.8488813042640686,0.4771152436733246,0.48002344369888306
+18:20.8,fansub,渚が勝手に…,It was all Nagisa's idea!,¡Todo fué idea de Nagisa!,0.4131154417991638,0.4534158706665039,-0.03137189894914627,0.14988213777542114
+18:29.1,fansub,いなく…,He's gone!,¡Se fué!,0.37926697731018066,0.5931589603424072,-0.41199812293052673,-0.3830811679363251
+18:34.0,fansub,俺らんちの表札,The nameplates from our houses?!,¡¿Las placas de sus casas?!,0.5486932992935181,0.468437135219574,-0.39175084233283997,-0.6271699666976929
+18:36.2,fansub,政府との契約ですから　先生は　決して君たちに危害は加えない,My agreement with your government prohibits me from harming you.,Mi contrato con el gobierno no me permite lastimarlos.,0.4573199450969696,0.5237026214599609,0.2061614692211151,0.07634834945201874
+18:41.7,fansub,が　しかし…,But if you try another assassination like that one...,Pero si intentan otro asesinato igual que este...,0.47981369495391846,0.4802579879760742,-0.2062414586544037,-0.01742296665906906
+18:44.5,fansub,次　また　今のような方法で暗殺に来たら,,,0.28107237815856934,0.2811185419559479,-0.6206684708595276,-0.6206684708595276
+18:49.2,fansub,君たち以外には何をするか分かりませんよ,I might just harm someone else.,Tal vez dañe a alguien mas,0.365652859210968,0.3448181450366974,-0.3980127274990082,-0.4740983843803406
+18:53.2,fansub,家族や友人…　いいや,"Your family, your friends...","Su familia, sus amigos...",0.8742405772209167,0.8590546250343323,-0.19333715736865997,-0.0397862046957016
+18:56.3,fansub,君たち以外を地球ごと消しますかね,Maybe I'll kill everyone on the planet except you.,O inclusive acabar con todos en el planeta menos a ustedes.,0.6350254416465759,0.8385875225067139,-0.02219308540225029,-0.4733475148677826
+19:01.6,fansub,5秒間で　皆　悟った,It only took five seconds for everyone to understand.,Solo tomó cinco segundos para que todos entendieran...,0.7438011765480042,0.8853667378425598,0.3758856952190399,0.48368942737579346
+19:04.6,fansub,地球の裏でも　逃げられないと,Nowhere on this planet was safe.,...que ningún lugar de este planeta es seguro.,0.5491464734077454,0.6554613709449768,-0.35394856333732605,-0.30889588594436646
+19:08.0,fansub,どうしても逃げたければ,Our only escape from this situation...,Si de verdad queremos escapar...,0.5506063103675842,0.7817943692207336,-0.21931004524230957,0.26183488965034485
+19:12.3,fansub,この先生を殺すしか…,was to kill him!,...todo lo que podemos hacer es asesinarlo.,0.650676965713501,0.6286875009536743,-0.5426037311553955,0.13488681614398956
+19:16.7,fansub,何なんだよ　てめえ　迷惑なんだよ,"What the hell's your deal, anyway? You're a real pain in the ass!",¿Qué diablos quieres entonces? ¡Solo eres una enorme molestia!,0.6753859519958496,0.7297989130020142,-0.3169759511947632,-0.2739904224872589
+19:20.1,fansub,いきなり来て　地球　爆破とか　暗殺しろとか,"Showing up all ""I'm gonna blow up the Earth"" and ""Assassinate me""!","¡Mostrando todo eso de ""voy a destruir la tierra"" o ""asesinenme""!",0.6476037502288818,0.7563351988792419,-0.6081855893135071,-0.5864606499671936
+19:23.5,fansub,迷惑なやつに　迷惑な殺し方して　何が悪いんだよ,What's wrong with using an annoying method to kill an annoying guy?!,¡¿Qué tiene de malo utilizar un metodo aburrido para acabar con un tipo aburrido?!,0.6225816607475281,0.35888856649398804,-0.04957413300871849,-0.1949513554573059
+19:28.0,fansub,迷惑　とんでもない,Annoying? Hardly.,¿Aburrido? Al contrario.,0.6610748171806335,0.6685099601745605,0.11491172015666962,0.0045510558411479
+19:30.2,fansub,君たちのアイデア自体は　すごくよかった,Your idea itself was a very good one.,La idea fue bastante buena.,0.9424837231636047,0.8420319557189941,0.44841042160987854,0.615135908126831
+19:33.2,fansub,特に　渚君,"Especially you, Nagisa-kun.","Especialmente tú, Nagisa.",0.734174370765686,0.7765220403671265,0.1601334512233734,0.2759637236595154
+19:34.9,fansub,君の肉薄までの自然な体運びは100点です,The way you carried yourself so naturally on your approach gets full marks from me.,La forma en la que naturalmente te acercaste merece la máxima puntuación.,0.5035490393638611,0.37331685423851013,-0.19905975461006165,-0.3218842148780823
+19:38.9,fansub,先生は　見事に　隙を突かれました,You did an excellent job making it past my defenses.,Hiciste bien en aprovechar la debilidad en mis defensas.,0.30075567960739136,0.23336449265480042,-0.362720251083374,-0.324045866727829
+19:41.9,fansub,ただし,However!,¡Sin embargo!,0.7478716373443604,0.8322358727455139,0.08042752742767334,-0.10225105285644531
+19:43.5,fansub,寺坂君たちは　渚君を,None of you looked out for Nagisa-kun—,Ninguno de ustedes se preocupó por Nagisa,0.26877304911613464,0.15338854491710663,-0.6557555198669434,-0.3207920491695404
+19:45.9,fansub,渚君は　自分を大切にしなかった,not even Nagisa-kun himself.,ni siquiera él mismo…,0.4371001720428467,0.616719663143158,-0.5324105620384216,-0.761684238910675
+19:49.4,fansub,そんな生徒に暗殺する資格はありません,Students like that aren't fit to assassinate anyone.,Estudiantes como ustedes no pueden asesinar a nadie.,0.8834574222564697,0.8685015439987183,0.061706144362688065,0.08214743435382843
+19:53.1,fansub,人に笑顔で胸を張れる暗殺をしましょう,We need an assassination worth smiling about—one to be proud of!,Necesitamos un asesinato que valga la pena. ¡Uno del cual estar orgullosos!,0.7866033315658569,0.7411231994628906,-0.1256193369626999,-0.15831264853477478
+19:56.3,fansub,君たち　全員　それができる力を秘めた有能なアサシンだ,You're all capable assassins who have that power within you.,Todos son asesinos capaces que tienen el poder en su interior.,0.7369791269302368,0.5040490627288818,0.3010474741458893,0.07528305798768997
+20:01.7,fansub,ターゲットである先生からのアドバイスです,Just a few words of advice from your teacher-cum-target.,Es un consejo de su maestro y de su blanco.,0.8437881469726562,0.8228737711906433,0.1289536952972412,-0.553134560585022
+20:06.3,fansub,マッハ20で怒られてうねる触手で褒められた,"One moment we were being chewed out at Mach 20, and the next we were being praised with waving tentacles.","Nos molestába a Mach 20, y ahora nos alaba con todos sus tentáculos.",0.5290776491165161,0.5549800992012024,-0.5683750510215759,-0.7676056623458862
+20:11.5,fansub,この異常な教育が　僕は　普通に　うれしかった,"It wasn't your average education, but it made me pretty happy.",Esta inusual educación me pone un poco feliz.,0.8727055788040161,0.842625617980957,-0.10445159673690796,0.16335003077983856
+20:16.3,fansub,この異常な先生は僕らのことを　正面から見てくれたから,All because this unusual teacher was actually willing to look us in the eye.,Todo a causa de este inusual maestro y actualmente nos estába mirando cara a cara,0.8211212158203125,0.9239128828048706,0.43804866075515747,-0.011654410511255264
+20:30.8,fansub,あなたの…,If you...,Si tu...,0.7072442770004272,0.8931446075439453,-0.7575673460960388,-0.18864981830120087
+20:33.3,fansub,あなたの時間をくれるなら,"If you're willing to give up your time,",Si tú estas dispuesto a dar tu tiempo...,0.6681066751480103,0.8672088980674744,0.032483525574207306,0.26788029074668884
+20:36.3,fansub,あの子たちを教えてあげて,go teach those children.,úsalo para enseñarle a esos chicos.,0.7814931273460388,0.8295233845710754,-0.07653965055942535,-0.12795181572437286
+20:40.8,fansub,なんて　すてきな触手…,What splendid tentacles.,Qué espléndidos tentáculos...,0.6060512065887451,0.8052721619606018,-0.0491190142929554,0.3356308043003082
+20:43.7,fansub,この手なら　きっと　あなたはすてきな教師に…,"With hands like these, I'm sure you'll be a splendid teacher.",Con manos como estas...Estoy segura de que serás un gran maestro.,0.8607997894287109,0.9037244319915771,0.11911900341510773,0.04047616571187973
+20:51.0,fansub,さて　問題です　渚君,"Let me pose you a question, Nagisa-kun.",Tengo una pregunta para ti Nagisa:,0.5305195450782776,0.4895639717578888,0.2938886880874634,0.39789727330207825
+20:53.8,fansub,先生は　殺される気などみじんもない,I have not the slightest intention of being killed.,No tenia la mínima intención de ser asesinado.,0.5324152708053589,0.6339227557182312,-0.24068349599838257,-0.12336161732673645
+20:57.0,fansub,皆さんと　来年　3月までエンジョイしてから,"I will enjoy my time with you all until next March,","Disfrutaré mi tiempo con ustedes hasta marzo,",0.7095363140106201,0.7463979721069336,-0.08583073318004608,0.141989603638649
+20:59.5,fansub,地球を爆破です,and then I will blow up the Earth.,y entonces destuiré la tierra.,0.687938392162323,0.5435664057731628,-0.503979504108429,-0.6613953113555908
+21:02.1,fansub,それが嫌なら君たちは　どうしますか,"If you don't like that idea, what do you plan to do about it?",Si no les gusta la idea. ¿Qué van a hacer al respecto?,0.6762268543243408,0.7371230125427246,0.2798076868057251,0.43359002470970154
+21:06.6,fansub,暗殺なんて　したことないし,"We've never assassinated anyone before,","Nunca hemos asesinado a nadie antes,",0.778584897518158,0.7831538319587708,0.03267526999115944,0.09130747616291046
+21:09.3,fansub,僕らには　他に　すべきことがたくさんある,and there's plenty of other stuff we should be doing.,y estoy segura que haremos muchas más cosas.,0.9233589172363281,0.721432626247406,0.5022690892219543,0.18000364303588867
+21:14.2,fansub,けど　思った,"But, you know...",Pero sabes...,0.6072689890861511,0.6331209540367126,-0.2645111680030823,0.06651227176189423
+21:16.7,fansub,この先生なら　殺意さえも受け止めてくれるって,I think this teacher might even accept us trying to kill him.,Creo que este maestro tal vez pueda aceptar mi sed de sangre.,0.8653485774993896,0.5972464680671692,-0.11813998222351074,-0.23099122941493988
+21:21.2,fansub,地球を爆破されるその前に　先生を殺します,Before you destroy Earth...,Antes de que destruyas la tierra... Te mataré.,0.5680394768714905,0.7234662771224976,-0.13860897719860077,-0.3544064164161682
+21:27.4,fansub,ならば　今　やってみなさい,Then what are you waiting for?,¡Entonces hazlo!,0.44352996349334717,0.792321503162384,-0.12997791171073914,0.4763530492782593
+21:29.4,fansub,殺せた者から　今日は帰ってよし,"Once you've killed me, you're free to go home!","¡Una vez que acaben conmigo, podran irse a casa!",0.7414446473121643,0.675482988357544,-0.3418710231781006,-0.29330992698669434
+21:32.7,fansub,んな簡単に…,"Just like that, huh?",¿Solo así?,0.5292844176292419,0.49412786960601807,0.15566714107990265,-0.05927702412009239
+21:33.8,fansub,殺せるわけねえだろ,You know we can't kill you!,¡Sabes que no podemos hacerlo!,0.7669219374656677,0.4798089563846588,-0.8798330426216125,-0.7124032378196716
+21:35.9,fansub,僕らは　殺し屋,We are killers.,Somos asesinos.,0.9546621441841125,0.9525400996208191,0.31119033694267273,0.40173962712287903
+21:37.9,fansub,ターゲットは　先生,And our target...is our teacher.,Y nuestro blanco....es nuestro maestro.,0.6974182724952698,0.5839401483535767,0.26632043719291687,-0.07105480134487152
+21:40.9,fansub,ふきふき　ふきふき,"Wipe, wipe, wipe it clean!","¡Limpia, limpia, limpia!",0.5792121887207031,0.6653622984886169,-0.7722935676574707,-0.8783894181251526
+21:42.6,fansub,今　撃っても…,If we tried to shoot him now...,Si le disparamos ahora...,0.5962050557136536,0.7821606397628784,-0.06661471724510193,-0.015907958149909973
+21:43.7,fansub,表札と一緒に手入れされる…,we'd just get polished like those nameplates.,...nos terminará puliendo como esas placas.,0.46038344502449036,0.6692728996276855,-0.5585247278213501,-0.824826180934906
+21:46.0,fansub,帰れねえ…,We're never getting out of here!,¡Nunca iremos a casal,0.3932754397392273,0.31123608350753784,-0.19414708018302917,-1.0559132099151611
+21:48.1,fansub,殺せない先生か…,An unkillable teacher...,Un maestro imposible de matar...,0.6378493309020996,0.8005901575088501,-0.4010661840438843,-0.22014322876930237
+21:50.8,fansub,殺せない…　ころ…,"Korosenai for ""unkillable and ""sensei"" for ""teacher""...""","Korosenai... ""Koro""..",0.29635465145111084,0.4895605444908142,-1.0719759464263916,-0.628730058670044
+21:54.2,fansub,殺せんせーは,"Oh! What about ""Korosensei""?","¡Oh! ¿Qué tal ""Maestro Koro""?",0.4981626570224762,0.45571842789649963,-0.611549437046051,-0.6700626611709595
+21:56.3,fansub,殺せんせー,Korosensei?,¿Maestro Koro?,0.3554968237876892,0.2668907046318054,-0.5849573612213135,-0.7073920965194702
+21:59.8,fansub,殺せんせーと　僕らの暗殺教室,So here we are with Korosensei...in our assassination classroom.,"Somos nosotros y nuestro maestro Koro, en nuestro salón de asesinato.",0.7761840224266052,0.7291304469108582,-0.3929411768913269,-0.5936859250068665
+22:05.0,fansub,始業のベルは　明日も鳴る,The bell signals the start of another school day.,Otro día y otra campana que suena.,0.6716973781585693,0.7203642129898071,0.39999258518218994,-0.035333745181560516
+00:48.8,official,それでは,Now then...,"Muy bien, muchachos.",0.7421566247940063,0.7755376100540161,-0.06966058909893036,-0.03192873299121857
+00:50.5,official,ホームルームを始めます,...let's get started.,Es hora de comenzar la clase.,0.5539675951004028,0.4866989254951477,-0.0233067087829113,0.06851308047771454
+00:52.7,official,日直の人は号令を,"Student on duty, on your command.","Estudiante a cargo, adelante.",0.49940162897109985,0.5307580828666687,-0.7604429125785828,-0.8647322654724121
+00:54.9,official,き…起立,S-Stand up!,Sí. De pie.,0.8060203790664673,0.7792813777923584,-0.2533109188079834,-0.9665899276733398
+01:00.1,official,気を付け,Attention!,Atención.,0.6835134029388428,0.9015069007873535,0.060198236256837845,0.20890627801418304
+01:05.0,official,礼,Bow!,Ahora.,0.5555450320243835,0.7690892815589905,-0.49664363265037537,-0.2855704128742218
+01:09.7,official,おはようございます,Good morning.,Buenos días a todos.,0.9813264608383179,0.9060602188110352,0.29765406250953674,0.3769941031932831
+01:11.6,official,発砲したままで結構ですので　出欠をとります,Fire all you like--I'll just be taking attendance.,Sigan disparando mientras paso lista.,0.4946235418319702,0.7144495248794556,-0.5573999881744385,-0.760879397392273
+01:15.2,official,磯貝君,Isogai?,¿Yuma Isogai?,0.48860880732536316,0.4114026427268982,-0.5482209324836731,-0.36132699251174927
+01:16.7,official,はい,Here!,Presente.,0.6556112766265869,0.6868909597396851,-0.4169121980667114,-0.25995001196861267
+01:18.0,official,すみませんが　銃声の中なので　大きな声で,"I'm sorry, you'll have to speak up with all this gunfire.","Tienes que hablar más fuerte,  no te oigo con tantos disparos.",0.7742454409599304,0.7177878022193909,-0.09519943594932556,0.05044535547494888
+01:21.4,official,はい,Here!,Presente.,0.6556112766265869,0.6868909597396851,-0.4169121980667114,-0.25995001196861267
+01:22.3,official,岡島君,Okajima?,¿Taiga Okajima?,0.6202292442321777,0.6365817785263062,-0.35446563363075256,-0.285493403673172
+01:23.6,official,はい,Here!,Presente.,0.6556112766265869,0.6868909597396851,-0.4169121980667114,-0.25995001196861267
+01:24.3,official,奥田さん,Okuda!,,0.5393138527870178,0.5952266454696655,-0.2604905366897583,-0.3950054943561554
+01:25.5,official,はい,Here!,Presente.,0.6556112766265869,0.6868909597396851,-0.4169121980667114,-0.25995001196861267
+01:26.3,official,片岡さん,Kataoka?,¿Megu Kataoka?,0.6136754751205444,0.6618627905845642,-0.512775182723999,-0.48539963364601135
+01:27.4,official,はい,Here!,,0.6556112766265869,0.7537773847579956,-0.4169121980667114,0.08500553667545319
+01:28.0,official,茅野さん,Kayano?,¿Kaede Kayano?,0.4788898527622223,0.4852476119995117,-0.4913344085216522,-0.3895047903060913
+01:28.9,official,はい,Here!,Presente.,0.6556112766265869,0.6868909597396851,-0.4169121980667114,-0.25995001196861267
+01:29.5,official,神崎さん,Kanzaki!,¿Yukiko Kanzaki?,0.7223232984542847,0.6962366104125977,0.04092811048030853,-0.005912806838750839
+01:30.5,official,はい,Here!,Presente.,0.6556112766265869,0.6868909597396851,-0.4169121980667114,-0.25995001196861267
+01:33.3,official,はい　遅刻なしっと,All right.,Listo.,0.5753032565116882,0.6845826506614685,-0.22407059371471405,-0.5679624080657959
+01:36.0,official,素晴らしい　先生　とてもうれしいです,No tardies. Excellent! That makes me very happy.,Ninguno ha llegado tarde. Excelente. Eso es algo que me da mucho gusto.,0.5378115773200989,0.4695040285587311,0.3241649866104126,0.222120463848114
+01:39.4,official,速過ぎ,He's too fast.,Es muy rápido.,0.8070348501205444,0.7455984354019165,-0.3598151206970215,0.054085247218608856
+01:40.9,official,クラス一斉射撃で駄目なのかよ,So the whole class shooting at him doesn't work?,¿Con todos disparando y no pudimos darle?,0.6564722061157227,0.6610027551651001,-0.5082938075065613,-1.1023179292678833
+01:43.5,official,僕らは,We,Somos...,0.892834484577179,0.9389656782150269,-0.00877426564693451,-0.3165106773376465
+01:45.0,official,殺し屋,are killers.,asesinos.,0.8248209953308105,0.9608263969421387,-0.48643431067466736,-0.45125553011894226
+01:46.5,official,僕らのターゲットは,And our target,Y el objetivo es...,0.9256032705307007,0.7710858583450317,0.1011124700307846,-0.14611971378326416
+01:49.1,official,先生,is our teacher.,nuestro profesor.,0.4576824903488159,0.614422082901001,-0.5345638394355774,-0.2808137536048889
+01:50.1,official,残念ですねぇ,Too bad.,Muy mal,0.7737926244735718,0.7345952391624451,0.1570831686258316,0.10374274849891663
+01:51.6,official,今日も命中弾ゼロです,Not a single bullet,Ni una bala dio en el blanco.,0.6180736422538757,0.5711763501167297,-0.31044426560401917,-0.2845042049884796
+01:54.0,official,数に頼る戦術は　個々の思考を疎かにする,"hit its mark today, either.",Los métodos de números absolutos carecen de un enfoque individual.,0.023212358355522156,0.5059879422187805,-0.8889934420585632,-0.15775249898433685
+01:57.6,official,目線　銃口の向き　指の動き,"Line of sight, barrel position, finger movement--","La línea de visión, la colocación del cañón, la posicion de los dedos.",0.7833612561225891,0.8004979491233826,0.22655925154685974,-0.06116652861237526
+02:01.4,official,一人一人が単純過ぎます,each of these is far too simple.,Fue fácil predecir sus movimientos.,0.793382465839386,0.13313136994838715,0.23671075701713562,-0.014017954468727112
+02:04.0,official,もっと工夫しましょう,You've got to be more inventive!,Sean más creativos.,0.6199492812156677,0.7701065540313721,0.30304884910583496,0.4627704918384552
+02:05.9,official,でないと,Otherwise...,"Si no, a mi velocidad máxima de Mach 20",0.6819798946380615,0.29227960109710693,-0.6727374792098999,-0.732954740524292
+02:07.4,official,最高速度マッハ20の先生は　殺せませんよ,...you'll never be able to kill me at my max speed of Mach 20.,nunca podrán matarme.,0.5734158754348755,0.503657341003418,-0.24987417459487915,-0.4487927556037903
+02:12.2,official,いや　ていうかさ,"But, like, see...","No, eso no es posible.",0.5832897424697876,0.6238653659820557,-0.052676137536764145,-0.19436678290367126
+02:14.4,official,本当に全部よけてんのかよ　先生,No way did you seriously dodge all of those!,No hay forma de que esquivara tantos disparos.,0.4537052810192108,0.3146006762981415,-0.5641921758651733,-0.3947482109069824
+02:16.6,official,どう見ても これ　ただのBB弾だろ,"I mean, these are just BB's.","Solo son balines. Aunque le diéramos con ellos,",0.6185067892074585,0.1578780859708786,-0.4394930303096771,-1.0801762342453003
+02:19.8,official,当たってるのに　我慢してるだけじゃないの,You coulda just stood there grittin' your teeth as they hit you.,"podría aguantar el dolor, pero nunca lo matarían.",0.49878767132759094,0.40053173899650574,-0.46239563822746277,-0.7195063829421997
+02:22.6,official,そうよ　そうだよ,Yeah! That's right!,Sí. Tienes razón. No son balas de verdad.,0.7793502807617188,0.4674341082572937,0.4528082609176636,-0.4353736639022827
+02:26.2,official,では　弾を込めて渡しなさい,Gather up the BB's and hand them over.,Pásenme un arma que esté cargada.,0.42941248416900635,0.8763473629951477,-0.43439388275146484,-0.782116711139679
+02:29.4,official,言ったでしょう,I told you: these may be harmless to you...,"Ya se los dije, quizás sean inofensivos para ustedes.",0.4730413854122162,0.531549334526062,-0.4576140344142914,-0.2641483247280121
+02:31.0,official,この弾は君たちにとっては無害ですが,,,0.28008273243904114,0.28008273243904114,-0.5748586654663086,-0.5748586654663086
+02:36.6,official,国が開発した対先生用特殊弾です,...but they're special anti-me BB's developed by the government.,Pero son balines especiales desarrollados por el gobierno.,0.45147672295570374,0.36955028772354126,-0.583748459815979,-0.4534548819065094
+02:40.4,official,当たれば　先生の細胞を豆腐のように破壊できる,"If one hits me, it can slice through my cells like they were tofu.","Si uno me golpea, puede cortar mis células como si fueran tofu.",0.5421509742736816,0.573082447052002,-0.34823402762413025,-0.20503483712673187
+02:45.0,official,もちろん数秒あれば再生しますが,"Of course, they regenerate a few seconds later.",Aunque se regeneran unos segundos despúes.,0.6787326335906982,0.7032612562179565,0.32884153723716736,0.084292933344841
+02:48.5,official,だが　君たちも目に入ると危ない,"Then again, you could end up shooting your eyes out.",Me preocupa más que pudieran sacarse un ojo.,0.6942996382713318,0.6735744476318359,-0.6184574365615845,-0.831394374370575
+02:52.2,official,先生を殺す以外の目的で室内での発砲はしないように,No shooting in the classroom unless you're trying to kill me.,Por eso no deben disparar en el aula a menos que intenten matarme.,0.7909255027770996,0.7895166873931885,-0.05250604823231697,0.10228116810321808
+02:57.5,official,殺せるといいですね　卒業までに,"I do hope you can kill me before graduation, that is.",Y espero que puedan lograrlo antes del día de la graduación.,0.7972345352172852,0.4680786728858948,-0.5798888206481934,-0.09856681525707245
+03:02.0,official,さあ　銃と弾を片付けましょう,"Now then, let's put away the guns and BB's and start on our work.",Ahora guardemos las armas y las municiones y comencemos la clase.,0.8208701014518738,0.6542532444000244,0.2896427512168884,-0.03243555128574371
+03:04.8,official,授業を始めます,,,0.4495856463909149,0.4495856463909149,-0.27042555809020996,-0.27042555809020996
+03:08.1,official,椚ヶ丘中学校３-Eは　暗殺教室,Class 3-E of Kunugigaoka Junior High School: the assassination classroom.,La clase 3-E de la Secundaria Kunugigaoka: el aula de asesinatos.,0.7896068096160889,0.7679963111877441,0.2254772186279297,-0.14101152122020721
+03:13.6,official,始業のベルが　今日も鳴る,"Another day, another class bell rings.",Suena la campana y empieza la clase.,0.6885576248168945,0.6704112887382507,-0.4537295699119568,0.13740572333335876
+04:56.5,official,はい　ここで問題です,"Now, here's the question:","Bien, responde la pregunta,",0.748860239982605,0.7036062479019165,0.4380284547805786,-0.017043571919202805
+04:58.9,official,磯貝君,Isogai!,Isogai.,0.6909232139587402,0.7433661222457886,-0.36156973242759705,-0.44965940713882446
+05:00.3,official,はい,"Y-Yes, sir?",Sí.,0.7029933333396912,0.9837303757667542,-0.27628931403160095,0.5430672764778137
+05:01.2,official,この4本の触手のうち　仲間外れは,Which of these four tentacles is not like the others?,Di qué tentáculo señala al pronombre diferente.,0.6766623854637146,0.42621660232543945,-0.28590312600135803,-1.0768554210662842
+05:04.4,official,ええと　青い触手,Um... the blue one?,Creo que el azul.,0.8048126697540283,0.8749305009841919,-0.3098372220993042,-0.6421875357627869
+05:06.7,official,正解　青の例文の「WHO」だけが関係詞です,"Correct! Only the ""who"" in the blue sentence is a relative pronoun."," Es correcto. Solo el ""quién"" en esa oración es un pronombre relativo.",0.8955305218696594,0.6298474073410034,-0.24766850471496582,-0.08619803190231323
+05:11.4,official,関係代名詞は直前の名詞を修飾し,"A relative pronoun qualifies the noun right before it, so here,",,0.6494266986846924,0.3431687355041504,-0.8045037984848022,-0.7915937304496765
+05:14.4,official,ここでは「who is standing over there」が,"""who is standing over there"" is describing ""boy"" over here.",,0.8759691715240479,0.41600316762924194,-0.3773459494113922,-0.5730323195457458
+05:17.5,official,前の「the boy」少年を説明しています,,,0.3371456265449524,0.3371456265449524,-0.2933398485183716,-0.2933398485183716
+05:12.2,official,ねえ　渚,"Hey, Nagisa.","Oye, Nagisa.",0.6970676183700562,0.7044911980628967,0.21503154933452606,0.21984802186489105
+05:16.1,official,昼間だけど　出てるね　三日月,"The crescent moon's out, even though it's daytime.",La luna creciente puede verse aun de día.,0.4113348722457886,0.3210621476173401,-0.5319039821624756,-0.5783481001853943
+05:21.4,official,何で僕らがこんな状態になったのか,How did we end up like this?,¿Cómo fue que terminamos metidos en esto?,0.8702688813209534,0.8464851379394531,0.2994518280029297,0.18123206496238708
+05:25.5,official,３年生の始め,Two things happened at once as our third year began.,"En tercero de secundaria,",0.5456645488739014,0.726782500743866,-0.1059257835149765,-0.11399999260902405
+05:27.4,official,僕らは二つの事件に同時に遭った,The first was the moon suddenly exploding into a crescent.,nos sorprendieron dos hechos extraordinarios.,0.16976556181907654,0.6311302781105042,0.011363659985363483,0.052445631474256516
+05:45.8,official,一つ目は　その日突然　月が爆発して三日月形になってしまったこと,"""Breaking"" ""NASA Reporting: Most of Moon Missing?""",El primero: una explosión que dejó a la Luna convertida en una media luna permanente.,0.47823742032051086,0.8199101090431213,-0.6671409010887146,-0.10329227149486542
+05:55.2,official,番組の途中ですが　ここで臨時ニュースです,We interrupt this program to bring you breaking news.,Interrumpimos este programa por noticias de última hora.,0.5305342674255371,0.5615932941436768,0.31510382890701294,0.46443572640419006
+05:58.3,official,つい先ほど　月が７割方蒸発し　失われたとの情報が入りました,We've just gotten word that about 70 percent of the moon,Acabamos de recibir la noticia de que casi el 70% de la luna,0.7597556114196777,0.7701839804649353,-0.6100236177444458,-0.6379640102386475
+06:04.5,official,繰り返します,has been vaporized into nothing. I repeat...,"fue destruida repentinamente. Repito, la...",0.375929057598114,0.6026123762130737,-0.24151474237442017,-0.6322329640388489
+06:05.7,official,われわれはもう一生三日月しか見られないということでしょうか,Will we have only a crescent moon to look at for the rest of our lives?,¿Tendremos una luna creciente para el resto de nuestras vidas?,0.48655685782432556,0.48973551392555237,0.0642411857843399,-0.21147900819778442
+06:10.7,official,そして　二つ目の事件が　これ,And the second was this:,"Y el segundo, fue la llegada de este ser.",0.8752070069313049,0.7604025602340698,0.21834269165992737,-0.3970719873905182
+06:13.9,official,初めまして　私が月をやった犯人です,How do you do? I'm the one who blasted your moon.,"Tienen que saber, que fui yo quien destruyó su Luna.",0.8187301754951477,0.763817548751831,-0.7076305747032166,-0.6320884227752686
+06:20.9,official,来年には　地球もやる予定です,I plan to do the same to the Earth next year.,Y destruiré la Tierra el próximo año.,0.884827196598053,0.7080147862434387,0.0970165878534317,-0.15021303296089172
+06:23.5,official,君たちの担任になったので　どうぞよろしく,Now I'm your teacher. Nice to meet you.,Pero ahora soy su profesor. Encantado de conocerlos.,0.6962512135505676,0.7222586870193481,-0.13105329871177673,0.03186001256108284
+06:28.1,official,まず五六カ所ツッコませろ,There are at least six things wrong with this picture!,Hay algo que está mal en todo esto.,0.44708460569381714,0.27628403902053833,-0.35596179962158203,-0.6695032119750977
+06:30.4,official,クラス全員　そう思った,The feeling was unanimous.,El sentimiento fue unánime.,0.5160154104232788,0.3985203802585602,0.037534963339567184,0.06074806675314903
+06:34.0,official,防衛省の烏間という者だ,I'm Karasuma from the Ministry of Defense.,Buen día. Soy Karasuma del Ministerio de Defensa.,0.693936824798584,0.7101931571960449,-0.05772252753376961,0.2754405736923218
+06:36.5,official,まずは　ここからの話は国家機密だと理解いただきたい,"First, please understand that what I'm about to say is a state secret.","En primera, lo que voy a decirles es secreto de Estado.",0.7888574004173279,0.8136085271835327,0.5991573333740234,-0.004890592768788338
+06:43.7,official,単刀直入に言う,Let me be blunt:,Voy a ser contundente:,0.561889111995697,0.7257416248321533,-0.42890018224716187,0.26794543862342834
+06:45.8,official,この怪物を君たちに殺してほしい,I want you to kill this creature.,"lo que estoy esperando, es que maten a esta criatura.",0.7779600620269775,0.7203707695007324,0.083719402551651,-0.021930281072854996
+06:50.9,official,えっと　何っすか,Um...,Pero...¿qué es eso?,0.7004411220550537,0.7310216426849365,0.04014033079147339,-0.23855337500572205
+06:53.9,official,そいつ　攻めてきた宇宙人か何かっすか,What is that? Is that the alien or whatever that came to attack us?,¿Una clase de extraterrestre que ha venido a atacarnos?,0.7504604458808899,0.7989923357963562,-0.16085799038410187,-0.010591577738523483
+06:56.4,official,失礼な,How rude! I'll have you know I was born and raised on Earth!,Qué grosero. Yo nací y crecí en la Tierra.,0.49226781725883484,0.41592878103256226,-0.7279066443443298,-0.6574476361274719
+06:57.3,official,生まれも育ちも地球ですよ,,,0.21472804248332977,0.21472804248332977,-0.5486050248146057,-0.5486050248146057
+07:00.2,official,地球,He was?,¿En la Tierra?,0.18638969957828522,0.8065184354782104,-0.8892212510108948,-0.8624225854873657
+07:01.6,official,詳しいことを話せないのは申し訳ないが,"I'm afraid I can't discuss the details, but he's telling the truth.","Me temo que no puedo discutir detalles con ustedes,",0.5685531497001648,0.7786486744880676,0.02449548989534378,0.32123082876205444
+07:04.4,official,こいつが言ったことは真実だ,,pero lo que ha dicho es verdad.,0.23941107094287872,0.9708774089813232,-0.6077050566673279,0.49868205189704895
+07:06.8,official,月を壊したこの生物は,"Come March next year, this creature who smashed the moon","En marzo del próximo año, esta criatura que destrozó la Luna,",0.8205981850624084,0.838073194026947,-0.5839961767196655,-0.6152682900428772
+07:09.0,official,来年の三月　地球をも破壊する,will destroy Earth as well.,también destruirá la Tierra.,0.7771015167236328,0.7992859482765198,-0.30372583866119385,-0.16005463898181915
+07:14.3,official,このことを知っているのは各国首脳だけ,Only the world's leaders know about this.,Solo los líderes mundiales saben de todo esto.,0.842383861541748,0.8470413684844971,0.48679521679878235,0.6285935044288635
+07:18.1,official,こいつの存在が公になれば　世界はパニックに陥るだろう,"If news of this guy gets out there, we'd be looking at a global panic.","Si su existencia se hace pública, habrá pánico por todo el mundo.",0.8671379089355469,0.8217007517814636,0.12758998572826385,0.3681332767009735
+07:23.2,official,そうなる前に秘密裏にこいつを殺さなければならない,You've got to kill him in secret before that happens.,Tienen que eliminarlo en secreto antes de que eso ocurra.,0.897563636302948,0.6591458916664124,-0.1422012597322464,0.06089724972844124
+07:27.7,official,つまり　暗殺だ,In other words...an assassination.,Es decir: asesinarlo.,0.9013122320175171,0.8523513674736023,0.27828243374824524,-0.2070132941007614
+07:30.4,official,だが　こいつは…,But this guy...,Pero es muy veloz.,0.7448249459266663,0.2587764859199524,0.34173768758773804,0.11305439472198486
+07:31.9,official,とにかく速い,...is extremely fast!,"Intentas matarlo,",0.7673895955085754,0.28652113676071167,-0.058707211166620255,-0.9199459552764893
+07:33.4,official,殺すどころか,You try to kill him...,"y mientras tanto,",0.5799697041511536,0.4234592616558075,-0.6784180998802185,-0.890247642993927
+07:35.4,official,眉毛の手入れをされている始末だ,...and he ends up grooming your eyebrows instead--immaculately!,él termina arreglando tus cejas y te deja impecable.,0.6277996897697449,0.6649645566940308,-0.43522289395332336,-0.5946179628372192
+07:38.0,official,丁寧にな,,,0.7502651214599609,0.7502651214599609,-0.2357376515865326,-0.2357376515865326
+07:41.8,official,満月を三日月に変えるほどのパワーを持つ超生物だ,This superbeing has the power to turn a full moon into a crescent.,Un ser con el poder de convertir la luna llena en media luna.,0.6635785698890686,0.7659554481506348,-0.3608699142932892,-0.3117312490940094
+07:45.9,official,最高速度はマッハ20,His speed tops out at Mach 20!,Alcanza una velocidad de Mach 20.,0.6902723908424377,0.6099046468734741,0.3986145257949829,0.4041500687599182
+07:48.4,official,つまり　こいつが本気で逃げれば,"In short, if he gets away.","En resumen: si él llegara a escaparse,",0.8506729602813721,0.782799482345581,-0.714969277381897,-0.49490973353385925
+07:51.5,official,われわれは破滅の時まで　手も足も出ない,"we'll be left helpless, awaiting our destruction.",quedaríamos indefensos esperando nuestra destrucción.,0.7859610319137573,0.7866843938827515,-0.35403382778167725,-0.44058579206466675
+07:55.9,official,まあ　それでは面白くないのでね,And that's no fun.,Y eso no sería divertido.,0.6981960535049438,0.6975228190422058,-0.12319403886795044,0.05919768661260605
+07:58.6,official,私から国に提案したのです,So I made your government an offer:,Por eso le hice una oferta a su gobierno:,0.6950206756591797,0.7461726069450378,0.23805801570415497,0.3307838439941406
+08:01.2,official,殺されるのはごめんですが,No killing me.,"si no atentan contra mi vida,",0.45543837547302246,0.5575762391090393,-0.7779415249824524,-0.8494160175323486
+08:03.5,official,椚ヶ丘中学校　3年E組の担任ならやってもいいと,"Instead, I'll teach Class 3-E at Kunugigaoka Junior High School.",yo seré el profesor de la clase 3-E en la escuela secundaria Kunugigaoka.,0.5753136873245239,0.5934723615646362,-0.10336238145828247,-0.28018179535865784
+08:08.1,official,いや　なんで,What? Why?,¿Por qué?,0.6620965003967285,0.8226805329322815,-0.03562533110380173,0.4369644224643707
+08:09.5,official,こいつの狙いは分からん,We don't know what he's after.,No sabemos lo que busca.,0.7488856315612793,0.7003018856048584,-0.6165707111358643,-0.3396821916103363
+08:11.7,official,しかし　われわれ政府は,"But we were forced to agree,","Pero nos vimos obligados a aceptar,",0.5107190012931824,0.5822978019714355,-0.03533105179667473,0.16441114246845245
+08:13.6,official,君たち生徒に危害を加えないことを条件にやむなく承諾した,on the condition that he doesn't harm any of you students.,"con la condición de que no dañe a ninguno de ustedes, los estudiantes.",0.7356076240539551,0.8070780634880066,-0.035078223794698715,-0.2219650000333786
+08:18.9,official,理由は二つ,We have two reasons:,"Tenemos dos razones: Primera y más importante,",0.8900132179260254,0.8914011120796204,0.5949192047119141,0.2575508654117584
+08:20.4,official,教師として毎日教室に来るのなら　監視ができる,"First and foremost, coming to a classroom every day. ""lets us keep an eye on him",",si viene a clases todos los días podremos vigilarlo.""",0.6850045919418335,0.7884342670440674,-0.01943284645676613,-0.18144765496253967
+08:24.2,official,何よりも,"and second, it gives some thirty people the opportunity to kill him","Y segunda, eso les da la oportunidad",0.18314367532730103,0.3921036124229431,-0.5048153400421143,-0.3804517090320587
+08:25.9,official,30人もの人間が　至近距離からこいつを殺すチャンスを得る,from extremely close range.,de tenerlo muy cerca para matarlo.,0.23431895673274994,0.522491455078125,-0.1467762440443039,-0.6485297083854675
+08:33.4,official,中村さん,Nakamura...,"Nakamura,",0.6106345653533936,0.6192454099655151,-0.16614890098571777,-0.13116975128650665
+08:35.4,official,暗殺は勉強の妨げにならないときにと言ったはずです,Didn't I tell you not to let assassination interfere with your studies?,dije que el asesinato no debe interferir con los estudios.,0.774875819683075,0.8820220232009888,-0.04660933092236519,0.05256337672472
+08:39.0,official,すみません,Sorry...,Perdón.,0.8576547503471375,0.9900310039520264,0.48356908559799194,0.4601154923439026
+08:40.1,official,罰として後ろで立って受講しなさい,"As punishment, go stand in the back!",Ve atrás y piensa en lo que has hecho.,0.9026659727096558,0.5807821750640869,-0.14276231825351715,-0.19998744130134583
+08:44.0,official,なんでこんな怪物がうちの担任に,Why did this creature become our teacher?,¿Por qué este ser se convirtió en nuestro profesor?,0.6171751022338867,0.4716262221336365,-0.17546959221363068,-0.24671947956085205
+08:47.0,official,どうして僕らが暗殺なんか…,Why should we have to assassinate him?,¿Y por qué debemos asesinarlo?,0.7636132836341858,0.7662740349769592,-0.02611694484949112,-0.015127573162317276
+08:49.7,official,そんな声は　この条件でかき消えた,"These cries faded with word of one final condition,",Las quejas cesaron al saber el pago por matarlo.,0.6135414838790894,0.35060590505599976,0.0325312539935112,-0.11443565785884857
+08:53.8,official,成功報酬は100億円,Success will be rewarded with ten billion yen.,Recibirán diez mil millones de yenes.,0.43896913528442383,0.43097156286239624,0.43761342763900757,0.26760661602020264
+08:57.4,official,当然の額だ,It's only right!,Es lo más justo.,0.5570400953292847,0.6239336729049683,-0.42025718092918396,0.057636626064777374
+08:59.6,official,暗殺の成功は冗談抜きで地球を救うことなのだから,A successful assassination will literally save the Earth.,"Si logran asesinarlo, habrán salvado a la Tierra.",0.801456093788147,0.7342970967292786,-0.3986402750015259,-0.27137401700019836
+09:04.6,official,幸いなことに　こいつは君たちをなめきっている,"Luckily, he doesn't think much of you.","Afortunadamente, él no los cree capaces de conseguirlo.",0.5073264837265015,0.32434210181236267,-0.6442791223526001,-0.34744060039520264
+09:08.3,official,見ろ　緑のしましまになったときは　なめている顔だ,See? Those green stripes mean he's looking down on you!,Vean. Esas rayas verdes significan que los está menospreciando.,0.7492128014564514,0.5789139866828918,-0.47893932461738586,-0.5700314044952393
+09:12.0,official,どんな皮膚だよ,What the hell kind of skin is that?!,#NAME?,0.8660654425621033,0.20480015873908997,0.29948610067367554,-0.6317651271820068
+09:13.1,official,当然でしょう,,,0.632297694683075,0.632297694683075,-0.2321794182062149,-0.2321794182062149
+09:14.7,official,国がやれない私を　君たちがやれるわけがない,"Obviously! If the government can't kill me, how could you?","Si el gobierno no pudo matarme, ¿cómo podrían hacerlo ustedes?",0.5783745646476746,0.5854544639587402,-0.2403833270072937,-0.2191733866930008
+09:18.5,official,最新鋭の戦闘機に襲われた時も,Even when they sent their cutting-edge fighter jets after me..,"Enviaron sus mejores aviones de combate detrás de mí,",0.6967441439628601,0.7114064693450928,-0.25079163908958435,-0.07848583161830902
+09:29.2,official,逆に空中でワックスをかけてやりましたよ,....I ended up giving them a coat of wax right there in midair!,y terminé dándoles una capa de cera en el aire.,0.6360152959823608,0.6759780049324036,-0.05938505753874779,-0.25587376952171326
+09:32.1,official,だからなぜ手入れする,What's with all the grooming?,Lo obsesiona la limpieza.,0.3914795517921448,0.27711427211761475,-0.2891642451286316,-0.19579380750656128
+09:34.1,official,君たちにはなめているこいつの隙をあわよくば突いてほしい,You must find a chink in his defenses and strike at it.,"Tienen que buscar un punto débil en sus defensas,",0.5861379504203796,0.3548729717731476,-0.3657532334327698,-0.34818118810653687
+09:38.9,official,人間には無害で　こいつには効く武器と弾を支給する,"You'll have weapons and ammo that won't hurt humans, but will work on him.","Tendrán armas y municionesque no dañan a los humanos, pero a él sí.",0.7131668329238892,0.7824620604515076,-0.2590649724006653,-0.269180566072464
+09:43.6,official,君たちの家族や友人には絶対秘密だ,You must keep this secret from your family and friends.,Deben guardar el secreto con su familia y amigos.,0.8546961545944214,0.7897768616676331,0.5048222541809082,0.6169076561927795
+09:47.2,official,とにかく時間がない,There's no time to lose.,No hay tiempo que perder.,0.7318045496940613,0.770187258720398,0.197440505027771,0.4739638864994049
+09:49.0,official,地球が消えれば　逃げる場所など　どこにもない,"If the Earth should disappear, we'll have nowhere left to run.","Si la Tierra desaparece, no tendremos a dónde huir.",0.8496147990226746,0.9072479009628296,0.01419093832373619,0.3311050236225128
+09:52.9,official,そういうことです,And that's about it! Now let's make the most of your one remaining year!,"Eso es todo, muchachos.",0.427312970161438,0.7450034022331238,-0.04848727211356163,0.18252550065517426
+09:54.6,official,さあ　皆さん　残された1年を有意義に過ごしましょう,,Espero que aprovechen al máximo su último año de secundaria.,0.2664185166358948,0.5041897892951965,-0.6846590042114258,0.4623686969280243
+10:02.1,official,残された時間は1年,We only have a year.,Solo tendremos un año.,0.5712820887565613,0.6371222734451294,0.19077008962631226,0.19954654574394226
+10:04.7,official,僕たちがこいつの暗殺に成功しないと,"If we don't manage to assassinate this guy,","Si no logramos asesinarlo en ese tiempo,",0.817345380783081,0.8601774573326111,0.007178849540650845,-0.12495940923690796
+10:08.3,official,地球が壊される,Earth will be history,destruirá la Tierra.,0.5536545515060425,0.8403633832931519,-0.5635733008384705,0.07561308145523071
+10:16.9,official,昼休みですね,"Ah, lunchtime!",Hora del almuerzo.,0.9124810695648193,0.893805980682373,-0.1818488985300064,-0.25068792700767517
+10:18.8,official,先生　ちょっと中国に行ってマーボー豆腐を食べてきます,I'll just pop over to China for some mapo tofu.,Creo que hoy iré a China para comer mapo tofu.,0.6975187063217163,0.7599140405654907,-0.15893903374671936,0.08933055400848389
+10:23.5,official,暗殺希望者がもしいれば　携帯で呼んでください,Any aspiring assassins are welcome to hit me up on my cell.,"Si alguien quiere intentar asesinarme, que me llame a mi celular.",0.6801857352256775,0.8243831396102905,0.19541655480861664,0.16677428781986237
+10:29.9,official,えーと　マッハ20だから,Let's see... if he's traveling at Mach 20...,"A ver, si viaja a Mach 20,",0.45945316553115845,0.5322040915489197,-0.23468592762947083,-0.42558446526527405
+10:33.0,official,マーボーの本場　四川省まで10分くらい,"...it'll take maybe ten minutes to get to Sichuan, home of mapo tofu.",tardará unos diez minutos,0.7014856338500977,0.6109257936477661,0.23518651723861694,-0.206598699092865
+10:36.7,official,確かにあんなもん　ミサイルでも落とせんわな,Guess no missile could shoot that down.,Y supongo que ningún misil logró derribarlo.,0.7493259906768799,0.5961998701095581,-0.3908901512622833,-0.5067445635795593
+10:40.5,official,しかも　あのタコ　音速飛行中にテストの採点までしてるんだぜ,"Heck, that octopus even grades tests while moving faster than sound!","No puede ser, ese pulpo iba calificando exámenes mientras volaba.",0.6741834878921509,0.749967098236084,-0.04735037311911583,-0.12101893126964569
+10:44.7,official,マジで,Seriously?!,¿En serio?,0.5617764592170715,0.7109953165054321,0.38597747683525085,0.2860048711299896
+10:46.0,official,俺なんかイラスト付きで返ってきた,"""English Quiz"" ""Perfect answer!! Double octopus!"" Mine came back with a drawing on it.",El mío viene con un dibujo suyo.,0.46531200408935547,0.5151594281196594,-0.4722951650619507,-0.4622960388660431
+10:48.5,official,てか　あいつ　何げに教えてるの　うまくない,"Don't you think he's pretty good at teaching, though?",¿No les parece que es muy bueno enseñando?,0.768085777759552,0.6370496153831482,-0.30864977836608887,-0.374075710773468
+10:51.3,official,わかる,Right? He taught me math after class and I did great on my test!,"Sí, a mí me estuvo enseñando matemáticas después de clases",0.20714426040649414,0.31733664870262146,-0.2362457811832428,-0.11462964117527008
+10:52.4,official,放課後に数学教わって　次のテストの点　よかったもん,,y me fue muy bien en mi examen.,0.11317851394414902,0.5737035870552063,-0.8481485843658447,-0.45541736483573914
+10:56.9,official,まっ　でもさ,"Yeah, but...","Pero, aun así,",0.832998514175415,0.8736405372619629,0.3574090898036957,-0.21724388003349304
+10:59.6,official,しょせん俺ら　E組だしな,...we are the E Class.,todos seguimos siendo la clase E.,0.41092807054519653,0.25750595331192017,-0.3531954884529114,-0.583912193775177
+11:02.3,official,頑張っても仕方ねぇけど,Tryin' our best won't do much.,Esforzarnos no nos servirá de mucho.,0.4892984628677368,0.5577811002731323,-0.41501617431640625,-0.1778663694858551
+11:05.1,official,そう　タコ型の超生物で暗殺のターゲット,"True, he was a super octopoid creature and our assassination target.",Sí. Esa criatura es un pulpo poderoso y nuestro objetivo de asesinato.,0.6534894108772278,0.8132744431495667,0.18295113742351532,0.023720066994428635
+11:10.1,official,なのに,but...,"Pero,",0.7345200777053833,0.844253659248352,-0.005402412265539169,0.036862459033727646
+11:11.6,official,あの先生はなぜか普通に先生している,"...for whatever reason, he does a perfectly normal job of teaching.","por alguna razón, nos está enseñando como un profesor normal.",0.7293814420700073,0.9009299278259277,0.1723291277885437,-0.1763521432876587
+11:15.9,official,僕らも同じ　即席の殺し屋であるのを除けば　普通の生徒だ,"And though we're impromptu killers, we're perfectly normal students...","Y aunque somos asesinos improvisados, somos estudiantes normales.",0.8890027403831482,0.9161830544471741,0.13097937405109406,0.3654671311378479
+11:21.8,official,けど　僕らE組は　少しだけ普通と違う,but the E Class is a little different from the rest.,Pero la clase E es bastante diferente del resto.,0.5328285694122314,0.6425095796585083,0.2944599986076355,0.5320082902908325
+11:29.1,official,おい　渚,"Hey, Nagisa.","Oye, Nagisa.",0.7722886800765991,0.7269465923309326,0.006251605227589607,-0.11203527450561523
+11:31.3,official,ちょっと付き合えよ,Come with us.,Ven con nosotros.,0.5501481294631958,0.5913771390914917,-0.06330005824565887,0.04812561348080635
+11:32.9,official,暗殺の計画　進めようぜ,It's time to put our assassination plan into action.,Pondremos en marcha nuestro plan de asesinato.,0.7945950627326965,0.865733802318573,0.26362520456314087,0.19693845510482788
+11:39.9,official,あのタコ　機嫌によって顔の色が変わるだろ,"That octopus's face changes color according to his mood, right?",Su cara cambia de color según su estado de ánimo.,0.6859196424484253,0.8639363050460815,0.32693541049957275,0.40788018703460693
+11:43.9,official,観察しとけって言ったやつ　できてるか,Did you do those observations I told you to?,¿Anotaste todo lo que observaste como te dije?,0.6570580005645752,0.7173643708229065,-0.6086552143096924,-0.5601510405540466
+11:47.2,official,一応,,,0.8615987300872803,0.8615987300872803,-0.41990238428115845,-0.41990238428115845
+11:48.8,official,余裕な時は　緑のしましまなのは知ってるよね,More or less. We know it's striped green when he's feeling confident.,Más o menos. Las rayas verdes aparecen cuando se siente confiado.,0.5619916915893555,0.6061927676200867,-0.9433256387710571,-0.8061231374740601
+11:53.3,official,生徒の解答が間違っていたら暗い紫,"""A: A"" ""K: kiha"" ""B: bara"" When we give a wrong answer, it's dark purple.","Si damos una respuesta incorrecta, él se pone morado.",0.6927968859672546,0.366074800491333,-0.7387644648551941,-0.28650665283203125
+11:57.1,official,正解だったら明るい朱色,"""A. Akiyama"" ""K: Kiyohara"" ""B: Burkleo"" A right answer makes it go bright scarlet.","Con una respuesta correcta, se pone rojo.",0.5869956016540527,0.4927082061767578,-0.5996761322021484,-0.5600627064704895
+12:00.0,official,面白いのは昼休みの後で…,But what's really interesting is after lunch..,Lo interesante es que tras el almuerzo...,0.8989197015762329,0.9182298183441162,0.08516934514045715,-0.2403779923915863
+12:02.1,official,俺は知らなくていいんだよ,I don't need to know all that.,No necesito saber todo eso.,0.733627438545227,0.7642136812210083,0.2135007381439209,0.5393041968345642
+12:05.0,official,作戦がある,"I have a plan... and when he lets his guard down the most,","Tengo un plan, y en el momento en que baje la guardia,",0.4562784731388092,0.6967240571975708,-0.39824339747428894,-0.44448432326316833
+12:06.8,official,あいつが一番油断してる顔の時に　お前がやりに行け,you are going to carry it out.,tú lo llevarás a cabo.,0.31084224581718445,0.4816986918449402,-0.9101682305335999,-0.7681587934494019
+12:11.6,official,ぼ…僕が,M-Me? But...,¿Pero por qué yo?,0.7037534713745117,0.6085749268531799,-0.20685938000679016,-0.22458207607269287
+12:13.2,official,でも…,,,0.6064406037330627,0.6064406037330627,-0.1194068044424057,-0.1194068044424057
+12:13.8,official,いい子ぶってんじゃねえよ,Don't be such a goody-goody. We're the E Class,"No te hagas el bueno, Nagisa. También eres de la clase E.",0.4937966465950012,0.6358662843704224,-0.857395589351654,-0.5793450474739075
+12:16.0,official,俺らはE組だ,,,0.6056385040283203,0.6056385040283203,-0.44899001717567444,-0.44899001717567444
+12:17.9,official,進学校で有名なこの学校のレベルについていけなかった脱落組,the misfits that can't keep up at this famous prep school,Los inadaptados que no pueden seguir el ritmo de esta prestigiosa escuela.,0.6731491088867188,0.7133078575134277,-0.5234938859939575,-0.6131791472434998
+12:23.0,official,通称　エンドのE組,They call us... the End Class.,Nos llaman la clase End.,0.5443214774131775,0.6490108370780945,-0.45715293288230896,-0.5568686127662659
+12:27.7,official,毎日山の上の隔離校舎まで通わされて,"""Old Campus"" Every day, they send us to this isolated","A diario nos envían a este campus aislado en esta montaña,",0.5275564789772034,0.7913389205932617,-0.6272860169410706,-0.27796393632888794
+12:31.3,official,あらゆる面でカスみたいに差別されてる,"mountaintop campus, discriminating against us like we're scum.",y todos nos discriminan como si fuéramos basura.,0.5855837464332581,0.7649695873260498,-0.31786051392555237,-0.13591067492961884
+12:35.2,official,落ちこぼれの俺らが100億円稼ぐチャンスなんて,When would us losers ever in our lives get another chance,¿Crees que unos perdedores como nosotros,0.5722619295120239,0.55344557762146,-0.43224388360977173,-1.000755786895752
+12:38.7,official,この先　一生回ってこねえぞ,to score alcool ten billion yen?,tendremos muchas oportunidades de conseguir diez mil millones de yenes?,0.10761993378400803,0.14146237075328827,-1.2715693712234497,-0.9030914902687073
+12:41.9,official,抜け出すんだよ　このクソみてえな状況から,We're gonna make it--make it through this crappy situation...,Pero saldremos de esta mala situación a como dé lugar.,0.5214294195175171,0.5747417211532593,-0.500482439994812,-0.6048828363418579
+12:46.4,official,たとえ　どんな手を使ってもな,by any means necessary.,Con esto. Y tú vas a hacerlo.,0.4654912054538727,0.5066412687301636,0.0697333887219429,-1.0184530019760132
+12:51.0,official,しくじんなよ　渚君,"Just don't screw up, Nagisa.","No lo arruines, Nagisa.",0.5682809352874756,0.613922119140625,-0.4270056188106537,-1.054397702217102
+12:54.7,official,渚のやつ　E組行きだってよ,I heard that Nagisa is headed for E Class.,Eso es terrible. Pobre.,0.34662294387817383,0.2845768332481384,-0.2414286732673645,-0.7119581699371338
+12:58.9,official,終わったな　あいつ,"Ooh. Well, that's it for him.",,0.6955193877220154,0.5295358896255493,-0.1736663281917572,-0.5911746025085449
+13:01.2,official,俺　あいつのアドレス消すわ,I'm gonna delete his contact info.,Voy a borrar su información de contacto.,0.8297301530838013,0.7484957575798035,0.08793893456459045,0.21154296398162842
+13:03.5,official,俺も,"Me, too.",Y yo.,0.886642575263977,0.8708263039588928,0.5225609540939331,0.055778868496418
+13:04.4,official,同じレベルだと思われたくないし,Can't have people thinking we're on the same level!,No quiero que crean que estamos en el mismo nivel.,0.7075836062431335,0.858558714389801,0.17804430425167084,0.3111479878425598
+13:15.9,official,ただ今　帰りました,I'm back!,Ya estoy de regreso.,0.6995733976364136,0.8062232732772827,-0.22716760635375977,0.3165700137615204
+13:17.4,official,お…　おかえり　先生,"H-Hello, sir...","Bienvenido, profesor.",0.6807346940040588,0.7831947803497314,0.1454932540655136,0.28342097997665405
+13:20.1,official,どうしたの　そのミサイル,What's with the missile?,¿Por qué trae ese misil?,0.9525005221366882,0.6271911859512329,0.22496354579925537,-0.14203676581382751
+13:22.2,official,お土産です,A souvenir.,Es un recuerdo de las Fuerzas de Autodefensa,0.8431150913238525,0.3484625816345215,0.0630425363779068,-0.18624979257583618
+13:23.4,official,日本海で　自衛隊に待ち伏せされまして,The Self-Defense Force was waiting for me in the Sea of Japan.,en el Mar del Japón.,0.872776448726654,0.7673194408416748,-0.020943861454725266,-0.6355178952217102
+13:26.5,official,た…　大変ですね　ターゲットだと,"I-It must be terrible, being a target.",Debe ser terrible ser un objetivo.,0.6738373637199402,0.5629948973655701,-0.3967168927192688,-0.6885151863098145
+13:29.4,official,いえいえ　皆から狙われるのは力を持つ者の証しですから,Not at all. You know you're powerful when everyone has it in for you.,De ningún modo. Sabes que eres poderoso cuando todo el mundo quiere eliminarte.,0.6442878246307373,0.6609209775924683,-0.30290544033050537,0.007157974876463413
+13:34.8,official,さっ　5時間目を始めますよ,Now let's begin fifth period.,"Ven, ya va a comenzar el quinto periodo.",0.6634616851806641,0.7515081167221069,0.1784140169620514,0.17663496732711792
+13:41.9,official,はい,"Yes, sir.",Sí.,0.8588217496871948,0.9837301969528198,0.3573549687862396,0.5430672764778137
+13:43.9,official,先生には　分からないよね,He doesn't understand.,Él nunca podría entenderlo.,0.5709109902381897,0.42758768796920776,-0.16591592133045197,0.22966989874839783
+13:46.6,official,みんなから　暗殺のターゲットにされるってことは,"If you're everyone's assassination target,","Si todos están intentando asesinarte, eso significa",0.8563591837882996,0.7905197143554688,-0.41054150462150574,-0.38092005252838135
+13:49.9,official,裏を返せば　みんなに力を認められているってことだ,that means they all acknowledge your power.,que todos reconocen que eres muy poderoso.,0.7201845049858093,0.6900794506072998,0.1774953305721283,-0.41740015149116516
+13:55.1,official,分からないよね　そんな怪物に,A creature like that wouldn't understand what it's like,Una criatura así,0.6623784303665161,0.6760227084159851,-0.3048417568206787,-0.6799802780151367
+13:58.3,official,期待も警戒もされなくなった　認識さえされない人間の気持ちなんて…,"being unworthy of anyone's expectations or fear, or even their recognition...","no entendería cómo es que nadie espere nada de ti, y que no reconozcan tu existencia.",0.6983829736709595,0.6048844456672668,-0.41009101271629333,-0.3194792568683624
+14:06.5,official,お前のおかげで　俺の評価まで　落とされたよ,"Thanks to you, my evaluation is in the gutter!","Gracias a ti, mi evaluación resultó ser muy mala.",0.41790515184402466,0.5029374957084656,-0.5347371697425842,-0.21031714975833893
+14:10.3,official,唯一　よかったのは　もうお前を見ずに済むことだ,The only good thing about it is not having to see you anymore.,Lo único bueno de todo esto es que ya no tendré que volver a verte.,0.793623149394989,0.7971605062484741,-0.04470621049404144,-0.09725204110145569
+14:19.6,official,殺せるかもしれない,I might just be able to kill him.,Tal vez pueda matarlo.,0.8254801034927368,0.913801372051239,-0.40048590302467346,-0.09895078837871552
+14:21.6,official,だって　この先生にも僕の姿は　見えてないから,"After all... this teacher can't see me, either.","Después de todo, creo que este profesor tampoco va a ser capaz de verme.",0.8480948805809021,0.8030168414115906,-0.2282923310995102,-0.3052904009819031
+14:36.5,official,はい　それでは　お題に沿って短歌を作ってみましょう,All Along all right then,"Bien, quiero que compongan un poema corto que tenga que ver con nuestro tema.",0.478080689907074,0.699750542640686,-0.7540817260742188,0.37973475456237793
+14:41.6,official,ラスト７文字を「触手なりけり」で締めてください,"The final line should be ""was tentacles all along.","Al final debe decir: unos hermosos tentáculos"".",0.3677910268306732,0.4253130555152893,-0.7366328239440918,-0.5066631436347961
+14:46.6,official,「触手なりけり」ですか,"Huh? Was tentacles all along""?""","¿Qué? ¿Unos hermosos tentáculos""?",0.4624941945075989,0.574200451374054,-0.8615161776542664,-0.4130108952522278
+14:48.9,official,はい　書けた人は先生の所へ持ってきなさい,"Indeed! When you're finished, bring them to me.",Sí. Entréguenmelo en cuanto hayan terminado.,0.522435188293457,0.5306041836738586,-0.0037852153182029724,-0.02902425453066826
+14:52.7,official,チェックするのは　文法の正しさと触手を美しく表現できたか,I'm looking for proper grammar and whether you've conveyed the tentacle's beauty.,Estaré esperando una gramática adecuada y que logren transmitir la belleza de los tentáculos.,0.6214731335639954,0.6587639451026917,-0.002900185063481331,-0.11698448657989502
+14:58.2,official,例文です,An example:,Por ejemplo:,0.6834293007850647,0.7033607363700867,0.47502392530441284,0.480032354593277
+14:59.8,official,花さそふ　嵐の庭の雪ならではえゆくものは触手なりけり,"Not the storm of garden's snow of flowers moving on But sprouting there instead was tentacles all along.""","No era la tormenta de nieve en el jardín ni las flores en movimiento Lo que brotaba ahí eran tentáculos.""",0.7685596942901611,0.7470865249633789,-0.9730036854743958,-1.0588678121566772
+15:08.2,official,「触手だったのだなぁ」って…,"""It was tentacles""? Really?",¿Y qué tienen de hermosos unos tentáculos?,0.6097190380096436,0.3074110448360443,-0.3965733051300049,-0.5894390344619751
+15:10.5,official,できた者から　今日は　帰ってよし,"Once you're done, you're free to go home!",Cuando terminen pueden irse a casa.,0.6670985221862793,0.7002252340316772,-0.09948091208934784,-0.1511087566614151
+15:13.3,official,そんなの思い付かないよ,How are we gonna write about that?,¿Cómo vamos a escribir sobre eso?,0.41155749559402466,0.39111441373825073,-0.8870930075645447,-0.8145519495010376
+15:15.3,official,ほーら　ほら　ヌルヌル　素晴らしい句が湧いてきませんか,"Now, now--aren't any marvelously slithery phrases coming to mind?","Veamos, ¿no les vienen a la mente ideas maravillosas?",0.6101272106170654,0.5228255987167358,-0.2176065742969513,-0.24211642146110535
+15:19.3,official,ヌルヌルヌルヌルヌルヌル…,Slither slither slither slither!,"Piensen, piensen, piensen, piensen, piensen, piensen...",0.566902756690979,0.7424468994140625,-1.1188856363296509,-0.8492180109024048
+15:21.9,official,ヌルヌル　うるせえよ,Enough with the slithering! Slither slither slither slither!,¡Ya basta!,0.5621343851089478,0.6561368107795715,-0.5738555192947388,-0.19774527847766876
+15:23.5,official,先生　質問,I have a question!,"Una pregunta, profesor.",0.3529166877269745,0.7280271053314209,0.2757117748260498,0.4671059548854828
+15:26.1,official,何ですか　茅野さん,"Ah--yes, Kayano?","Dime, Kayano.",0.5769150257110596,0.6555906534194946,-0.1307794600725174,-0.3158368170261383
+15:28.1,official,いまさらなんだけどさ　先生の名前　何ていうの,"This is a weird question to ask now, but... what's your name?","Tal vez sea raro preguntarlo a estas alturas, pero ¿cómo se llama?",0.5626751780509949,0.5907461643218994,0.030469141900539398,-0.03624635189771652
+15:32.9,official,他の先生と区別するとき不便だよ,How else can we tell what teacher were talking about?,Debemos poder llamarle de alguna manera.,0.657885730266571,0.18892723321914673,-0.4111579358577728,-0.6259258985519409
+15:35.8,official,名前…　ですか,My... name?,¿Quieren saber mi nombre?,0.7729742527008057,0.6811825633049011,0.2347354143857956,0.41823020577430725
+15:38.0,official,そういやぁ…,Now that you mention it...,Tiene razón.,0.5658854246139526,0.6317962408065796,0.11923235654830933,0.1444825828075409
+15:39.2,official,名乗ってないね,...he never did tell us.,Nunca nos lo dijo.,0.44008997082710266,0.4595959186553955,-0.5276545882225037,-0.3125949800014496
+15:41.9,official,名乗るような名前はありませんねぇ,Hmm... I don't really have the kind of name you tell people.,No tengo algo parecido a un nombre.,0.7900338768959045,0.8193830251693726,-0.4753253757953644,-0.8174673318862915
+15:44.4,official,何なら　皆さんで　付けてください,Go ahead and give me one.,¿Por qué no me ponen uno ustedes?,0.6028971076011658,0.43917393684387207,-0.26743873953819275,-0.5680736899375916
+15:46.8,official,付けていいんだ,You sure about that?,¿Está seguro?,0.43475446105003357,0.457856684923172,-0.4597092866897583,-0.5138532519340515
+15:48.1,official,でも　今は　課題に集中ですよ,"But right now, focus on your schoolwork.","Pero ahora, concéntrense en la tarea que les pedí.",0.6786348819732666,0.7645575404167175,0.5152838826179504,0.45409414172172546
+15:50.9,official,はーい,"Yes, sir",Claro.,0.6734355092048645,0.805034339427948,0.24680936336517334,0.2563128173351288
+15:52.3,official,では　先生は　その間　一休みを,"Meanwhile, I'll just take a little break.","Mientras tanto, yo me tomaré un pequeño descanso.",0.5945001244544983,0.6433265805244446,0.20499680936336517,0.26295143365859985
+16:03.0,official,おっ　もうできましたか　渚君,"Finished already, Nagisa?","¿Ya terminaste, Nagisa?",0.6249305009841919,0.7650770545005798,0.08264181017875671,0.38470232486724854
+16:12.4,official,昼食の後で　僕らが眠くなるころに,"After lunch, right around the time we get sleepy,","Después del almuerzo le da algo de sueño,",0.9209188222885132,0.8590085506439209,0.14076641201972961,-0.7028785347938538
+16:15.2,official,先生の顔が薄いピンクになるときがある,his face sometimes goes light pink.,y su cara se vuelve de color rosa claro.,0.7024930715560913,0.7505879402160645,0.37172216176986694,0.2852684557437897
+16:19.5,official,茅野の質問への反応も少し遅れた,"He was a little slow responding to Kayano's question, too.",También tardó en responder a la pregunta de Kayano.,0.6638157367706299,0.685325562953949,0.3993246555328369,0.37294700741767883
+16:22.8,official,たぶん　先生も一番　油断する時間なんだ,That might be when he's at his most vulnerable.,Eso podría ser cuando está en su punto más vulnerable.,0.30455806851387024,0.28309375047683716,-0.09331274032592773,0.015589426271617413
+16:29.4,official,この進学校で　落ちこぼれた僕らは思う,"Us prep-school failures are always thinking,",Todos los fracasados de la escuela siempre pensamos:,0.574381947517395,0.6045907139778137,-0.41440027952194214,-0.4703778922557831
+16:33.4,official,どこかで見返さなきゃ,"""We gotta get back at 'em somehow.""","""Tenemos que salir de aquí"".",0.6264424324035645,0.5318463444709778,-0.33827054500579834,-0.31039202213287354
+16:35.4,official,やればできると　親や　友達や　先生たちを,You can do it if you try. That's what our parents and friends and teachers say.,"""Podemos lograrlo"". Demostrarlo a nuestros padres, amigos y maestros.",0.8440037965774536,0.8560338020324707,-0.21981848776340485,0.053529322147369385
+16:41.2,official,やればできると…,You can do it if you try.,Podemos conseguirlo.,0.7439140677452087,0.651594340801239,-0.08296409249305725,0.13954994082450867
+16:46.9,official,言ったでしょう もっと　工夫を…,I told you: be more inventive!,Les dije que fueran más creativos.,0.7455899715423584,0.6531007289886475,0.10281534492969513,0.19857527315616608
+16:50.1,official,認めさせなきゃ…,We have to prove ourselves...,Debemos demostrarlo.,0.5504395961761475,0.5185611844062805,-0.09509269893169403,0.2877369523048401
+16:52.9,official,どんな手を使っても…,...by any means necessary.,A como dé lugar.,0.634199857711792,0.6712900996208191,0.07037931680679321,-1.0625190734863281
+17:02.6,official,しゃーっ,Yesss!,-¡Sí! ¡Lo logramos!,0.685615062713623,0.6034636497497559,0.23244431614875793,0.27547112107276917
+17:03.8,official,やったぜー,We did it!,,0.6274900436401367,0.7831536531448364,0.08466795086860657,-0.5751715898513794
+17:04.9,official,100億円いただき,Ten billion yen! Cha-ching! Nagisa!,,0.5042888522148132,0.3822242319583893,-0.4168661832809448,-0.552274227142334
+17:05.0,official,渚,,-Nagisa. -¡Por fin!,0.7426851391792297,0.6307164430618286,0.03414935618638992,-0.43494707345962524
+17:07.3,official,ざまあみろ,Serves you right!,,0.6474286913871765,0.755698561668396,-0.9606282114982605,-0.6120215058326721
+17:08.4,official,寺坂　何やったんだ,Terasaka! What have you done?!,#NAME?,0.6940606832504272,0.22992722690105438,0.033567823469638824,-0.9823786616325378
+17:10.9,official,こいつも自爆テロは予想してなかったろ,Bet he never expected a suicide bomber!,Nunca esperó a un terrorista suicida.,0.6941525340080261,0.5323675870895386,-0.18395492434501648,-0.35479751229286194
+17:13.3,official,ちょっと　渚に　何　持たせたのよ,Hey! What'd you give Nagisa?!,"Oye, ¿qué le diste a Nagisa?",0.5181142687797546,0.6996700167655945,-0.17268404364585876,-0.22877909243106842
+17:16.8,official,おもちゃの手榴弾だよ,Huh? A toy grenade.,Era una granada de juguete.,0.9091575741767883,0.7474550008773804,-0.1006547063589096,-0.26191139221191406
+17:19.2,official,ただし　火薬を使って威力を上げてある,But I beefed it up with gunpowder,Pero se me ocurrió llenarla con pólvora.,0.6203200817108154,0.6569039821624756,-0.10140769183635712,-0.272153377532959
+17:22.7,official,300発の対先生弾がすげえ速さで飛び散るようにな,so it'd shoot three hundred anti-Sensei bullets at crazy-high speed!,"Así dispararía 300 balines a gran velocidad para eliminar al profesor.,",0.7389959096908569,0.6978394985198975,-0.275256484746933,-0.3879322111606598
+17:27.9,official,人間が死ぬ威力じゃねえよ,They're not strong enough to kill anybody.,Pero eso no mataría a una persona.,0.4546595513820648,0.6807955503463745,-0.39042186737060547,-0.4520433843135834
+17:30.4,official,俺の100億で　治療費くらい…,My ten billion yen'll cover his medical bi--,Con el dinero cubriré sus gastos mé...,0.5696202516555786,0.6480357646942139,-0.2407292127609253,-0.33333316445350647
+17:35.6,official,無傷　やけど一つ負ってねえのか,He's not hurt? Not even a single burn?,¿No está herido? ¿No tiene ni una quemadura?,0.6282663941383362,0.834500789642334,-0.5261443853378296,-0.23523908853530884
+17:38.6,official,それに　何だ　この膜,And... this membrane...,¿Y qué es esta membrana?,0.8748233318328857,0.9105733036994934,-0.3720197379589081,0.059003815054893494
+17:40.9,official,タコの死体に　つながっ…,is attached to that octopus's corpse?,¿Está unida...?,0.5925914645195007,0.4124481976032257,-0.3665265440940857,-0.6389081478118896
+17:41.8,official,実は　先生　月に１度ほど　脱皮をします,"As it happens, I shed my skin once a month.",Deben saber que mudo de piel una vez al mes.,0.5751280784606934,0.6268069744110107,0.18752145767211914,0.016684699803590775
+17:45.9,official,脱いだ皮を渚君にかぶせて守りました,I protected Nagisa there by covering him with my old skin.,Protegi a Nagisa cubriendolo con mi piel vieja.,0.6190289855003357,0.6286814212799072,-0.3423592746257782,-0.3649653494358063
+17:51.5,official,月1で使える　先生の奥の手です,It's my once-monthly ace in the hole.,Es un as bajo la manga que solo puedo usar una vez al mes.,0.37470659613609314,0.4943367838859558,-0.6792818903923035,-0.4217912256717682
+17:58.2,official,寺坂　吉田　村松,"Terasaka, Yoshida, Muramatsu.","Terasaka, Yoshida, Muramatsu.",0.7486397624015808,0.7486397624015808,-0.2979409098625183,-0.2979409098625183
+18:03.8,official,先生の顔は　顔色を見るまでもなく…,You don't have to look at the color of his face to know.,No hacía falta mirar el color de su cara para saber cómo estaba.,0.3613065779209137,0.470685750246048,0.008033808320760727,0.2675737142562866
+18:12.8,official,真っ黒,Pitch black! He is furious!,Estaba negro. Furioso.,0.5534839630126953,0.862942099571228,-0.6256935000419617,-0.07134813070297241
+18:14.6,official,ど怒りだ,,,0.6733911037445068,0.6733911037445068,-0.46532106399536133,-0.46533259749412537
+18:15.7,official,首謀者は　君ら３人だろ,"You three...you're behind this, yes?",¿Ustedes tres...son los responsables de esto?,0.7616757154464722,0.7783890962600708,-0.3822634518146515,0.10197477042675018
+18:19.6,official,いっ　いや…,N-No!,No.,0.8044813871383667,0.8661677837371826,0.4771152436733246,-0.17339743673801422
+18:20.8,official,渚が勝手に…,It was all Nagisa's idea!,Fue idea de Nagisa.,0.4131154716014862,0.3663826584815979,-0.03137189894914627,0.0608331598341465
+18:29.1,official,いなく…,He's gone!,¿Qué?,0.37926697731018066,0.6366738677024841,-0.41199812293052673,-0.30008286237716675
+18:34.0,official,俺らんちの表札,The nameplates off our houses?!,¿Las placas de nuestras casas?,0.5220257043838501,0.5011187791824341,-0.38049179315567017,-0.6290273070335388
+18:36.2,official,政府との契約ですから　先生は　決して君たちに危害は加えない,My agreement with your government says I won't harm you.,"Mi acuerdo con su gobierno me prohíbe hacerles daño a los estudiantes.""",0.5992938280105591,0.6085543036460876,0.10140947997570038,0.43137452006340027
+18:41.7,official,が　しかし…,But,"Pero, cuidado,",0.8325592279434204,0.7902248501777649,-0.181619793176651,0.19358456134796143
+18:44.5,official,次　また　今のような方法で暗殺に来たら,if you try another assassination like that one…,si intentan otro asesinato como este,0.7870688438415527,0.8749657869338989,0.03754737973213196,-0.30510276556015015
+18:49.2,official,君たち以外には何をするか分かりませんよ,...I might just harm someone else.,podria dañar a alguna otra persona.,0.3562135398387909,0.2893972396850586,-0.36642831563949585,-0.5582568645477295
+18:53.2,official,家族や友人…　いいや,"Your family, your friends...","Familia, amigos.",0.8742405772209167,0.8552142381668091,-0.19333715736865997,0.024940330535173416
+18:56.3,official,君たち以外を地球ごと消しますかね,Or I could wipe out the whole planet apart from you.,"O podria eliminar todo el planeta, excepto a ustedes.",0.7938758730888367,0.888260543346405,-0.1446746587753296,-0.08592963218688965
+19:01.6,official,5秒間で　皆　悟った,"Five seconds, and we all knew:",En cinco segundos entendimos todo.,0.9015992879867554,0.8997421264648438,-0.1478055864572525,0.5147973895072937
+19:04.6,official,地球の裏でも　逃げられないと,There was no running to the ends of the Earth for us.,No teníamos manera de escapar.,0.5965138673782349,0.5404625535011292,-0.5598896741867065,0.051753249019384384
+19:08.0,official,どうしても逃げたければ,If we really wanted to run..,"Si queríamos salir de esto,",0.5221555829048157,0.7424869537353516,-0.4598645865917206,-0.25528430938720703
+19:12.3,official,この先生を殺すしか…,...all we could do... was kill him!,debiamos matar al profesor.,0.6077700257301331,0.827669620513916,0.13291354477405548,0.043139196932315826
+19:16.7,official,何なんだよ　てめえ　迷惑なんだよ,"What the hell's your deal, anyway? You're just a giant pain!",¿Cuál es su problema? No es más que un fastidio.,0.6503415107727051,0.739325761795044,-0.6155089139938354,-0.5571610331535339
+19:20.1,official,いきなり来て　地球　爆破とか　暗殺しろとか,"Showing up all ""I'm gonna blow up Earth"" and ""Assassinate me""!",Dijo que iba a destruir la Tierra y que lo asesináramos.,0.6381549835205078,0.629254162311554,-0.5602359175682068,-0.6596801280975342
+19:23.5,official,迷惑なやつに　迷惑な殺し方して　何が悪いんだよ,What's so wrong with using an annoying method to kill an annoying guy?!,¿Es malo usar medidas desesperadas en una situación desesperada?,0.6246618032455444,0.3862166702747345,0.001837538555264473,-0.14785946905612946
+19:28.0,official,迷惑　とんでもない,Annoying? Hardly.,¿Qué hay de malo? Absolutamente nada.,0.6610748171806335,0.7121296525001526,0.11491172015666962,-0.08934159576892853
+19:30.2,official,君たちのアイデア自体は　すごくよかった,Your idea itself was a very good one.,"De hecho, tu idea fue realmente muy buena.",0.9422861933708191,0.9554860591888428,0.44841042160987854,0.5946778655052185
+19:33.2,official,特に　渚君,"Especially you, Nagisa.",Te felicito.,0.7576610445976257,0.5352168679237366,0.11717985570430756,-0.1434142142534256
+19:34.9,official,君の肉薄までの自然な体運びは100点です,The way you carried yourself so naturally on your approach gets full marks.,Fue excelente la forma tan natural en que te acercaste a mí.,0.5166165828704834,0.3391803205013275,-0.32129424810409546,-0.23790201544761658
+19:38.9,official,先生は　見事に　隙を突かれました,You made it right through the chink in my defenses.,Gran trabajo al tomarme desprevenido.,0.21748746931552887,0.40801310539245605,-0.5682783126831055,-0.8557581305503845
+19:41.9,official,ただし,However!,"Sin embargo,",0.7478716373443604,0.8222899436950684,0.08042752742767334,0.030759692192077637
+19:43.5,official,寺坂君たちは　渚君を,"None of you looked out for Nagisa,",a ninguno le preocupó Nagisa.,0.20265571773052216,0.06717655807733536,-0.6643631458282471,-0.794508695602417
+19:45.9,official,渚君は　自分を大切にしなかった,not even Nagisa himself.,Ni siquiera él se preocupó por sí mismo.,0.44953447580337524,0.5081248879432678,-0.5417865514755249,-0.11117972433567047
+19:49.4,official,そんな生徒に暗殺する資格はありません,Students like that aren't fit to assassinate anyone.,Estudiantes así no son aptos para asesinar a nadie.,0.8834555745124817,0.9210009574890137,0.061706144362688065,0.0796779990196228
+19:53.1,official,人に笑顔で胸を張れる暗殺をしましょう,We need an assassination worth smiling about--one to be proud of!,Necesitamos un asesinato del que estén orgullosos.,0.7893524169921875,0.7554142475128174,-0.15108074247837067,-0.2940363883972168
+19:56.3,official,君たち　全員　それができる力を秘めた有能なアサシンだ,You're all capable assassins who have that power within you.,Sé que son asesinos capaces con gran poder en su interior.,0.7369751930236816,0.399703711271286,0.3010523319244385,-0.07217802107334137
+20:01.7,official,ターゲットである先生からのアドバイスです,Some advice from your teacher and your target.,Es un consejo de su profesor-objetivo.,0.8776554465293884,0.8381050229072571,0.14724726974964142,-0.4948473274707794
+20:06.3,official,マッハ20で怒られてうねる触手で褒められた,"Chewed out at Mach 20, then praised with waving tentacles...","Primero nos regaña a Mach 20, y luego nos elogia complacido.",0.5860568881034851,0.48927056789398193,-0.5950629115104675,-0.6962054371833801
+20:11.5,official,この異常な教育が　僕は　普通に　うれしかった,This unusual education made me pretty happy.,Esta educación inusual me ha hecho sentir muy feliz.,0.9258780479431152,0.9205463528633118,0.23296673595905304,0.32662472128868103
+20:16.3,official,この異常な先生は僕らのことを　正面から見てくれたから,All because this unusual teacher was actually looking at us head-on.,"Porque este profesor, aunque peculiar, siempre nos mira de frente.",0.8769635558128357,0.7926022410392761,0.07282917201519012,-0.03719256445765495
+20:30.8,official,あなたの…,If you...,Si pudieras...,0.7072442770004272,0.6184201836585999,-0.7575673460960388,-0.11202193796634674
+20:33.3,official,あなたの時間をくれるなら,"If you would give your time,","Si pudieras regalarles tu tiempo,",0.8524467945098877,0.8274571895599365,-0.25961512327194214,0.424236923456192
+20:36.3,official,あの子たちを教えてあげて,go teach those children.,enséñales a esos niños.,0.7814931273460388,0.8550156354904175,-0.07653965055942535,0.06104624271392822
+20:40.8,official,なんて　すてきな触手…,What splendid tentacles...,Qué espléndidos tentáculos.,0.638861894607544,0.7850382328033447,0.1657698154449463,0.23777170479297638
+20:43.7,official,この手なら　きっと　あなたはすてきな教師に…,With hands like these... I'm sure you'll be a splendid teacher.,"Con estas manos, estoy segura de que serías un gran profesor.",0.8788729310035706,0.8707926273345947,0.10739956796169281,-0.221164733171463
+20:51.0,official,さて　問題です　渚君,"Here's a question for you, Nagisa:","Hay algo que quiero preguntarte, Nagisa.",0.5868678092956543,0.5318217873573303,0.144247367978096,0.27793246507644653
+20:53.8,official,先生は　殺される気などみじんもない,I have not the slightest intention of being killed.,No tengo la menor intención de ser asesinado.,0.5324025750160217,0.6003651022911072,-0.24068349599838257,-0.2376699447631836
+20:57.0,official,皆さんと　来年　3月までエンジョイしてから,"I will enjoy my time with you all until next March,","Estaré con ustedes hasta marzo,",0.7095363140106201,0.809320330619812,-0.08583073318004608,-0.26880329847335815
+20:59.5,official,地球を爆破です,and then blow Earth up.,pero después destruiré la Tierra.,0.7932722568511963,0.7255299687385559,-0.32197102904319763,-0.153883695602417
+21:02.1,official,それが嫌なら君たちは　どうしますか,"If you don't like it, what are you going to do about it?",¿Qué harás si quieres evitar que eso ocurra?,0.7564961314201355,0.7133863568305969,0.23110519349575043,0.5819161534309387
+21:06.6,official,暗殺なんて　したことないし,"We've never assassinated anyone before,",Nunca hemos asesinado a nadie.,0.7794055342674255,0.7102096676826477,0.03267526999115944,0.1824856400489807
+21:09.3,official,僕らには　他に　すべきことがたくさんある,and there's plenty of other stuff we should be doing.,Y todavía nos quedan muchas otras cosas por hacer.,0.9232521057128906,0.8674762845039368,0.5022690892219543,0.7581289410591125
+21:14.2,official,けど　思った,But you know...,"Pero creo que,",0.5630546808242798,0.7690845727920532,-0.24505925178527832,-0.3116232752799988
+21:16.7,official,この先生なら　殺意さえも受け止めてくれるって,I think this teacher might even accept my bloodlust.,este profesor incluso podría aceptar mi sed de sangre.,0.6287049055099487,0.6097037196159363,-0.2916092872619629,-0.27387920022010803
+21:21.2,official,地球を爆破されるその前に　先生を殺します,Before you destroy Earth... I'll kill you.,"Antes de que destruya la Tierra, yo lo mataré.",0.6996856927871704,0.7294196486473083,-0.26112136244773865,-0.2602740228176117
+21:27.4,official,ならば　今　やってみなさい,Then do it now!,¿Y qué estás esperando?,0.7597380876541138,0.4510622024536133,0.33388811349868774,-0.1927632838487625
+21:29.4,official,殺せた者から　今日は帰ってよし,"Once you've killed me, you're free to go home!",Podrán irse si me matan.,0.7414085865020752,0.5617267489433289,-0.3418710231781006,-1.0808966159820557
+21:32.7,official,んな簡単に…,"Just like that, huh?",Como si fuera fácil.,0.5292844176292419,0.8363672494888306,0.15566714107990265,0.32543715834617615
+21:33.8,official,殺せるわけねえだろ,You know we can't kill you!,Sabe que no podemos.,0.7668690085411072,0.3824649453163147,-0.8798330426216125,-0.8425346612930298
+21:35.9,official,僕らは　殺し屋,We are killers. And our target,Somos asesinos y nuestro objetivo:,0.88454270362854,0.8345885276794434,-0.16650107502937317,0.06648958474397659
+21:37.9,official,ターゲットは　先生,is our teacher.,el profesor.,0.7154549360275269,0.8111760020256042,-0.49517086148262024,-0.4850058853626251
+21:40.9,official,ふきふき　ふきふき,"Wipe, wipe, wipe it clean! Even if we shot him now...","-Limpiar, limpiar, limpiar. -Si le disparamos ahora,",0.3243415355682373,0.7160919308662415,-0.8943746089935303,-1.1826103925704956
+21:42.6,official,今　撃っても…,we'd just be polished up like those nameplates.,acabaríamos pulidos como esas placas.,0.30872923135757446,0.3891770541667938,-1.1113362312316895,-0.9933767914772034
+21:43.7,official,表札と一緒に手入れされる…,,,0.5747498869895935,0.5747498869895935,-0.3590029180049896,-0.3589994013309479
+21:46.0,official,帰れねえ…,We're never going home!,No saldremos nunca.,0.3471481204032898,0.2878834009170532,-0.3039875626564026,-0.9125595092773438
+21:48.1,official,殺せない先生か…,An unkillable teacher...,"Invencible en japonés es ""koro"".",0.6376223564147949,0.19261977076530457,-0.4010661840438843,-0.7310850620269775
+21:50.8,official,殺せない…　ころ…,"""Korosenai""... ""koro""","Y profesor, ""sensei"".",0.504402756690979,0.2532353699207306,-0.8493080735206604,-0.8407674431800842
+21:54.2,official,殺せんせーは,"Oh! How about ""Koro Sensei""?",Koro-sensei. Si.,0.43508994579315186,0.3365441560745239,-0.545160174369812,-0.7308223843574524
+21:56.3,official,殺せんせー,Koro Sensei?,¿Koro-sensei?,0.19083407521247864,0.303973525762558,-0.5641160607337952,-0.6387222409248352
+21:59.8,official,殺せんせーと　僕らの暗殺教室,"It's us and Koro Sensei, in our assassination classroom.","Koro-sensei y nosotros, en nuestra clase de asesinato.",0.7486835718154907,0.7062708735466003,-0.5234440565109253,-0.6518408060073853
+22:05.0,official,始業のベルは　明日も鳴る,"Another day, another class bell rings.",Suena la campana y empieza la clase.,0.6259971857070923,0.6113480925559998,-0.4566369652748108,0.06369346380233765
